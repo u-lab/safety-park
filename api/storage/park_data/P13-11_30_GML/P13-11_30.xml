@@ -1,0 +1,4657 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+<gml:description>国土数値情報（都市公園）データ P13-11_30.xml</gml:description>
+<gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+    <gml:lowerCorner>33.48205372 135.10037275</gml:lowerCorner>
+    <gml:upperCorner>34.36901223 136.00274502</gml:upperCorner>
+    <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+    <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Point gml:id="pt1">
+  <gml:pos>34.18178887 135.17340819</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt2">
+  <gml:pos>34.16659532 135.19045306</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt3">
+  <gml:pos>34.22859728 135.14377325</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt4">
+  <gml:pos>34.25228189 135.10838936</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt5">
+  <gml:pos>34.25584498 135.10182999</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt6">
+  <gml:pos>34.24744401 135.12498274</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt7">
+  <gml:pos>34.24219328 135.13716443</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt8">
+  <gml:pos>34.20335439 135.21847256</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt9">
+  <gml:pos>34.31336005 135.53905982</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt10">
+  <gml:pos>34.23012637 135.16835760</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt11">
+  <gml:pos>34.22112060 135.16702500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt12">
+  <gml:pos>34.22172118 135.16310164</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt13">
+  <gml:pos>34.22665321 135.16135295</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt14">
+  <gml:pos>34.23123988 135.16287369</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt15">
+  <gml:pos>34.23291713 135.18638191</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt16">
+  <gml:pos>34.23009376 135.18656557</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt17">
+  <gml:pos>34.22066000 135.15356000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt18">
+  <gml:pos>34.23661000 135.18631000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt19">
+  <gml:pos>34.21751713 135.15841603</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt20">
+  <gml:pos>34.22052002 135.16155472</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt21">
+  <gml:pos>34.22377771 135.16077005</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt22">
+  <gml:pos>34.22294054 135.18085764</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt23">
+  <gml:pos>34.23864658 135.19520593</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt24">
+  <gml:pos>34.24467057 135.14633209</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt25">
+  <gml:pos>34.23419647 135.16549449</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt26">
+  <gml:pos>34.21641716 135.17538826</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt27">
+  <gml:pos>34.23322463 135.14727997</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt28">
+  <gml:pos>34.23360900 135.19642284</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt29">
+  <gml:pos>34.23046000 135.19810000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt30">
+  <gml:pos>34.21744215 135.19165921</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt31">
+  <gml:pos>34.23040000 135.19258000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt32">
+  <gml:pos>34.21780322 135.18911956</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt33">
+  <gml:pos>34.26150498 135.16382354</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt34">
+  <gml:pos>34.25718372 135.16742496</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt35">
+  <gml:pos>34.21349361 135.19970860</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt36">
+  <gml:pos>34.25871701 135.18393310</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt37">
+  <gml:pos>34.26348507 135.13260168</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt38">
+  <gml:pos>34.23500671 135.19780027</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt39">
+  <gml:pos>34.22531592 135.17534521</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt40">
+  <gml:pos>34.22713294 135.16643493</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt41">
+  <gml:pos>34.22528097 135.18000840</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt42">
+  <gml:pos>34.23430000 135.17093000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt43">
+  <gml:pos>34.23602005 135.17566087</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt44">
+  <gml:pos>34.23313145 135.18241892</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt45">
+  <gml:pos>34.22678351 135.18801475</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt46">
+  <gml:pos>34.23942115 135.18715385</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt47">
+  <gml:pos>34.19824692 135.16484227</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt48">
+  <gml:pos>34.26574470 135.19505975</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt49">
+  <gml:pos>34.21998132 135.19856432</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt50">
+  <gml:pos>34.19919037 135.17250425</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt51">
+  <gml:pos>34.18981406 135.16550946</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt52">
+  <gml:pos>34.22822199 135.17187651</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt53">
+  <gml:pos>34.23994238 135.16165336</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt54">
+  <gml:pos>34.24638131 135.22370072</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt55">
+  <gml:pos>34.24891102 135.18881646</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt56">
+  <gml:pos>34.25188662 135.19360856</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt57">
+  <gml:pos>34.24185422 135.16908757</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt58">
+  <gml:pos>34.24911122 135.22992765</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt59">
+  <gml:pos>34.24895197 135.17760686</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt60">
+  <gml:pos>34.25377480 135.20649959</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt61">
+  <gml:pos>34.24606282 135.16701379</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt62">
+  <gml:pos>34.21387798 135.19603544</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt63">
+  <gml:pos>34.23266355 135.20899373</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt64">
+  <gml:pos>34.24310179 135.27595537</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt65">
+  <gml:pos>34.23086636 135.22491135</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt66">
+  <gml:pos>34.25831645 135.16276536</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt67">
+  <gml:pos>34.23435153 135.20417809</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt68">
+  <gml:pos>34.26485948 135.24233734</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt69">
+  <gml:pos>34.26064000 135.18530000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt70">
+  <gml:pos>34.26467167 135.26232898</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt71">
+  <gml:pos>34.26543604 135.25150051</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt72">
+  <gml:pos>34.17707815 135.21724399</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt73">
+  <gml:pos>34.20506542 135.24731046</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt74">
+  <gml:pos>34.23736324 135.28667180</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt75">
+  <gml:pos>34.26148678 135.25405630</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt76">
+  <gml:pos>34.26003083 135.24284671</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt77">
+  <gml:pos>34.25588138 135.15480654</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt78">
+  <gml:pos>34.26550884 135.18128361</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt79">
+  <gml:pos>34.26372530 135.17919862</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt80">
+  <gml:pos>34.21162053 135.16644210</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt81">
+  <gml:pos>34.21491462 135.17312302</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt82">
+  <gml:pos>34.23151000 135.19504000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt83">
+  <gml:pos>34.25141525 135.16416431</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt84">
+  <gml:pos>34.24245025 135.20861260</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt85">
+  <gml:pos>34.22845494 135.19686495</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt86">
+  <gml:pos>34.25613617 135.15855055</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt87">
+  <gml:pos>34.24181327 135.20042960</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt88">
+  <gml:pos>34.24670890 135.15825910</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt89">
+  <gml:pos>34.25413424 135.14868610</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt90">
+  <gml:pos>34.27278858 135.10274918</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt91">
+  <gml:pos>34.27056826 135.10369079</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt92">
+  <gml:pos>34.26678279 135.10086597</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt93">
+  <gml:pos>34.27022247 135.10037275</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt94">
+  <gml:pos>34.23092967 135.20763549</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt95">
+  <gml:pos>34.24085380 135.23025609</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt96">
+  <gml:pos>34.23559819 135.19453335</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt97">
+  <gml:pos>34.26806130 135.10314712</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt98">
+  <gml:pos>34.26192720 135.16974221</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt99">
+  <gml:pos>34.25993255 135.11634866</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt100">
+  <gml:pos>34.26294928 135.13455592</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt101">
+  <gml:pos>34.24423743 135.26140980</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt102">
+  <gml:pos>34.24037552 135.24290275</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt103">
+  <gml:pos>34.15720445 135.23079639</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt104">
+  <gml:pos>34.16359697 135.27241201</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt105">
+  <gml:pos>34.14260638 135.19299360</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt106">
+  <gml:pos>34.11450075 135.14587384</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt107">
+  <gml:pos>34.12610124 135.15662284</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt108">
+  <gml:pos>34.11061045 135.14105282</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt109">
+  <gml:pos>34.11746160 135.15213305</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt110">
+  <gml:pos>34.31203077 135.58813950</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt111">
+  <gml:pos>34.32193673 135.62046779</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt112">
+  <gml:pos>34.31782567 135.61368326</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt113">
+  <gml:pos>34.31578187 135.58621905</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt114">
+  <gml:pos>34.34497452 135.61301446</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt115">
+  <gml:pos>34.34479981 135.60948119</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt116">
+  <gml:pos>34.34913853 135.61075460</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt117">
+  <gml:pos>34.35123510 135.61297858</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt118">
+  <gml:pos>34.35429259 135.61778526</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt119">
+  <gml:pos>34.35079832 135.61629662</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt120">
+  <gml:pos>34.34710021 135.61489767</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt121">
+  <gml:pos>34.34768349 135.59942394</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt122">
+  <gml:pos>34.34989017 135.60099329</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt123">
+  <gml:pos>34.35216691 135.59861237</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt124">
+  <gml:pos>34.35398684 135.60128473</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt125">
+  <gml:pos>34.35606885 135.60157170</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt126">
+  <gml:pos>34.35871868 135.60171518</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt127">
+  <gml:pos>34.36254782 135.60958880</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt128">
+  <gml:pos>34.36551796 135.61046764</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt129">
+  <gml:pos>34.36901223 135.60971435</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt130">
+  <gml:pos>34.34991019 135.62343490</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt131">
+  <gml:pos>34.35071096 135.62799048</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt132">
+  <gml:pos>34.35112224 135.62323965</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt133">
+  <gml:pos>34.35056421 135.62801936</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt134">
+  <gml:pos>34.33807158 135.59862528</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt135">
+  <gml:pos>34.33998178 135.59585893</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt136">
+  <gml:pos>34.34249766 135.59262196</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt137">
+  <gml:pos>34.36677856 135.60509648</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt138">
+  <gml:pos>34.33689087 135.61172709</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt139">
+  <gml:pos>34.33377077 135.59849827</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt140">
+  <gml:pos>34.33428272 135.59315363</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt141">
+  <gml:pos>34.34055751 135.58932773</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt142">
+  <gml:pos>34.34011708 135.58737325</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt143">
+  <gml:pos>34.31190410 135.56111313</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt144">
+  <gml:pos>34.30615893 135.57407680</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt145">
+  <gml:pos>34.32010692 135.61285304</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt146">
+  <gml:pos>34.34739000 135.61089000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt147">
+  <gml:pos>34.35816542 135.59976023</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt148">
+  <gml:pos>34.34184423 135.65304616</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt149">
+  <gml:pos>34.31269614 135.56378191</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt150">
+  <gml:pos>34.34175000 135.59872000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt151">
+  <gml:pos>34.30980608 135.55803811</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt152">
+  <gml:pos>34.33359264 135.61695575</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt153">
+  <gml:pos>34.31539328 135.61832332</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt154">
+  <gml:pos>34.30165276 135.58193697</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt155">
+  <gml:pos>34.30723997 135.59276544</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt156">
+  <gml:pos>34.29480981 135.55978681</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt157">
+  <gml:pos>34.30008762 135.57660121</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt158">
+  <gml:pos>34.31648160 135.65259778</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt159">
+  <gml:pos>34.07372399 135.18623825</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt160">
+  <gml:pos>34.08762830 135.11272572</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt161">
+  <gml:pos>34.09665518 135.11205315</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt162">
+  <gml:pos>34.07600314 135.14727277</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt163">
+  <gml:pos>34.07840122 135.16149307</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt164">
+  <gml:pos>33.88298560 135.15737354</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt165">
+  <gml:pos>33.86064589 135.16931176</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt166">
+  <gml:pos>33.89852330 135.19271179</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt167">
+  <gml:pos>33.73293734 135.36738980</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt168">
+  <gml:pos>33.73472816 135.37750534</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt169">
+  <gml:pos>33.73044767 135.37289595</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt170">
+  <gml:pos>33.73753814 135.36191951</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt171">
+  <gml:pos>33.74078491 135.36025153</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt172">
+  <gml:pos>33.74146920 135.36086133</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt173">
+  <gml:pos>33.74290326 135.35868113</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt174">
+  <gml:pos>33.73423256 135.39242325</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt175">
+  <gml:pos>33.75010298 135.34920335</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt176">
+  <gml:pos>33.74348307 135.37790732</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt177">
+  <gml:pos>33.73252466 135.39625670</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt178">
+  <gml:pos>33.73326348 135.35871052</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt179">
+  <gml:pos>33.71951932 135.38605261</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt180">
+  <gml:pos>33.73608399 135.35637638</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt181">
+  <gml:pos>33.72516000 135.37849000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt182">
+  <gml:pos>33.69626200 135.39899189</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt183">
+  <gml:pos>33.74582249 135.36615226</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt184">
+  <gml:pos>33.69238532 135.38988297</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt185">
+  <gml:pos>33.72400006 136.00274502</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt186">
+  <gml:pos>33.71390810 135.99430212</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt187">
+  <gml:pos>33.71204448 135.99600598</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt188">
+  <gml:pos>33.72921012 135.99246841</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt189">
+  <gml:pos>33.68340597 135.98038429</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt190">
+  <gml:pos>33.72295957 135.99654390</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt191">
+  <gml:pos>33.68564813 135.96347125</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt192">
+  <gml:pos>33.68279447 135.96365060</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt193">
+  <gml:pos>33.70897243 135.98495780</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt194">
+  <gml:pos>34.27893997 135.40567729</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt195">
+  <gml:pos>34.25824949 135.39559173</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt196">
+  <gml:pos>34.26900312 135.45511161</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt197">
+  <gml:pos>34.22421449 135.35738635</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt198">
+  <gml:pos>34.20995984 135.30158499</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt199">
+  <gml:pos>34.28496031 135.29580980</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt200">
+  <gml:pos>34.28270561 135.29417388</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt201">
+  <gml:pos>34.28530552 135.29473791</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt202">
+  <gml:pos>34.26653674 135.33175584</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt203">
+  <gml:pos>34.25507151 135.30671338</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt204">
+  <gml:pos>34.28528244 135.32509711</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt205">
+  <gml:pos>34.29129192 135.48069069</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt206">
+  <gml:pos>34.30024682 135.51729672</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt207">
+  <gml:pos>34.28923272 135.47719187</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt208">
+  <gml:pos>34.28417033 135.49063221</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt209">
+  <gml:pos>34.30979471 135.53851380</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt210">
+  <gml:pos>34.29503616 135.51602455</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt211">
+  <gml:pos>34.29758657 135.57106217</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt212">
+  <gml:pos>34.21684942 135.58179875</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt213">
+  <gml:pos>34.21316748 135.57564559</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt214">
+  <gml:pos>34.22348993 135.59834502</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt215">
+  <gml:pos>34.03368977 135.17059593</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt216">
+  <gml:pos>34.03926896 135.17894663</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt217">
+  <gml:pos>34.03798045 135.19677527</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt218">
+  <gml:pos>34.07179486 135.23632272</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt219">
+  <gml:pos>33.89009245 135.14200518</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt220">
+  <gml:pos>33.76135019 135.32476643</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt221">
+  <gml:pos>33.76291533 135.32425079</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt222">
+  <gml:pos>33.69348830 135.35558358</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt223">
+  <gml:pos>33.68403528 135.34405873</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt224">
+  <gml:pos>33.68511902 135.35421434</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt225">
+  <gml:pos>33.65975998 135.34334309</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt226">
+  <gml:pos>33.67113562 135.34877369</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt227">
+  <gml:pos>33.62668625 135.94136966</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt228">
+  <gml:pos>33.62982342 135.93927646</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt229">
+  <gml:pos>33.63142936 135.93555081</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt230">
+  <gml:pos>33.64023345 135.92820138</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt231">
+  <gml:pos>33.64143461 135.93609293</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt232">
+  <gml:pos>33.48205372 135.78427017</gml:pos>
+</gml:Point>
+<ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>和歌公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>437097</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk2">
+  <ksj:loc xlink:href="#pt2"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>紀三井寺公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk2_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>172300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk3">
+  <ksj:loc xlink:href="#pt3"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>河西緩衝緑地湊緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk3_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>29500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk4">
+  <ksj:loc xlink:href="#pt4"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>河西緩衝緑地松江緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk4_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>62000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk5">
+  <ksj:loc xlink:href="#pt5"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>河西緩衝緑地河西公園</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk5_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>314900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk6">
+  <ksj:loc xlink:href="#pt6"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>河西緩衝緑地西松江緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk6_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>59200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk7">
+  <ksj:loc xlink:href="#pt7"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>河西緩衝緑地東松江緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk7_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>56248</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk8">
+  <ksj:loc xlink:href="#pt8"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>和歌山交通公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk8_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk9">
+  <ksj:loc xlink:href="#pt9"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>紀北公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk9_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>76000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk10">
+  <ksj:loc xlink:href="#pt10"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>汀公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk10_TI1">
+      <gml:timePosition>1951</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3756</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk11">
+  <ksj:loc xlink:href="#pt11"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>長町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk11_TI1">
+      <gml:timePosition>1952</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5682</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk12">
+  <ksj:loc xlink:href="#pt12"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>砂山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk12_TI1">
+      <gml:timePosition>1952</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6789</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk13">
+  <ksj:loc xlink:href="#pt13"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>牛町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk13_TI1">
+      <gml:timePosition>1955</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4266</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk14">
+  <ksj:loc xlink:href="#pt14"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>河岸公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk14_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2606</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk15">
+  <ksj:loc xlink:href="#pt15"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>城東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk15_TI1">
+      <gml:timePosition>1954</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2031</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk16">
+  <ksj:loc xlink:href="#pt16"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>美園公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk16_TI1">
+      <gml:timePosition>1953</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5283</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk17">
+  <ksj:loc xlink:href="#pt17"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>港公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk17_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1656</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk18">
+  <ksj:loc xlink:href="#pt18"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>向之芝公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk18_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5458</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk19">
+  <ksj:loc xlink:href="#pt19"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>湊御殿公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk19_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4784</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk20">
+  <ksj:loc xlink:href="#pt20"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>端之丁公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk20_TI1">
+      <gml:timePosition>1962</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>995</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk21">
+  <ksj:loc xlink:href="#pt21"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>土佐町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk21_TI1">
+      <gml:timePosition>1942</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>856</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk22">
+  <ksj:loc xlink:href="#pt22"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>南片原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk22_TI1">
+      <gml:timePosition>1954</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2315</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk23">
+  <ksj:loc xlink:href="#pt23"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>宮北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk23_TI1">
+      <gml:timePosition>1953</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1983</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk24">
+  <ksj:loc xlink:href="#pt24"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>島橋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk24_TI1">
+      <gml:timePosition>1957</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4029</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk25">
+  <ksj:loc xlink:href="#pt25"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>湊北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk25_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1566</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk26">
+  <ksj:loc xlink:href="#pt26"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>吹上公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk26_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>982</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk27">
+  <ksj:loc xlink:href="#pt27"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>湊公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk27_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2149</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk28">
+  <ksj:loc xlink:href="#pt28"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>黒田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk28_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2469</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk29">
+  <ksj:loc xlink:href="#pt29"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>太田第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk29_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1516</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk30">
+  <ksj:loc xlink:href="#pt30"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>南出島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk30_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1494</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk31">
+  <ksj:loc xlink:href="#pt31"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>太田第四公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk31_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2005</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk32">
+  <ksj:loc xlink:href="#pt32"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>手平第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk32_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1533</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk33">
+  <ksj:loc xlink:href="#pt33"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>栄谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk33_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1464</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk34">
+  <ksj:loc xlink:href="#pt34"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>市小路公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk34_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3847</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk35">
+  <ksj:loc xlink:href="#pt35"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>杭ノ瀬公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk35_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4708</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk36">
+  <ksj:loc xlink:href="#pt36"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>善明寺中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk36_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5059</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk37">
+  <ksj:loc xlink:href="#pt37"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>木本公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk37_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2857</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk38">
+  <ksj:loc xlink:href="#pt38"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>黒田第四公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk38_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4999</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk39">
+  <ksj:loc xlink:href="#pt39"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>岡公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk39_TI1">
+      <gml:timePosition>1894</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18349</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk40">
+  <ksj:loc xlink:href="#pt40"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>雄湊公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk40_TI1">
+      <gml:timePosition>1951</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14128</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk41">
+  <ksj:loc xlink:href="#pt41"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>岡東公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk41_TI1">
+      <gml:timePosition>1955</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10660</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk42">
+  <ksj:loc xlink:href="#pt42"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>城北公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk42_TI1">
+      <gml:timePosition>1950</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12589</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk43">
+  <ksj:loc xlink:href="#pt43"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>本町公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk43_TI1">
+      <gml:timePosition>1949</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16903</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk44">
+  <ksj:loc xlink:href="#pt44"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>大新公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk44_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16329</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk45">
+  <ksj:loc xlink:href="#pt45"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>新南公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk45_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11063</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk46">
+  <ksj:loc xlink:href="#pt46"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>中之島公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk46_TI1">
+      <gml:timePosition>1952</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11925</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk47">
+  <ksj:loc xlink:href="#pt47"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>高津公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk47_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13226</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk48">
+  <ksj:loc xlink:href="#pt48"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>園部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk48_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10192</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk49">
+  <ksj:loc xlink:href="#pt49"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>和歌山東公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk49_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46779</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk50">
+  <ksj:loc xlink:href="#pt50"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>秋葉山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk50_TI1">
+      <gml:timePosition>1933</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>112987</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk51">
+  <ksj:loc xlink:href="#pt51"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>御手洗池公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk51_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23390</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk52">
+  <ksj:loc xlink:href="#pt52"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>和歌山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk52_TI1">
+      <gml:timePosition>1901</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>204500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk53">
+  <ksj:loc xlink:href="#pt53"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第１緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk53_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7609</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk54">
+  <ksj:loc xlink:href="#pt54"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第２緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk54_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>39444</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk55">
+  <ksj:loc xlink:href="#pt55"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第３緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk55_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>99409</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk56">
+  <ksj:loc xlink:href="#pt56"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第４緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk56_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>50223</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk57">
+  <ksj:loc xlink:href="#pt57"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第５緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk57_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>61752</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk58">
+  <ksj:loc xlink:href="#pt58"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第７緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk58_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35761</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk59">
+  <ksj:loc xlink:href="#pt59"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第８緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk59_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>39862</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk60">
+  <ksj:loc xlink:href="#pt60"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>紀の川第９緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk60_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>67929</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk61">
+  <ksj:loc xlink:href="#pt61"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>市民スポーツ広場</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk61_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>88300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk62">
+  <ksj:loc xlink:href="#pt62"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>杭ノ瀬北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk62_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1301</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk63">
+  <ksj:loc xlink:href="#pt63"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>鳴神公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk63_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3589</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk64">
+  <ksj:loc xlink:href="#pt64"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>大垣内公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk64_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1894</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk65">
+  <ksj:loc xlink:href="#pt65"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>岩橋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk65_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2718</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk66">
+  <ksj:loc xlink:href="#pt66"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>平井公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk66_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3228</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk67">
+  <ksj:loc xlink:href="#pt67"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>出水公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk67_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2108</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk68">
+  <ksj:loc xlink:href="#pt68"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>弘西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk68_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2038</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk69">
+  <ksj:loc xlink:href="#pt69"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>善明寺公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk69_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2181</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk70">
+  <ksj:loc xlink:href="#pt70"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>山口西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk70_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1447</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk71">
+  <ksj:loc xlink:href="#pt71"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>上野公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk71_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk72">
+  <ksj:loc xlink:href="#pt72"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>本渡公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk72_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4758</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk73">
+  <ksj:loc xlink:href="#pt73"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>口須佐公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk73_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1513</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk74">
+  <ksj:loc xlink:href="#pt74"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>東田中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk74_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1083</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk75">
+  <ksj:loc xlink:href="#pt75"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>川永団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk75_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1654</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk76">
+  <ksj:loc xlink:href="#pt76"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>鴨居川団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk76_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1473</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk77">
+  <ksj:loc xlink:href="#pt77"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>栄谷団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk77_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1118</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk78">
+  <ksj:loc xlink:href="#pt78"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>善明寺北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk78_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1593</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk79">
+  <ksj:loc xlink:href="#pt79"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>大谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk79_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5937</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk80">
+  <ksj:loc xlink:href="#pt80"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>今福公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk80_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1391</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk81">
+  <ksj:loc xlink:href="#pt81"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>堀止公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk81_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1149</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk82">
+  <ksj:loc xlink:href="#pt82"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>太田第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk82_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1520</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk83">
+  <ksj:loc xlink:href="#pt83"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>福島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk83_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2866</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk84">
+  <ksj:loc xlink:href="#pt84"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>松島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk84_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1280</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk85">
+  <ksj:loc xlink:href="#pt85"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>南太田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk85_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2503</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk86">
+  <ksj:loc xlink:href="#pt86"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>栄谷南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk86_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>719</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk87">
+  <ksj:loc xlink:href="#pt87"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>新在家公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk87_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>661</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk88">
+  <ksj:loc xlink:href="#pt88"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>野崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk88_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4064</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk89">
+  <ksj:loc xlink:href="#pt89"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>次郎丸公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk89_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1558</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk90">
+  <ksj:loc xlink:href="#pt90"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>つつじが丘わんぱく１番公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk90_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2491</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk91">
+  <ksj:loc xlink:href="#pt91"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>つつじが丘わんぱく２番公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk91_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3003</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk92">
+  <ksj:loc xlink:href="#pt92"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>つつじが丘わんぱく３番公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk92_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4590</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk93">
+  <ksj:loc xlink:href="#pt93"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>つつじが丘わんぱく４番公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk93_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3029</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk94">
+  <ksj:loc xlink:href="#pt94"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>鳴神中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk94_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1752</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk95">
+  <ksj:loc xlink:href="#pt95"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>西和佐公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk95_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3434</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk96">
+  <ksj:loc xlink:href="#pt96"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>黒田第三公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk96_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1600</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk97">
+  <ksj:loc xlink:href="#pt97"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>つつじが丘中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk97_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16544</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk98">
+  <ksj:loc xlink:href="#pt98"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>平井中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk98_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14997</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk99">
+  <ksj:loc xlink:href="#pt99"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>西庄公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk99_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11236</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk100">
+  <ksj:loc xlink:href="#pt100"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>車駕之古址古墳公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk100_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9160</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk101">
+  <ksj:loc xlink:href="#pt101"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>布施屋駅前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk101_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1134</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk102">
+  <ksj:loc xlink:href="#pt102"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>和歌山市</ksj:lgn>
+  <ksj:nop>松下公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>和歌山市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk102_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8287</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk103">
+  <ksj:loc xlink:href="#pt103"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk103_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>144169</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk104">
+  <ksj:loc xlink:href="#pt104"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>沖野々公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk104_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk105">
+  <ksj:loc xlink:href="#pt105"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>冷水緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk105_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk106">
+  <ksj:loc xlink:href="#pt106"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>港ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk106_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3234</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk107">
+  <ksj:loc xlink:href="#pt107"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>加茂郷児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk107_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1612</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk108">
+  <ksj:loc xlink:href="#pt108"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>新田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk108_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1254</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk109">
+  <ksj:loc xlink:href="#pt109"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>海南市</ksj:lgn>
+  <ksj:nop>方児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>海南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk109_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk110">
+  <ksj:loc xlink:href="#pt110"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>岸上１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk110_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1689</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk111">
+  <ksj:loc xlink:href="#pt111"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>原田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk111_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3221</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk112">
+  <ksj:loc xlink:href="#pt112"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>駅前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk112_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>588</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk113">
+  <ksj:loc xlink:href="#pt113"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>野公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk113_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1743</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk114">
+  <ksj:loc xlink:href="#pt114"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk114_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2593</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk115">
+  <ksj:loc xlink:href="#pt115"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk115_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2638</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk116">
+  <ksj:loc xlink:href="#pt116"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk116_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2460</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk117">
+  <ksj:loc xlink:href="#pt117"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk117_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3857</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk118">
+  <ksj:loc xlink:href="#pt118"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台５号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk118_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1695</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk119">
+  <ksj:loc xlink:href="#pt119"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台６号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk119_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3970</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk120">
+  <ksj:loc xlink:href="#pt120"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台７号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk120_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1335</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk121">
+  <ksj:loc xlink:href="#pt121"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk121_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6314</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk122">
+  <ksj:loc xlink:href="#pt122"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk122_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1465</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk123">
+  <ksj:loc xlink:href="#pt123"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk123_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1446</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk124">
+  <ksj:loc xlink:href="#pt124"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk124_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1898</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk125">
+  <ksj:loc xlink:href="#pt125"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台５号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk125_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2082</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk126">
+  <ksj:loc xlink:href="#pt126"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台６号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk126_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1185</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk127">
+  <ksj:loc xlink:href="#pt127"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>紀見ケ丘１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk127_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2998</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk128">
+  <ksj:loc xlink:href="#pt128"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>紀見ケ丘２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk128_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4612</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk129">
+  <ksj:loc xlink:href="#pt129"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>紀見ケ丘３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk129_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9931</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk130">
+  <ksj:loc xlink:href="#pt130"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>小峰台１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk130_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12540</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk131">
+  <ksj:loc xlink:href="#pt131"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>小峰台２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk131_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2378</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk132">
+  <ksj:loc xlink:href="#pt132"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>小峰台１号小広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk132_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>284</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk133">
+  <ksj:loc xlink:href="#pt133"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>小峰台２号小広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk133_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>228</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk134">
+  <ksj:loc xlink:href="#pt134"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>柿の木坂東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk134_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>566</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk135">
+  <ksj:loc xlink:href="#pt135"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>柿の木坂中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk135_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1907</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk136">
+  <ksj:loc xlink:href="#pt136"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>柿の木坂西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk136_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2408</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk137">
+  <ksj:loc xlink:href="#pt137"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>光陽台どんぐり公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk137_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3047</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk138">
+  <ksj:loc xlink:href="#pt138"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>しらさぎ台小広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk138_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>450</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk139">
+  <ksj:loc xlink:href="#pt139"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>さつき台東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk139_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2046</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk140">
+  <ksj:loc xlink:href="#pt140"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>さつき台南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk140_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2261</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk141">
+  <ksj:loc xlink:href="#pt141"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>みゆき台東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk141_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2043</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk142">
+  <ksj:loc xlink:href="#pt142"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>みゆき台中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk142_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2165</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk143">
+  <ksj:loc xlink:href="#pt143"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>名古曽児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk143_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2953</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk144">
+  <ksj:loc xlink:href="#pt144"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>伏原児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk144_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2228</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk145">
+  <ksj:loc xlink:href="#pt145"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>丸山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk145_TI1">
+      <gml:timePosition>1952</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>15152</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk146">
+  <ksj:loc xlink:href="#pt146"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>城山台中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk146_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19956</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk147">
+  <ksj:loc xlink:href="#pt147"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>三石台中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk147_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk148">
+  <ksj:loc xlink:href="#pt148"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>あやの台中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk148_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20266</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk149">
+  <ksj:loc xlink:href="#pt149"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>住吉運動公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk149_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>31000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk150">
+  <ksj:loc xlink:href="#pt150"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>杉村公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk150_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>127389</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk151">
+  <ksj:loc xlink:href="#pt151"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>高野口公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk151_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>65398</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk152">
+  <ksj:loc xlink:href="#pt152"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>橋本市運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk152_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>282983</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk153">
+  <ksj:loc xlink:href="#pt153"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>向副緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk153_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>36362</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk154">
+  <ksj:loc xlink:href="#pt154"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>神野々緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk154_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>52933</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk155">
+  <ksj:loc xlink:href="#pt155"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>南馬場緑地広場</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk155_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>83643</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk156">
+  <ksj:loc xlink:href="#pt156"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>紀の川高野口第１緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk156_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>37985</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk157">
+  <ksj:loc xlink:href="#pt157"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>若もの広場</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk157_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>29833</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk158">
+  <ksj:loc xlink:href="#pt158"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>橋本市</ksj:lgn>
+  <ksj:nop>橋本市墓園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>橋本市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk158_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>75900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk159">
+  <ksj:loc xlink:href="#pt159"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田市</ksj:lgn>
+  <ksj:nop>須谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk159_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1632</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk160">
+  <ksj:loc xlink:href="#pt160"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田市</ksj:lgn>
+  <ksj:nop>港町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk160_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1884</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk161">
+  <ksj:loc xlink:href="#pt161"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田市</ksj:lgn>
+  <ksj:nop>西ノ浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk161_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6424</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk162">
+  <ksj:loc xlink:href="#pt162"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田市</ksj:lgn>
+  <ksj:nop>保田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk162_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1413</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk163">
+  <ksj:loc xlink:href="#pt163"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田市</ksj:lgn>
+  <ksj:nop>ふるさとの川総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk163_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>256970</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk164">
+  <ksj:loc xlink:href="#pt164"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>御坊市</ksj:lgn>
+  <ksj:nop>名屋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>御坊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk164_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk165">
+  <ksj:loc xlink:href="#pt165"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>御坊市</ksj:lgn>
+  <ksj:nop>御坊総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>御坊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk165_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>172000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk166">
+  <ksj:loc xlink:href="#pt166"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>御坊市</ksj:lgn>
+  <ksj:nop>日高川ふれあい水辺公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>御坊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk166_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>220900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk167">
+  <ksj:loc xlink:href="#pt167"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>江川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk167_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk168">
+  <ksj:loc xlink:href="#pt168"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>会津公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk168_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk169">
+  <ksj:loc xlink:href="#pt169"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>錦水公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk169_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk170">
+  <ksj:loc xlink:href="#pt170"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>明洋第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk170_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk171">
+  <ksj:loc xlink:href="#pt171"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>明洋第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk171_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk172">
+  <ksj:loc xlink:href="#pt172"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>明洋第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk172_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk173">
+  <ksj:loc xlink:href="#pt173"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>明洋第４公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk173_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk174">
+  <ksj:loc xlink:href="#pt174"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>朝日ヶ丘第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk174_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk175">
+  <ksj:loc xlink:href="#pt175"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>芳養公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk175_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk176">
+  <ksj:loc xlink:href="#pt176"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>稲成第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk176_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk177">
+  <ksj:loc xlink:href="#pt177"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>東部公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk177_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk178">
+  <ksj:loc xlink:href="#pt178"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>天神公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk178_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk179">
+  <ksj:loc xlink:href="#pt179"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>神楽公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk179_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk180">
+  <ksj:loc xlink:href="#pt180"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>目良公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk180_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>45000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk181">
+  <ksj:loc xlink:href="#pt181"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>扇ヶ浜公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk181_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>60000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk182">
+  <ksj:loc xlink:href="#pt182"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>新庄総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk182_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>230000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk183">
+  <ksj:loc xlink:href="#pt183"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>三四六公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk183_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>60000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk184">
+  <ksj:loc xlink:href="#pt184"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>田辺市</ksj:lgn>
+  <ksj:nop>内之浦干潟親水公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>田辺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk184_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk185">
+  <ksj:loc xlink:href="#pt185"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>あけぼの公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk185_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1011</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk186">
+  <ksj:loc xlink:href="#pt186"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>丸山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk186_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3312</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk187">
+  <ksj:loc xlink:href="#pt187"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>松山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk187_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16443</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk188">
+  <ksj:loc xlink:href="#pt188"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>丹鶴城公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk188_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>34150</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk189">
+  <ksj:loc xlink:href="#pt189"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>黒潮公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk189_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>31145</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk190">
+  <ksj:loc xlink:href="#pt190"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>ほうらい市民広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk190_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2789</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk191">
+  <ksj:loc xlink:href="#pt191"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>蜂伏公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk191_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5075</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk192">
+  <ksj:loc xlink:href="#pt192"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>みつばち公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk192_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3449</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk193">
+  <ksj:loc xlink:href="#pt193"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>新宮市</ksj:lgn>
+  <ksj:nop>鴻田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>新宮市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk193_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1417</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk194">
+  <ksj:loc xlink:href="#pt194"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>紀の川市</ksj:lgn>
+  <ksj:nop>秋葉山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>紀の川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk194_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>29600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk195">
+  <ksj:loc xlink:href="#pt195"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>紀の川市</ksj:lgn>
+  <ksj:nop>粉河河南緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>紀の川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk195_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>37500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk196">
+  <ksj:loc xlink:href="#pt196"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>紀の川市</ksj:lgn>
+  <ksj:nop>愛宕池公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>紀の川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk196_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>41200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk197">
+  <ksj:loc xlink:href="#pt197"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>紀の川市</ksj:lgn>
+  <ksj:nop>桃源郷運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>紀の川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk197_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>99000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk198">
+  <ksj:loc xlink:href="#pt198"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>紀の川市</ksj:lgn>
+  <ksj:nop>平池緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>紀の川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk198_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>130000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk199">
+  <ksj:loc xlink:href="#pt199"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>岩出市</ksj:lgn>
+  <ksj:nop>大供公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>岩出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk199_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4627</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk200">
+  <ksj:loc xlink:href="#pt200"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>岩出市</ksj:lgn>
+  <ksj:nop>荒神公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>岩出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk200_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1002</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk201">
+  <ksj:loc xlink:href="#pt201"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>岩出市</ksj:lgn>
+  <ksj:nop>芝引公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>岩出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk201_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1669</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk202">
+  <ksj:loc xlink:href="#pt202"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>岩出市</ksj:lgn>
+  <ksj:nop>東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>岩出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk202_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6308</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk203">
+  <ksj:loc xlink:href="#pt203"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>岩出市</ksj:lgn>
+  <ksj:nop>大宮緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>岩出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk203_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>77000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk204">
+  <ksj:loc xlink:href="#pt204"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>岩出市</ksj:lgn>
+  <ksj:nop>根来公園墓地</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>岩出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk204_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>234000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk205">
+  <ksj:loc xlink:href="#pt205"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡かつらぎ町</ksj:lgn>
+  <ksj:nop>芝ノ前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk205_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>689</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk206">
+  <ksj:loc xlink:href="#pt206"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡かつらぎ町</ksj:lgn>
+  <ksj:nop>丁ノ町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk206_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1644</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk207">
+  <ksj:loc xlink:href="#pt207"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡かつらぎ町</ksj:lgn>
+  <ksj:nop>蛭子前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk207_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1034</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk208">
+  <ksj:loc xlink:href="#pt208"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡かつらぎ町</ksj:lgn>
+  <ksj:nop>河南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk208_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10430</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk209">
+  <ksj:loc xlink:href="#pt209"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡かつらぎ町</ksj:lgn>
+  <ksj:nop>中飯降公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk209_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9861</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk210">
+  <ksj:loc xlink:href="#pt210"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡かつらぎ町</ksj:lgn>
+  <ksj:nop>かつらぎ公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡かつらぎ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk210_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>33193</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk211">
+  <ksj:loc xlink:href="#pt211"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡九度山町</ksj:lgn>
+  <ksj:nop>安田島公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡九度山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk211_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk212">
+  <ksj:loc xlink:href="#pt212"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡高野町</ksj:lgn>
+  <ksj:nop>金輪公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡高野町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk212_TI1">
+      <gml:timePosition>1959</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2304</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk213">
+  <ksj:loc xlink:href="#pt213"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡高野町</ksj:lgn>
+  <ksj:nop>弁天公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡高野町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk213_TI1">
+      <gml:timePosition>1959</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1440</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk214">
+  <ksj:loc xlink:href="#pt214"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>伊都郡高野町</ksj:lgn>
+  <ksj:nop>転軸山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>伊都郡高野町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk214_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12667</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk215">
+  <ksj:loc xlink:href="#pt215"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田郡湯浅町</ksj:lgn>
+  <ksj:nop>なぎ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田郡湯浅町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk215_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4800</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk216">
+  <ksj:loc xlink:href="#pt216"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田郡湯浅町</ksj:lgn>
+  <ksj:nop>宮西児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田郡湯浅町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk216_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3122</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk217">
+  <ksj:loc xlink:href="#pt217"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田郡湯浅町</ksj:lgn>
+  <ksj:nop>湯浅城公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田郡湯浅町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk217_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>45000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk218">
+  <ksj:loc xlink:href="#pt218"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>有田郡有田川町</ksj:lgn>
+  <ksj:nop>花の里児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>有田郡有田川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk218_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5159</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk219">
+  <ksj:loc xlink:href="#pt219"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>日高郡美浜町</ksj:lgn>
+  <ksj:nop>吉原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>日高郡美浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk219_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>32099</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk220">
+  <ksj:loc xlink:href="#pt220"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>日高郡みなべ町</ksj:lgn>
+  <ksj:nop>埴田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>日高郡みなべ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk220_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>683</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk221">
+  <ksj:loc xlink:href="#pt221"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>日高郡みなべ町</ksj:lgn>
+  <ksj:nop>片町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>日高郡みなべ町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk221_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>576</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk222">
+  <ksj:loc xlink:href="#pt222"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>西牟婁郡白浜町</ksj:lgn>
+  <ksj:nop>阪田公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>西牟婁郡白浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk222_TI1">
+      <gml:timePosition>1951</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>73000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk223">
+  <ksj:loc xlink:href="#pt223"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>西牟婁郡白浜町</ksj:lgn>
+  <ksj:nop>白浜海岸公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>西牟婁郡白浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk223_TI1">
+      <gml:timePosition>1951</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>63000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk224">
+  <ksj:loc xlink:href="#pt224"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>西牟婁郡白浜町</ksj:lgn>
+  <ksj:nop>綱不知公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>西牟婁郡白浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk224_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk225">
+  <ksj:loc xlink:href="#pt225"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>西牟婁郡白浜町</ksj:lgn>
+  <ksj:nop>いそぎ公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>西牟婁郡白浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk225_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>50000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk226">
+  <ksj:loc xlink:href="#pt226"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>西牟婁郡白浜町</ksj:lgn>
+  <ksj:nop>平草原公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>西牟婁郡白浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk226_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>141000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk227">
+  <ksj:loc xlink:href="#pt227"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>東牟婁郡那智勝浦町</ksj:lgn>
+  <ksj:nop>築地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>東牟婁郡那智勝浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk227_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk228">
+  <ksj:loc xlink:href="#pt228"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>東牟婁郡那智勝浦町</ksj:lgn>
+  <ksj:nop>朝日公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>東牟婁郡那智勝浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk228_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk229">
+  <ksj:loc xlink:href="#pt229"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>東牟婁郡那智勝浦町</ksj:lgn>
+  <ksj:nop>駿田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>東牟婁郡那智勝浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk229_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk230">
+  <ksj:loc xlink:href="#pt230"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>東牟婁郡那智勝浦町</ksj:lgn>
+  <ksj:nop>天満公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>東牟婁郡那智勝浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk230_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>17000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk231">
+  <ksj:loc xlink:href="#pt231"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>東牟婁郡那智勝浦町</ksj:lgn>
+  <ksj:nop>那智勝浦海浜公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>東牟婁郡那智勝浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk231_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>55000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk232">
+  <ksj:loc xlink:href="#pt232"/>
+  <ksj:adm>和歌山県</ksj:adm>
+  <ksj:lgn>東牟婁郡串本町</ksj:lgn>
+  <ksj:nop>総合運動公園(サン・ナンタンランド)</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>和歌山県</ksj:pop>
+  <ksj:cop>東牟婁郡串本町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk232_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>105700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+</ksj:Dataset>

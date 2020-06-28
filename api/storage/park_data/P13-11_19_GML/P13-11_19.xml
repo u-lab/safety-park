@@ -1,0 +1,3217 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+<gml:description>国土数値情報（都市公園）データ P13-11_19.xml</gml:description>
+<gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+    <gml:lowerCorner>35.40484603 138.43783327</gml:lowerCorner>
+    <gml:upperCorner>35.72242384 138.99570551</gml:upperCorner>
+    <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+    <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Point gml:id="pt1">
+  <gml:pos>35.70152582 138.66560482</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt2">
+  <gml:pos>35.41851181 138.43840384</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt3">
+  <gml:pos>35.58310027 138.58389183</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt4">
+  <gml:pos>35.62398519 138.58640661</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt5">
+  <gml:pos>35.66419152 138.57110181</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt6">
+  <gml:pos>35.65986015 138.56772458</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt7">
+  <gml:pos>35.66333689 138.56651814</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt8">
+  <gml:pos>35.68138269 138.55902736</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt9">
+  <gml:pos>35.63851872 138.50821777</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt10">
+  <gml:pos>35.66807740 138.46016157</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt11">
+  <gml:pos>35.45477058 138.76852863</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt12">
+  <gml:pos>35.62184074 138.99570551</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt13">
+  <gml:pos>35.66014258 138.53831853</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt14">
+  <gml:pos>35.67331216 138.58448849</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt15">
+  <gml:pos>35.66811337 138.43995987</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt16">
+  <gml:pos>35.63984252 138.67649263</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt17">
+  <gml:pos>35.65087316 138.57182460</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt18">
+  <gml:pos>35.64394114 138.61308337</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt19">
+  <gml:pos>35.66543789 138.53614684</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt20">
+  <gml:pos>35.59903550 138.56358690</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt21">
+  <gml:pos>35.69081051 138.56159786</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt22">
+  <gml:pos>35.68445811 138.54198452</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt23">
+  <gml:pos>35.67148230 138.56496276</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt24">
+  <gml:pos>35.66449159 138.56662020</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt25">
+  <gml:pos>35.65155923 138.55496546</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt26">
+  <gml:pos>35.65357049 138.55123356</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt27">
+  <gml:pos>35.64770118 138.55407275</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt28">
+  <gml:pos>35.64894859 138.55111655</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt29">
+  <gml:pos>35.65591715 138.56455440</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt30">
+  <gml:pos>35.65993311 138.56353966</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt31">
+  <gml:pos>35.67716540 138.53850514</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt32">
+  <gml:pos>35.62992822 138.56471672</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt33">
+  <gml:pos>35.65616929 138.58093614</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt34">
+  <gml:pos>35.64189877 138.56342793</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt35">
+  <gml:pos>35.69819967 138.53445922</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt36">
+  <gml:pos>35.61036926 138.56165350</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt37">
+  <gml:pos>35.65355405 138.53940247</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt38">
+  <gml:pos>35.68955536 138.57698530</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt39">
+  <gml:pos>35.69021541 138.57222065</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt40">
+  <gml:pos>35.66920333 138.58293465</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt41">
+  <gml:pos>35.66709094 138.58179118</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt42">
+  <gml:pos>35.61264310 138.56314624</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt43">
+  <gml:pos>35.63688735 138.58244204</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt44">
+  <gml:pos>35.63855056 138.58441772</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt45">
+  <gml:pos>35.64076322 138.58703001</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt46">
+  <gml:pos>35.68186410 138.55119929</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt47">
+  <gml:pos>35.63270854 138.55218488</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt48">
+  <gml:pos>35.66200627 138.54510078</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt49">
+  <gml:pos>35.60962259 138.59732824</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt50">
+  <gml:pos>35.62339868 138.55765215</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt51">
+  <gml:pos>35.65169288 138.56579511</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt52">
+  <gml:pos>35.66790909 138.58844285</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt53">
+  <gml:pos>35.68221991 138.58381624</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt54">
+  <gml:pos>35.66701817 138.57094011</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt55">
+  <gml:pos>35.48311472 138.79683987</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt56">
+  <gml:pos>35.49037164 138.78584716</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt57">
+  <gml:pos>35.47927598 138.81458440</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt58">
+  <gml:pos>35.46997551 138.81273841</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt59">
+  <gml:pos>35.47964723 138.78730447</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt60">
+  <gml:pos>35.49731094 138.82481572</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt61">
+  <gml:pos>35.49456613 138.80143439</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt62">
+  <gml:pos>35.49340583 138.82885320</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt63">
+  <gml:pos>35.55018959 138.90530468</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt64">
+  <gml:pos>35.55692796 138.92577565</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt65">
+  <gml:pos>35.53895475 138.89871085</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt66">
+  <gml:pos>35.55174825 138.91041511</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt67">
+  <gml:pos>35.53501948 138.89265119</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt68">
+  <gml:pos>35.67941799 138.69199622</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt69">
+  <gml:pos>35.68918192 138.66276691</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt70">
+  <gml:pos>35.68311734 138.68133880</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt71">
+  <gml:pos>35.70689065 138.69580581</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt72">
+  <gml:pos>35.69640278 138.69085289</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt73">
+  <gml:pos>35.68555646 138.68579876</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt74">
+  <gml:pos>35.68970400 138.67998837</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt75">
+  <gml:pos>35.66376971 138.69748422</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt76">
+  <gml:pos>35.61487581 138.97739504</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt77">
+  <gml:pos>35.61916377 138.94906324</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt78">
+  <gml:pos>35.72242384 138.43783327</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt79">
+  <gml:pos>35.69951068 138.45995718</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt80">
+  <gml:pos>35.71276223 138.43992414</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt81">
+  <gml:pos>35.60698174 138.46574550</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt82">
+  <gml:pos>35.61153105 138.45494631</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt83">
+  <gml:pos>35.61136748 138.46824593</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt84">
+  <gml:pos>35.61527136 138.45533338</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt85">
+  <gml:pos>35.61315369 138.44898876</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt86">
+  <gml:pos>35.61417341 138.46041733</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt87">
+  <gml:pos>35.58408265 138.44873299</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt88">
+  <gml:pos>35.64947593 138.46738974</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt89">
+  <gml:pos>35.64150483 138.46205944</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt90">
+  <gml:pos>35.63387456 138.49409663</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt91">
+  <gml:pos>35.62088293 138.50308902</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt92">
+  <gml:pos>35.61734594 138.45643865</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt93">
+  <gml:pos>35.58410105 138.49881975</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt94">
+  <gml:pos>35.57220501 138.47549428</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt95">
+  <gml:pos>35.58674666 138.46347563</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt96">
+  <gml:pos>35.64419000 138.51245000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt97">
+  <gml:pos>35.63620373 138.52331919</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt98">
+  <gml:pos>35.66671102 138.50238248</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt99">
+  <gml:pos>35.67970725 138.52331647</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt100">
+  <gml:pos>35.64061921 138.52184605</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt101">
+  <gml:pos>35.67423666 138.50508626</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt102">
+  <gml:pos>35.70128424 138.51913548</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt103">
+  <gml:pos>35.64486911 138.50802120</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt104">
+  <gml:pos>35.64912858 138.63730939</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt105">
+  <gml:pos>35.70315346 138.73282234</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt106">
+  <gml:pos>35.70248467 138.73254948</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt107">
+  <gml:pos>35.70221517 138.71990404</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt108">
+  <gml:pos>35.67131096 138.74274716</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt109">
+  <gml:pos>35.68348617 138.72584192</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt110">
+  <gml:pos>35.67710212 138.72083325</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt111">
+  <gml:pos>35.65797878 138.72257504</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt112">
+  <gml:pos>35.65492169 138.73250414</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt113">
+  <gml:pos>35.66692845 138.71499682</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt114">
+  <gml:pos>35.67632561 138.70776701</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt115">
+  <gml:pos>35.66468358 138.72552463</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt116">
+  <gml:pos>35.70617990 138.73464110</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt117">
+  <gml:pos>35.61360043 138.53456481</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt118">
+  <gml:pos>35.61200321 138.53824187</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt119">
+  <gml:pos>35.61192079 138.54176653</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt120">
+  <gml:pos>35.61613266 138.54580096</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt121">
+  <gml:pos>35.60714121 138.54492262</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt122">
+  <gml:pos>35.60649122 138.54374597</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt123">
+  <gml:pos>35.60718183 138.53681867</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt124">
+  <gml:pos>35.60294339 138.53834334</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt125">
+  <gml:pos>35.61611726 138.51682994</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt126">
+  <gml:pos>35.61451312 138.51658697</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt127">
+  <gml:pos>35.58615211 138.53435268</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt128">
+  <gml:pos>35.60155801 138.51334080</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt129">
+  <gml:pos>35.60512978 138.51619146</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt130">
+  <gml:pos>35.60435169 138.54334161</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt131">
+  <gml:pos>35.55364458 138.49565249</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt132">
+  <gml:pos>35.57120417 138.50002545</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt133">
+  <gml:pos>35.56601612 138.50199279</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt134">
+  <gml:pos>35.57098339 138.45732253</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt135">
+  <gml:pos>35.55483738 138.45573419</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt136">
+  <gml:pos>35.55613650 138.46646671</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt137">
+  <gml:pos>35.57238861 138.46007285</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt138">
+  <gml:pos>35.54548841 138.45436084</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt139">
+  <gml:pos>35.55101548 138.46718834</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt140">
+  <gml:pos>35.54838697 138.46375343</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt141">
+  <gml:pos>35.54883601 138.46269165</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt142">
+  <gml:pos>35.61764164 138.55225805</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt143">
+  <gml:pos>35.62083653 138.54674456</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt144">
+  <gml:pos>35.63001285 138.53928010</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt145">
+  <gml:pos>35.52328148 138.84908254</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt146">
+  <gml:pos>35.52145642 138.84679804</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt147">
+  <gml:pos>35.53697693 138.82288607</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt148">
+  <gml:pos>35.52852578 138.83257657</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt149">
+  <gml:pos>35.53140171 138.83488528</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt150">
+  <gml:pos>35.40484603 138.89123104</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt151">
+  <gml:pos>35.42740542 138.84636297</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt152">
+  <gml:pos>35.41844801 138.85496609</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt153">
+  <gml:pos>35.40838072 138.87821735</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt154">
+  <gml:pos>35.51012335 138.74459386</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt155">
+  <gml:pos>35.49740066 138.73907592</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt156">
+  <gml:pos>35.52351237 138.74634123</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt157">
+  <gml:pos>35.50503083 138.73396912</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt158">
+  <gml:pos>35.51201832 138.75514607</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt159">
+  <gml:pos>35.47963641 138.75927724</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt160">
+  <gml:pos>35.47073933 138.73900386</gml:pos>
+</gml:Point>
+<ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>笛吹川フルーツ公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>195000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk2">
+  <ksj:loc xlink:href="#pt2"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>富士川クラフトパーク</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡身延町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk2_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>528000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk3">
+  <ksj:loc xlink:href="#pt3"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>曽根丘陵公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk3_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>381000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk4">
+  <ksj:loc xlink:href="#pt4"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>小瀬スポーツ公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk4_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>460000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk5">
+  <ksj:loc xlink:href="#pt5"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>舞鶴城公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk5_TI1">
+      <gml:timePosition>1962</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>61000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk6">
+  <ksj:loc xlink:href="#pt6"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk6_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3200</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk7">
+  <ksj:loc xlink:href="#pt7"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>丸の内公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk7_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk8">
+  <ksj:loc xlink:href="#pt8"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>緑が丘スポーツ公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk8_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>310915</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk9">
+  <ksj:loc xlink:href="#pt9"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>釜無川スポーツ公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk9_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>145000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk10">
+  <ksj:loc xlink:href="#pt10"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>御勅使南公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk10_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>335000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk11">
+  <ksj:loc xlink:href="#pt11"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>富士北麓公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk11_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>316000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk12">
+  <ksj:loc xlink:href="#pt12"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>桂川ウェルネスパーク</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>大月市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk12_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>201000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk13">
+  <ksj:loc xlink:href="#pt13"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>芸術の森公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk13_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>60000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk14">
+  <ksj:loc xlink:href="#pt14"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>愛宕山広域公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk14_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>528000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk15">
+  <ksj:loc xlink:href="#pt15"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>御勅使公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>韮崎市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk15_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>24000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk16">
+  <ksj:loc xlink:href="#pt16"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>森林公園金川の森</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>笛吹市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk16_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>355893</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk17">
+  <ksj:loc xlink:href="#pt17"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>遊亀公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk17_TI1">
+      <gml:timePosition>1918</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>27228</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk18">
+  <ksj:loc xlink:href="#pt18"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>玉諸公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk18_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>24048</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk19">
+  <ksj:loc xlink:href="#pt19"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>池田公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk19_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16951</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk20">
+  <ksj:loc xlink:href="#pt20"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>大津公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk20_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>22239</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk21">
+  <ksj:loc xlink:href="#pt21"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>和田堀公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk21_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8680</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk22">
+  <ksj:loc xlink:href="#pt22"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>千塚公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk22_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21543</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk23">
+  <ksj:loc xlink:href="#pt23"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>朝日公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk23_TI1">
+      <gml:timePosition>1957</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>641</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk24">
+  <ksj:loc xlink:href="#pt24"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>橘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk24_TI1">
+      <gml:timePosition>1957</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1766</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk25">
+  <ksj:loc xlink:href="#pt25"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>南西区画整理第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk25_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7227</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk26">
+  <ksj:loc xlink:href="#pt26"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>南西区画整理第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk26_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3304</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk27">
+  <ksj:loc xlink:href="#pt27"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>南西区画整理第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk27_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5675</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk28">
+  <ksj:loc xlink:href="#pt28"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>南西区画整理第４公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk28_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2996</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk29">
+  <ksj:loc xlink:href="#pt29"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>二十人町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk29_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2434</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk30">
+  <ksj:loc xlink:href="#pt30"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>西青沼公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk30_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2934</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk31">
+  <ksj:loc xlink:href="#pt31"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>北河原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk31_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1153</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk32">
+  <ksj:loc xlink:href="#pt32"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>後屋なかよし公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk32_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1115</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk33">
+  <ksj:loc xlink:href="#pt33"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>朝気ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk33_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6120</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk34">
+  <ksj:loc xlink:href="#pt34"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>沼川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk34_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2358</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk35">
+  <ksj:loc xlink:href="#pt35"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>山宮桜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk35_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1881</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk36">
+  <ksj:loc xlink:href="#pt36"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>堀之内南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk36_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9392</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk37">
+  <ksj:loc xlink:href="#pt37"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>徳行公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk37_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1715</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk38">
+  <ksj:loc xlink:href="#pt38"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>古府中１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk38_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1953</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk39">
+  <ksj:loc xlink:href="#pt39"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>古府中２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk39_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1995</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk40">
+  <ksj:loc xlink:href="#pt40"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>東光寺町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk40_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1507</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk41">
+  <ksj:loc xlink:href="#pt41"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>愛宕町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk41_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1187</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk42">
+  <ksj:loc xlink:href="#pt42"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>堀之内北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk42_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2360</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk43">
+  <ksj:loc xlink:href="#pt43"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>住吉２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk43_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk44">
+  <ksj:loc xlink:href="#pt44"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>住吉３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk44_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1997</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk45">
+  <ksj:loc xlink:href="#pt45"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>住吉４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk45_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3365</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk46">
+  <ksj:loc xlink:href="#pt46"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>湯村第1公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk46_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1231</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk47">
+  <ksj:loc xlink:href="#pt47"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>国母南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk47_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1787</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk48">
+  <ksj:loc xlink:href="#pt48"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>水宮公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk48_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk49">
+  <ksj:loc xlink:href="#pt49"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>しらい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk49_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5453</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk50">
+  <ksj:loc xlink:href="#pt50"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>円満寺公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk50_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1590</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk51">
+  <ksj:loc xlink:href="#pt51"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>荒川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk51_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>461395</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk52">
+  <ksj:loc xlink:href="#pt52"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>東光寺緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk52_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2699</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk53">
+  <ksj:loc xlink:href="#pt53"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>つつじが崎霊園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk53_TI1">
+      <gml:timePosition>1959</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>39778</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk54">
+  <ksj:loc xlink:href="#pt54"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲府市</ksj:lgn>
+  <ksj:nop>甲府市歴史公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲府市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk54_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6039</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk55">
+  <ksj:loc xlink:href="#pt55"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>金鳥居市民公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk55_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2143</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk56">
+  <ksj:loc xlink:href="#pt56"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>赤坂児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk56_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1397</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk57">
+  <ksj:loc xlink:href="#pt57"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>桂川河川公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk57_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7149</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk58">
+  <ksj:loc xlink:href="#pt58"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>塩釜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk58_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1578</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk59">
+  <ksj:loc xlink:href="#pt59"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>西原南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk59_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7852</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk60">
+  <ksj:loc xlink:href="#pt60"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>堂地堀公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk60_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1711</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk61">
+  <ksj:loc xlink:href="#pt61"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>みづほ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk61_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3775</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk62">
+  <ksj:loc xlink:href="#pt62"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士吉田市</ksj:lgn>
+  <ksj:nop>丸ヶ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>富士吉田市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk62_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>716</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk63">
+  <ksj:loc xlink:href="#pt63"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>都留市</ksj:lgn>
+  <ksj:nop>城南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>都留市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk63_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1345</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk64">
+  <ksj:loc xlink:href="#pt64"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>都留市</ksj:lgn>
+  <ksj:nop>玉川公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>都留市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk64_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk65">
+  <ksj:loc xlink:href="#pt65"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>都留市</ksj:lgn>
+  <ksj:nop>楽山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>都留市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk65_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19876</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk66">
+  <ksj:loc xlink:href="#pt66"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>都留市</ksj:lgn>
+  <ksj:nop>白木山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>都留市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk66_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>40588</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk67">
+  <ksj:loc xlink:href="#pt67"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>都留市</ksj:lgn>
+  <ksj:nop>都留市総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>都留市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk67_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>112000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk68">
+  <ksj:loc xlink:href="#pt68"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>石森山つつじ公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk68_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11629</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk69">
+  <ksj:loc xlink:href="#pt69"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>金桜公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk69_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20777</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk70">
+  <ksj:loc xlink:href="#pt70"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>加納岩児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk70_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3940</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk71">
+  <ksj:loc xlink:href="#pt71"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>笛吹児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk71_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4275</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk72">
+  <ksj:loc xlink:href="#pt72"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>水の宮児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk72_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3491</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk73">
+  <ksj:loc xlink:href="#pt73"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>上神内川やすらぎ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk73_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1750</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk74">
+  <ksj:loc xlink:href="#pt74"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>万力公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk74_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>141230</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk75">
+  <ksj:loc xlink:href="#pt75"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>山梨市</ksj:lgn>
+  <ksj:nop>日川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>山梨市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk75_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5019</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk76">
+  <ksj:loc xlink:href="#pt76"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>大月市</ksj:lgn>
+  <ksj:nop>猿橋公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>大月市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk76_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk77">
+  <ksj:loc xlink:href="#pt77"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>大月市</ksj:lgn>
+  <ksj:nop>岩殿山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>大月市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk77_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>335000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk78">
+  <ksj:loc xlink:href="#pt78"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>韮崎市</ksj:lgn>
+  <ksj:nop>韮崎中央公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>韮崎市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk78_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>93779</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk79">
+  <ksj:loc xlink:href="#pt79"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>韮崎市</ksj:lgn>
+  <ksj:nop>韮崎公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>韮崎市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk79_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>48855</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk80">
+  <ksj:loc xlink:href="#pt80"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>韮崎市</ksj:lgn>
+  <ksj:nop>釜無川河川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>韮崎市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk80_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>45907</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk81">
+  <ksj:loc xlink:href="#pt81"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>仲町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk81_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk82">
+  <ksj:loc xlink:href="#pt82"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>柿平街区公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk82_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk83">
+  <ksj:loc xlink:href="#pt83"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>滝沢川児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk83_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk84">
+  <ksj:loc xlink:href="#pt84"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>一の出し街区公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk84_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk85">
+  <ksj:loc xlink:href="#pt85"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>牧野街区公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk85_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk86">
+  <ksj:loc xlink:href="#pt86"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>滝沢川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk86_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>47000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk87">
+  <ksj:loc xlink:href="#pt87"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>秋山川すももの郷公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk87_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>42000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk88">
+  <ksj:loc xlink:href="#pt88"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>白根中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk88_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>52000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk89">
+  <ksj:loc xlink:href="#pt89"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>白根中央児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk89_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk90">
+  <ksj:loc xlink:href="#pt90"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>今諏訪ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk90_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3200</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk91">
+  <ksj:loc xlink:href="#pt91"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>遊・湯ふれあい公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk91_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>29800</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk92">
+  <ksj:loc xlink:href="#pt92"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>櫛形総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk92_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>130000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk93">
+  <ksj:loc xlink:href="#pt93"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>ふれあい公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk93_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>37800</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk94">
+  <ksj:loc xlink:href="#pt94"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>南公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk94_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10200</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk95">
+  <ksj:loc xlink:href="#pt95"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南アルプス市</ksj:lgn>
+  <ksj:nop>坪川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南アルプス市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk95_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>44000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk96">
+  <ksj:loc xlink:href="#pt96"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>竜王中部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk96_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5728</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk97">
+  <ksj:loc xlink:href="#pt97"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>竜王南部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk97_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>15004</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk98">
+  <ksj:loc xlink:href="#pt98"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>信玄堤公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk98_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13078</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk99">
+  <ksj:loc xlink:href="#pt99"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>中下条公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk99_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14278</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk100">
+  <ksj:loc xlink:href="#pt100"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>玉幡公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk100_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>31096</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk101">
+  <ksj:loc xlink:href="#pt101"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>赤坂台総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk101_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>73087</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk102">
+  <ksj:loc xlink:href="#pt102"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>敷島総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk102_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>102451</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk103">
+  <ksj:loc xlink:href="#pt103"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲斐市</ksj:lgn>
+  <ksj:nop>西八幡公園（釜無川スポーツ公園の一部）</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲斐市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk103_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35177</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk104">
+  <ksj:loc xlink:href="#pt104"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>笛吹市</ksj:lgn>
+  <ksj:nop>笛吹市石和小林公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>笛吹市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk104_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4806</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk105">
+  <ksj:loc xlink:href="#pt105"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>於曽公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk105_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4866</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk106">
+  <ksj:loc xlink:href="#pt106"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>於曽第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk106_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2002</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk107">
+  <ksj:loc xlink:href="#pt107"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>塩後ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk107_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2289</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk108">
+  <ksj:loc xlink:href="#pt108"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>勝沼駅前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk108_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk109">
+  <ksj:loc xlink:href="#pt109"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>山御崎坂公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk109_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2643</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk110">
+  <ksj:loc xlink:href="#pt110"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>勝沼健康公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk110_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5814</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk111">
+  <ksj:loc xlink:href="#pt111"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>祝青空公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk111_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1395</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk112">
+  <ksj:loc xlink:href="#pt112"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>上岩崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk112_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1072</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk113">
+  <ksj:loc xlink:href="#pt113"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>等々力公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk113_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1320</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk114">
+  <ksj:loc xlink:href="#pt114"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>四季の里公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk114_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>585</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk115">
+  <ksj:loc xlink:href="#pt115"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>勝沼中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk115_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk116">
+  <ksj:loc xlink:href="#pt116"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>甲州市</ksj:lgn>
+  <ksj:nop>歴史公園「甘草屋敷」</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>甲州市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk116_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4952</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk117">
+  <ksj:loc xlink:href="#pt117"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>若宮１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk117_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1499</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk118">
+  <ksj:loc xlink:href="#pt118"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>若宮２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk118_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7528</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk119">
+  <ksj:loc xlink:href="#pt119"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>若宮３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk119_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2501</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk120">
+  <ksj:loc xlink:href="#pt120"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>阿原２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk120_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>721</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk121">
+  <ksj:loc xlink:href="#pt121"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>成島１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk121_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2628</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk122">
+  <ksj:loc xlink:href="#pt122"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>成島２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk122_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1577</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk123">
+  <ksj:loc xlink:href="#pt123"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>下河東１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk123_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2381</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk124">
+  <ksj:loc xlink:href="#pt124"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>下河東２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk124_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2501</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk125">
+  <ksj:loc xlink:href="#pt125"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>鍛冶新居１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk125_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk126">
+  <ksj:loc xlink:href="#pt126"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>鍛冶新居２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk126_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2974</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk127">
+  <ksj:loc xlink:href="#pt127"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>玉穂公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk127_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>22025</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk128">
+  <ksj:loc xlink:href="#pt128"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>田富ふるさと公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk128_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19322</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk129">
+  <ksj:loc xlink:href="#pt129"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>常永川河川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk129_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9521</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk130">
+  <ksj:loc xlink:href="#pt130"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中央市</ksj:lgn>
+  <ksj:nop>山王川河川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中央市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk130_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6010</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk131">
+  <ksj:loc xlink:href="#pt131"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>西八代郡市川三郷町</ksj:lgn>
+  <ksj:nop>市川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>西八代郡市川三郷町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk131_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>65000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk132">
+  <ksj:loc xlink:href="#pt132"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>西八代郡市川三郷町</ksj:lgn>
+  <ksj:nop>富士見公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>西八代郡市川三郷町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk132_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk133">
+  <ksj:loc xlink:href="#pt133"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>西八代郡市川三郷町</ksj:lgn>
+  <ksj:nop>新町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>西八代郡市川三郷町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk133_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk134">
+  <ksj:loc xlink:href="#pt134"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>利根川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk134_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>71188</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk135">
+  <ksj:loc xlink:href="#pt135"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>殿原公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk135_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>48000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk136">
+  <ksj:loc xlink:href="#pt136"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>青柳町街角ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk136_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>582</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk137">
+  <ksj:loc xlink:href="#pt137"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>長沢1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk137_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1394</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk138">
+  <ksj:loc xlink:href="#pt138"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>大法師公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk138_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>64004</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk139">
+  <ksj:loc xlink:href="#pt139"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>北新町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk139_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1368</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk140">
+  <ksj:loc xlink:href="#pt140"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>旭チビッコ広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk140_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk141">
+  <ksj:loc xlink:href="#pt141"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>富士川町</ksj:lgn>
+  <ksj:nop>上北チビッコ広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南巨摩郡富士川町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk141_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk142">
+  <ksj:loc xlink:href="#pt142"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中巨摩郡昭和町</ksj:lgn>
+  <ksj:nop>国母公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中巨摩郡昭和町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk142_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>33828</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk143">
+  <ksj:loc xlink:href="#pt143"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中巨摩郡昭和町</ksj:lgn>
+  <ksj:nop>阿原１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中巨摩郡昭和町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk143_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5390</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk144">
+  <ksj:loc xlink:href="#pt144"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>中巨摩郡昭和町</ksj:lgn>
+  <ksj:nop>押原公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>中巨摩郡昭和町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk144_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>61655</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk145">
+  <ksj:loc xlink:href="#pt145"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡西桂町</ksj:lgn>
+  <ksj:nop>富士見公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡西桂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk145_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>892</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk146">
+  <ksj:loc xlink:href="#pt146"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡西桂町</ksj:lgn>
+  <ksj:nop>桂川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡西桂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk146_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6043</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk147">
+  <ksj:loc xlink:href="#pt147"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡西桂町</ksj:lgn>
+  <ksj:nop>憩の森公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡西桂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk147_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20726</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk148">
+  <ksj:loc xlink:href="#pt148"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡西桂町</ksj:lgn>
+  <ksj:nop>三ッ峠さくら公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡西桂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk148_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>25377</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk149">
+  <ksj:loc xlink:href="#pt149"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡西桂町</ksj:lgn>
+  <ksj:nop>泉ヶ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡西桂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk149_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>427</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk150">
+  <ksj:loc xlink:href="#pt150"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡山中湖村</ksj:lgn>
+  <ksj:nop>山中湖太陽の広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡山中湖村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk150_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk151">
+  <ksj:loc xlink:href="#pt151"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡山中湖村</ksj:lgn>
+  <ksj:nop>山中湖ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡山中湖村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk151_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3432</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk152">
+  <ksj:loc xlink:href="#pt152"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡山中湖村</ksj:lgn>
+  <ksj:nop>山中湖ポケットパーク</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡山中湖村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk152_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>391</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk153">
+  <ksj:loc xlink:href="#pt153"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡山中湖村</ksj:lgn>
+  <ksj:nop>旭日丘湖畔緑地公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡山中湖村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk153_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>62100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk154">
+  <ksj:loc xlink:href="#pt154"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>シッコゴ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk154_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9427</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk155">
+  <ksj:loc xlink:href="#pt155"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>かえで公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk155_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>822</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk156">
+  <ksj:loc xlink:href="#pt156"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>大石公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk156_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21398</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk157">
+  <ksj:loc xlink:href="#pt157"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>小海公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk157_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13558</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk158">
+  <ksj:loc xlink:href="#pt158"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>八木崎公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk158_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>47180</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk159">
+  <ksj:loc xlink:href="#pt159"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>河口湖総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk159_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>118419</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk160">
+  <ksj:loc xlink:href="#pt160"/>
+  <ksj:adm>山梨県</ksj:adm>
+  <ksj:lgn>南都留郡富士河口湖町</ksj:lgn>
+  <ksj:nop>くぬぎ平スポーツ公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>山梨県</ksj:pop>
+  <ksj:cop>南都留郡富士河口湖町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk160_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>183606</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+</ksj:Dataset>

@@ -1,0 +1,483 @@
+openapi: 3.0.2
+info:
+  description: |-
+    Safety Park の API 仕様書
+  version: "1.0.0"
+  title: "Safety Park"
+servers:
+  - url: http://localhost:8000/api/v1
+tags:
+  - name: "key"
+    description: "key関連API"
+  - name: "user"
+    description: "ユーザー関連API"
+  - name: "park"
+    description: "公園関連API"
+
+paths:
+  /key:
+    post:
+      tags:
+        - key
+      summary: 端末ApiKey生成API
+      description: |-
+        端末を識別するためのApiKeyを生成します。
+        端末keyは他のユーザーを推測しにくいUUIDを使用する。
+        本当は認証と言うが、今回は端末ApiKeyと言うことにする
+      requestBody:
+        description: Request Body
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/KeyCreateRequest'
+        required: true
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/KeyCreateResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /user:
+    get:
+      tags:
+        - user
+      summary: Userデータ取得API
+      description: |-
+        Userデータを取得します。<br>
+        今回は登録時にユーザー名のみを登録したので、ユーザー名を返却する
+      security:
+        - ApiToken: []
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserShowResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+    patch:
+      tags:
+        - user
+      summary: Userデータ更新API
+      description: |-
+        Userデータを更新します。
+        ユーザー名とデフォルト人数を更新します。
+      security:
+        - ApiToken: []
+      requestBody:
+        description: Request Body
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserUpdateRequest'
+        required: true
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserUpdateResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /user/location:
+    get:
+      tags:
+        - user
+      summary: ユーザー位置情報取得API
+      description: |-
+        デフォルトでは、最新の位置情報から10件取得する。<br>
+        認証中(X-API-TOKENの値のユーザー)のデータをとってきたい
+      security:
+        - ApiToken: []
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserShowResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+    post:
+      tags:
+        - user
+      summary: ユーザー位置情報記録API
+      description: |-
+        このAPIは参加ボタンに当たる<br>
+        ユーザがどの公園にいるかを記録する。<br>
+        時刻はサーバー側で記録を取るため、requestBodyに現在時刻を含めない。
+      security:
+        - ApiToken: []
+      requestBody:
+        description: Request Body
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserLocationCreateRequest'
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserLocationResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+    patch:
+      tags:
+        - user
+      summary: ユーザー位置情報更新API
+      description: |-
+        このAPIは参加ボタンに当たる<br>
+        主に終了時刻を治すことに使いたい。
+      security:
+        - ApiToken: []
+      requestBody:
+        description: Request Body
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserLocationUpdateRequest'
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserLocationResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /park:
+    get:
+      tags:
+        - park
+      summary: 公園一覧取得API
+      description: |-
+        公園名と公園滞在人数を取得する<br>
+        公園滞在人数はクエリパラメータのstart_time(始まりの時間)とend_time(終わりの時間)とtime_diff(時間幅)の値に応じて、配列で返却する<br>
+        時間幅は分単位である
+      parameters:
+        - name: time_diff
+          in: query
+          description: 時間幅(分)
+          schema:
+            type: integer
+            minimum: 30
+            default: 60
+        - name: start_time
+          in: query
+          description: 始まりの時間
+          schema:
+            type: string
+            format: 'date-time'
+        - name: end_time
+          in: query
+          description: 終わりの時間
+          schema:
+            type: string
+            format: 'date-time'
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ParkIndexResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+  /park/{id}:
+    get:
+      tags:
+        - park
+      summary: 公園の個別情報取得API
+      description: |-
+        idは公園IDである。<br>
+        公園名と公園滞在人数を取得する<br>
+        公園滞在人数はクエリパラメータのstart_time(始まりの時間)とend_time(終わりの時間)とtime_diff(時間幅)の値に応じて、配列で返却する<br>
+        時間幅は分単位である
+      parameters:
+        - name: id
+          in: path
+          schema:
+            type: integer
+          required: true
+        - name: time_diff
+          in: query
+          description: 時間幅(分)
+          schema:
+            type: integer
+            minimum: 30
+            default: 60
+        - name: start_time
+          in: query
+          description: 始まりの時間
+          schema:
+            type: string
+            format: 'date-time'
+        - name: end_time
+          in: query
+          description: 終わりの時間
+          schema:
+            type: string
+            format: 'date-time'
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ParkShowResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+components:
+  schemas:
+    KeyCreateRequest:
+      type: object
+      properties:
+        name:
+          type: string
+          description: ユーザー名
+    KeyCreateResponse:
+      type: object
+      properties:
+        data:
+          type: object
+          properties:
+            token:
+              type: string
+              format: uuid
+            name:
+              type: string
+              description: ユーザー名
+            default_number:
+              type: number
+              description: デフォルト人数
+    UserShowResponse:
+      type: object
+      properties:
+        data:
+          type: object
+          properties:
+            name:
+              type: string
+              description: ユーザー名
+            default_number:
+              type: number
+              description: デフォルト人数
+    UserUpdateRequest:
+      type: object
+      properties:
+        name:
+          type: string
+          description: ユーザー名
+        default_number:
+          type: number
+          description: デフォルト人数
+    UserUpdateResponse:
+      type: object
+      properties:
+        data:
+          type: object
+          properties:
+            name:
+              type: string
+              description: ユーザー名
+            default_number:
+              type: number
+              description: デフォルト人数
+    UserLocationCreateRequest:
+      type: object
+      properties:
+        park_id:
+          type: integer
+          description: 公園ID
+        longitude:
+          type: number
+          format: float
+          description: 緯度
+        latitude:
+          type: number
+          format: float
+          description: 経度
+    UserLocationUpdateRequest:
+      type: object
+      properties:
+        park_id:
+          type: integer
+          description: 公園ID
+        longitude:
+          type: number
+          format: float
+          description: 緯度
+        latitude:
+          type: number
+          format: float
+          description: 経度
+    UserLocationResponse:
+        type: object
+        properties:
+          id:
+            type: integer
+            description: user_location_id
+          user_id:
+            type: integer
+            description: ユーザーID
+          park_id:
+            type: integer
+            description: 公園ID
+          longitude:
+            type: number
+            format: float
+            description: 緯度
+          latitude:
+            type: number
+            format: float
+            description: 経度
+
+
+    ParkIndexResponse:
+      type: object
+      properties:
+        data:
+          type: object
+          properties:
+            park:
+              type: array
+              items:
+                $ref: '#/components/schemas/ParkModel'
+    ParkShowResponse:
+      type: object
+      properties:
+        data:
+          $ref: '#/components/schemas/ParkModel'
+
+    ParkModel:
+      type: object
+      properties:
+        id:
+          description: 公園ID
+          type: integer
+        name:
+          description: 公園名
+          type: string
+        count:
+          description: 合計滞在人数
+          type: integer
+        people:
+          description: 滞在時間ごとの滞在人数
+          type: array
+          items:
+            type: object
+            properties:
+              count:
+                description: 人数
+                type: integer
+              start_time:
+                description: 始まりの時間
+                type: string
+                format: 'date-time'
+              end_time:
+                description: 終わりの時間
+                type: string
+                format: 'date-time'
+
+    ErrorResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          description: ステータスコード
+        message:
+          type: string
+          description: エラーメッセージ
+      required:
+        - code
+        - message
+  securitySchemes:
+    ApiToken:
+      type: apiKey
+      in: header
+      name: X-API-TOKEN

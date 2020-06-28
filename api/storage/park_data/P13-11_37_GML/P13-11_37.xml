@@ -1,0 +1,6617 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+<gml:description>国土数値情報（都市公園）データ P13-11_37.xml</gml:description>
+<gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+    <gml:lowerCorner>34.07762433 133.63700252</gml:lowerCorner>
+    <gml:upperCorner>34.48017227 134.37271150</gml:upperCorner>
+    <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+    <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Point gml:id="pt1">
+  <gml:pos>34.21615333 134.00609699</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt2">
+  <gml:pos>34.35189680 133.82663040</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt3">
+  <gml:pos>34.36498287 133.96142487</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt4">
+  <gml:pos>34.26196461 133.78604260</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt5">
+  <gml:pos>34.13406963 133.64220318</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt6">
+  <gml:pos>34.25261896 134.18332288</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt7">
+  <gml:pos>34.28668303 134.25517881</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt8">
+  <gml:pos>34.18198636 133.81951529</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt9">
+  <gml:pos>34.26866323 133.74498365</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt10">
+  <gml:pos>34.32943698 134.04407514</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt11">
+  <gml:pos>34.32097147 133.84559769</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt12">
+  <gml:pos>34.25512538 133.83515776</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt13">
+  <gml:pos>34.29327112 134.01424803</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt14">
+  <gml:pos>34.28527472 134.01659160</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt15">
+  <gml:pos>34.33810737 134.06204259</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt16">
+  <gml:pos>34.33348856 134.05602017</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt17">
+  <gml:pos>34.33702695 134.04071456</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt18">
+  <gml:pos>34.34502207 134.04088093</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt19">
+  <gml:pos>34.35007305 134.05562089</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt20">
+  <gml:pos>34.34648064 134.05735109</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt21">
+  <gml:pos>34.34331415 134.05411963</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt22">
+  <gml:pos>34.33940388 134.05512180</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt23">
+  <gml:pos>34.33678385 134.05698509</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt24">
+  <gml:pos>34.33681086 134.05592035</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt25">
+  <gml:pos>34.33275928 134.04966501</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt26">
+  <gml:pos>34.33354259 134.04397532</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt27">
+  <gml:pos>34.34040327 134.03945019</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt28">
+  <gml:pos>34.34332041 134.06353988</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt29">
+  <gml:pos>34.34259112 134.06636809</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt30">
+  <gml:pos>34.34372556 134.06929612</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt31">
+  <gml:pos>34.34364453 134.07245706</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt32">
+  <gml:pos>34.34048430 134.06833120</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt33">
+  <gml:pos>34.33845851 134.06686718</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt34">
+  <gml:pos>34.33672983 134.06470444</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt35">
+  <gml:pos>34.34234803 134.02647370</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt36">
+  <gml:pos>34.34102451 134.07212433</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt37">
+  <gml:pos>34.34758807 134.03708780</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt38">
+  <gml:pos>34.33871491 134.07171952</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt39">
+  <gml:pos>34.33662179 134.01123464</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt40">
+  <gml:pos>34.34340144 134.01655832</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt41">
+  <gml:pos>34.34232102 134.01216628</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt42">
+  <gml:pos>34.34025412 134.01374216</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt43">
+  <gml:pos>34.33602828 134.03990847</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt44">
+  <gml:pos>34.32230619 134.04513988</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt45">
+  <gml:pos>34.32106371 134.04264440</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt46">
+  <gml:pos>34.31982122 134.04533952</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt47">
+  <gml:pos>34.31956000 134.04346000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt48">
+  <gml:pos>34.31898390 134.03951673</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt49">
+  <gml:pos>34.32737938 134.06002286</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt50">
+  <gml:pos>34.32421000 134.06544000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt51">
+  <gml:pos>34.32164493 134.06495122</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt52">
+  <gml:pos>34.32223171 134.06110710</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt53">
+  <gml:pos>34.32281849 134.05746010</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt54">
+  <gml:pos>34.33028661 134.06159993</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt55">
+  <gml:pos>34.32697930 134.06258561</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt56">
+  <gml:pos>34.32391204 134.06090996</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt57">
+  <gml:pos>34.34874352 134.08808171</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt58">
+  <gml:pos>34.33634111 134.07198237</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt59">
+  <gml:pos>34.32929975 134.05939859</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt60">
+  <gml:pos>34.34223559 134.11600914</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt61">
+  <gml:pos>34.31329665 134.04274070</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt62">
+  <gml:pos>34.34585940 134.05854892</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt63">
+  <gml:pos>34.33732797 134.06987959</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt64">
+  <gml:pos>34.33559430 134.07829068</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt65">
+  <gml:pos>34.34094348 134.07129250</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt66">
+  <gml:pos>34.31569711 134.05621158</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt67">
+  <gml:pos>34.30694875 134.06843394</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt68">
+  <gml:pos>34.30716213 134.05368169</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt69">
+  <gml:pos>34.30633530 134.05808436</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt70">
+  <gml:pos>34.30017411 134.05683584</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt71">
+  <gml:pos>34.30329471 134.06002286</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt72">
+  <gml:pos>34.30537511 134.06235562</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt73">
+  <gml:pos>34.30478833 134.06606832</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt74">
+  <gml:pos>34.30382815 134.06892678</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt75">
+  <gml:pos>34.34039523 134.07602363</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt76">
+  <gml:pos>34.31849766 134.06495122</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt77">
+  <gml:pos>34.31769750 134.06886107</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt78">
+  <gml:pos>34.31625722 134.06005571</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt79">
+  <gml:pos>34.31404346 134.06853251</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt80">
+  <gml:pos>34.31110956 134.05759153</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt81">
+  <gml:pos>34.30971734 134.05480664</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt82">
+  <gml:pos>34.31092286 134.06616689</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt83">
+  <gml:pos>34.29990739 134.05263030</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt84">
+  <gml:pos>34.34511615 134.13565691</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt85">
+  <gml:pos>34.34636972 134.12054324</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt86">
+  <gml:pos>34.34180884 134.15382616</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt87">
+  <gml:pos>34.30062553 133.95882431</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt88">
+  <gml:pos>34.33863489 134.06458981</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt89">
+  <gml:pos>34.33981116 134.05151573</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt90">
+  <gml:pos>34.35442518 133.99665244</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt91">
+  <gml:pos>34.29399105 134.09549473</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt92">
+  <gml:pos>34.31798451 134.04866682</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt93">
+  <gml:pos>34.33951506 134.11147504</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt94">
+  <gml:pos>34.33850000 134.10835000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt95">
+  <gml:pos>34.34114204 134.11242786</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt96">
+  <gml:pos>34.34629157 134.03166429</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt97">
+  <gml:pos>34.33539000 134.11252000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt98">
+  <gml:pos>34.33783474 134.11485918</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt99">
+  <gml:pos>34.35367780 134.02769275</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt100">
+  <gml:pos>34.35730517 134.08864026</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt101">
+  <gml:pos>34.35317104 134.08739174</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt102">
+  <gml:pos>34.35341109 134.09067732</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt103">
+  <gml:pos>34.34837011 134.09087445</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt104">
+  <gml:pos>34.35159740 134.02542570</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt105">
+  <gml:pos>34.33516755 134.06652830</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt106">
+  <gml:pos>34.32347382 134.09849203</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt107">
+  <gml:pos>34.35001438 134.01714788</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt108">
+  <gml:pos>34.34861992 134.01873143</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt109">
+  <gml:pos>34.34903691 134.01310477</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt110">
+  <gml:pos>34.35002376 134.01353190</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt111">
+  <gml:pos>34.34519616 134.07047100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt112">
+  <gml:pos>34.32089633 134.00004023</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt113">
+  <gml:pos>34.31713573 133.99674474</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt114">
+  <gml:pos>34.32145987 134.00488229</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt115">
+  <gml:pos>34.33311042 134.05968020</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt116">
+  <gml:pos>34.30305605 134.03313311</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt117">
+  <gml:pos>34.34943698 134.04444921</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt118">
+  <gml:pos>34.35093061 134.04201788</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt119">
+  <gml:pos>34.27747457 134.08567840</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt120">
+  <gml:pos>34.27084692 134.10589868</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt121">
+  <gml:pos>34.32796616 134.16351862</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt122">
+  <gml:pos>34.33921480 134.05685199</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt123">
+  <gml:pos>34.36343970 133.96832232</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt124">
+  <gml:pos>34.34909025 134.05085609</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt125">
+  <gml:pos>34.30407131 134.10601318</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt126">
+  <gml:pos>34.29728332 134.06009426</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt127">
+  <gml:pos>34.34660977 134.08762173</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt128">
+  <gml:pos>34.30444160 134.05516020</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt129">
+  <gml:pos>34.32028467 134.05821579</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt130">
+  <gml:pos>34.33114011 134.03518387</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt131">
+  <gml:pos>34.32537899 134.05861006</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt132">
+  <gml:pos>34.31380341 134.05552161</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt133">
+  <gml:pos>34.30252123 134.06380127</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt134">
+  <gml:pos>34.33170021 134.14741928</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt135">
+  <gml:pos>34.34655643 134.13352128</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt136">
+  <gml:pos>34.33412735 134.15773600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt137">
+  <gml:pos>34.34126000 134.04668000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt138">
+  <gml:pos>34.27309000 133.95030000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt139">
+  <gml:pos>34.30948258 133.95357007</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt140">
+  <gml:pos>34.27219535 134.04773479</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt141">
+  <gml:pos>34.33009990 134.02601710</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt142">
+  <gml:pos>34.32836623 134.12267886</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt143">
+  <gml:pos>34.35017000 134.05135000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt144">
+  <gml:pos>34.34524951 134.05834721</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt145">
+  <gml:pos>34.34732991 134.07792927</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt146">
+  <gml:pos>34.34435736 134.08653155</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt147">
+  <gml:pos>34.34078254 134.10678749</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt148">
+  <gml:pos>34.35317104 134.03055120</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt149">
+  <gml:pos>34.35909219 134.06488551</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt150">
+  <gml:pos>34.35885214 134.06849965</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt151">
+  <gml:pos>34.34911692 134.03649810</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt152">
+  <gml:pos>34.26064499 134.07451756</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt153">
+  <gml:pos>34.28984898 133.97263693</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt154">
+  <gml:pos>34.31879105 134.05568589</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt155">
+  <gml:pos>34.29668010 133.79914781</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt156">
+  <gml:pos>34.29911391 133.80059512</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt157">
+  <gml:pos>34.26547405 133.77815295</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt158">
+  <gml:pos>34.29371952 133.79362803</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt159">
+  <gml:pos>34.30081423 133.80407618</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt160">
+  <gml:pos>34.28971856 133.78210478</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt161">
+  <gml:pos>34.29932061 133.80903740</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt162">
+  <gml:pos>34.29905389 133.80631037</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt163">
+  <gml:pos>34.28820673 133.80800042</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt164">
+  <gml:pos>34.28233065 133.77233748</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt165">
+  <gml:pos>34.29686737 133.80342325</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt166">
+  <gml:pos>34.28857085 133.79643182</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt167">
+  <gml:pos>34.25677903 133.78239135</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt168">
+  <gml:pos>34.26993280 133.82603097</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt169">
+  <gml:pos>34.24771133 133.82958473</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt170">
+  <gml:pos>34.26649006 133.83301622</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt171">
+  <gml:pos>34.22410459 133.86414696</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt172">
+  <gml:pos>34.25593505 133.88723816</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt173">
+  <gml:pos>34.25798145 133.88800364</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt174">
+  <gml:pos>34.25886198 133.89130385</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt175">
+  <gml:pos>34.25637742 133.89056048</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt176">
+  <gml:pos>34.23408877 133.86835293</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt177">
+  <gml:pos>34.30614860 133.80437188</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt178">
+  <gml:pos>34.28670483 133.76882191</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt179">
+  <gml:pos>34.28817178 133.79835927</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt180">
+  <gml:pos>34.27587607 133.79773501</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt181">
+  <gml:pos>34.26096186 133.81144254</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt182">
+  <gml:pos>34.26274792 133.78787261</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt183">
+  <gml:pos>34.27280232 133.84009043</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt184">
+  <gml:pos>34.21222770 133.86511835</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt185">
+  <gml:pos>34.26715438 133.87327049</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt186">
+  <gml:pos>34.30801563 133.77854722</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt187">
+  <gml:pos>34.21021668 133.86461299</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt188">
+  <gml:pos>34.26564751 133.88126777</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt189">
+  <gml:pos>34.28614472 133.80046204</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt190">
+  <gml:pos>34.29371527 133.82467447</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt191">
+  <gml:pos>34.29257263 133.78383701</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt192">
+  <gml:pos>34.30095617 133.76442016</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt193">
+  <gml:pos>34.30862908 133.80263052</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt194">
+  <gml:pos>34.30151468 133.78565590</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt195">
+  <gml:pos>34.30071249 133.78581260</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt196">
+  <gml:pos>34.29762078 133.79726855</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt197">
+  <gml:pos>34.30509925 133.79743875</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt198">
+  <gml:pos>34.30019105 133.80561616</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt199">
+  <gml:pos>34.30399396 133.81615831</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt200">
+  <gml:pos>34.28540780 133.81453200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt201">
+  <gml:pos>34.23558826 133.83582309</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt202">
+  <gml:pos>34.24903599 133.84007974</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt203">
+  <gml:pos>34.26173889 133.83345184</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt204">
+  <gml:pos>34.29462637 133.80286051</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt205">
+  <gml:pos>34.28133046 133.79992813</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt206">
+  <gml:pos>34.28858693 133.79545254</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt207">
+  <gml:pos>34.28997642 133.79942777</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt208">
+  <gml:pos>34.29470866 133.79349810</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt209">
+  <gml:pos>34.27141455 133.82923006</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt210">
+  <gml:pos>34.31347002 133.85266169</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt211">
+  <gml:pos>34.31713739 133.85434555</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt212">
+  <gml:pos>34.32260512 133.83713733</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt213">
+  <gml:pos>34.30080089 133.85545443</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt214">
+  <gml:pos>34.30960260 133.89742772</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt215">
+  <gml:pos>34.32157159 133.85705615</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt216">
+  <gml:pos>34.31924604 133.85800017</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt217">
+  <gml:pos>34.32203834 133.86017746</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt218">
+  <gml:pos>34.32335132 133.84630317</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt219">
+  <gml:pos>34.32043803 133.84157286</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt220">
+  <gml:pos>34.32023799 133.84461202</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt221">
+  <gml:pos>34.32097147 133.85003323</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt222">
+  <gml:pos>34.32453883 133.85003323</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt223">
+  <gml:pos>34.28690967 133.84087134</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt224">
+  <gml:pos>34.32670591 133.86646113</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt225">
+  <gml:pos>34.31797748 133.83358556</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt226">
+  <gml:pos>34.34745822 133.82419690</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt227">
+  <gml:pos>34.33623770 133.87468572</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt228">
+  <gml:pos>34.31410347 133.83853370</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt229">
+  <gml:pos>34.30069874 133.84201954</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt230">
+  <gml:pos>34.31354174 133.85726151</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt231">
+  <gml:pos>34.31244872 133.85605599</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt232">
+  <gml:pos>34.22750121 133.78404320</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt233">
+  <gml:pos>34.22982048 133.78551265</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt234">
+  <gml:pos>34.22498621 133.77922898</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt235">
+  <gml:pos>34.23222094 133.80990808</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt236">
+  <gml:pos>34.25001818 133.78020227</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt237">
+  <gml:pos>34.22595306 133.77631303</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt238">
+  <gml:pos>34.22923002 133.76524522</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt239">
+  <gml:pos>34.21913210 133.77814109</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt240">
+  <gml:pos>34.22895364 133.78062535</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt241">
+  <gml:pos>34.21268383 133.77364349</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt242">
+  <gml:pos>34.22443395 133.77211704</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt243">
+  <gml:pos>34.22274939 133.77071031</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt244">
+  <gml:pos>34.22747717 133.79115982</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt245">
+  <gml:pos>34.24076377 133.79498088</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt246">
+  <gml:pos>34.21358400 133.77298638</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt247">
+  <gml:pos>34.20637132 133.76878771</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt248">
+  <gml:pos>34.22685180 133.75137494</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt249">
+  <gml:pos>34.24832406 133.79072851</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt250">
+  <gml:pos>34.23852216 133.76173327</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt251">
+  <gml:pos>34.23511537 133.78683005</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt252">
+  <gml:pos>34.22721997 133.80555469</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt253">
+  <gml:pos>34.21940590 133.78023589</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt254">
+  <gml:pos>34.12453342 133.65092708</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt255">
+  <gml:pos>34.13023452 133.65507513</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt256">
+  <gml:pos>34.10531008 133.64439228</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt257">
+  <gml:pos>34.12640106 133.65535799</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt258">
+  <gml:pos>34.12283309 133.63905793</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt259">
+  <gml:pos>34.12899392 133.65260805</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt260">
+  <gml:pos>34.12934511 133.65221603</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt261">
+  <gml:pos>34.12043262 133.64164532</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt262">
+  <gml:pos>34.08555920 133.63889365</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt263">
+  <gml:pos>34.11039734 133.68760237</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt264">
+  <gml:pos>34.11681771 133.64166770</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt265">
+  <gml:pos>34.12993621 133.65276814</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt266">
+  <gml:pos>34.12712906 133.65131662</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt267">
+  <gml:pos>34.07762433 133.68805414</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt268">
+  <gml:pos>34.30627262 134.18397925</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt269">
+  <gml:pos>34.31098836 134.18669987</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt270">
+  <gml:pos>34.30903582 134.18676410</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt271">
+  <gml:pos>34.30743311 134.18892809</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt272">
+  <gml:pos>34.32526134 134.17304827</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt273">
+  <gml:pos>34.32465985 134.17288833</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt274">
+  <gml:pos>34.32413100 134.17350660</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt275">
+  <gml:pos>34.31587899 134.18440338</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt276">
+  <gml:pos>34.31624380 134.18615562</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt277">
+  <gml:pos>34.31171046 134.16966585</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt278">
+  <gml:pos>34.30862267 134.16994934</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt279">
+  <gml:pos>34.30969558 134.16876140</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt280">
+  <gml:pos>34.30203526 134.17990130</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt281">
+  <gml:pos>34.31496726 134.16991614</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt282">
+  <gml:pos>34.32585646 134.16692235</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt283">
+  <gml:pos>34.29942951 134.18275680</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt284">
+  <gml:pos>34.29947392 134.18214739</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt285">
+  <gml:pos>34.29608448 134.18248965</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt286">
+  <gml:pos>34.29670422 134.18029624</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt287">
+  <gml:pos>34.29381379 134.18138635</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt288">
+  <gml:pos>34.29532350 134.18409499</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt289">
+  <gml:pos>34.30530518 134.18486298</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt290">
+  <gml:pos>34.29313168 134.18113782</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt291">
+  <gml:pos>34.32603154 134.19256525</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt292">
+  <gml:pos>34.25640563 134.24299680</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt293">
+  <gml:pos>34.29457302 134.23215439</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt294">
+  <gml:pos>34.25091123 134.18425063</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt295">
+  <gml:pos>34.30919414 134.16235268</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt296">
+  <gml:pos>34.27775508 134.24201566</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt297">
+  <gml:pos>34.32527230 134.19317098</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt298">
+  <gml:pos>34.28235791 134.25445269</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt299">
+  <gml:pos>34.27456329 134.25656953</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt300">
+  <gml:pos>34.23232096 134.37271150</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt301">
+  <gml:pos>34.24154942 134.31685664</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt302">
+  <gml:pos>34.24010914 134.37037874</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt303">
+  <gml:pos>34.24325641 134.32027364</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt304">
+  <gml:pos>34.24576357 134.33860718</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt305">
+  <gml:pos>34.21996725 133.67147019</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt306">
+  <gml:pos>34.23601702 133.66861889</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt307">
+  <gml:pos>34.19321911 133.64482607</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt308">
+  <gml:pos>34.20878149 133.63700252</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt309">
+  <gml:pos>34.22685324 133.66627896</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt310">
+  <gml:pos>34.19922102 133.64377600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt311">
+  <gml:pos>34.14985391 133.67268595</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt312">
+  <gml:pos>34.13849537 133.69057674</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt313">
+  <gml:pos>34.19226973 133.64327033</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt314">
+  <gml:pos>34.48017227 134.17547253</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt315">
+  <gml:pos>34.47360698 134.31513848</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt316">
+  <gml:pos>34.47824750 134.30150300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt317">
+  <gml:pos>34.47962968 134.30669594</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt318">
+  <gml:pos>34.47840271 134.29910731</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt319">
+  <gml:pos>34.31324331 133.80831458</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt320">
+  <gml:pos>34.31100287 133.82102977</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt321">
+  <gml:pos>34.30388449 133.80969922</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt322">
+  <gml:pos>34.30267245 133.81191265</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt323">
+  <gml:pos>34.31457627 133.81381102</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt324">
+  <gml:pos>34.31305884 133.82039792</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt325">
+  <gml:pos>34.31046493 133.82349403</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt326">
+  <gml:pos>34.31607768 133.82737918</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt327">
+  <gml:pos>34.17707044 133.82067985</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt328">
+  <gml:pos>34.19842106 133.83965901</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt329">
+  <gml:pos>34.17311610 133.86844465</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt330">
+  <gml:pos>34.16609347 133.88672567</gml:pos>
+</gml:Point>
+<ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>さぬき空港公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>678700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk2">
+  <ksj:loc xlink:href="#pt2"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>瀬戸大橋記念公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk2_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>224817</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk3">
+  <ksj:loc xlink:href="#pt3"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>香川県総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk3_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>309000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk4">
+  <ksj:loc xlink:href="#pt4"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>香川県立丸亀競技場</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk4_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>102000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk5">
+  <ksj:loc xlink:href="#pt5"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>琴弾公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk5_TI1">
+      <gml:timePosition>1897</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>385554</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk6">
+  <ksj:loc xlink:href="#pt6"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>亀鶴公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk6_TI1">
+      <gml:timePosition>1949</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>189721</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk7">
+  <ksj:loc xlink:href="#pt7"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>琴林公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk7_TI1">
+      <gml:timePosition>1915</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>93024</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk8">
+  <ksj:loc xlink:href="#pt8"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>琴平公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>仲多度郡琴平町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk8_TI1">
+      <gml:timePosition>1898</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>74561</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk9">
+  <ksj:loc xlink:href="#pt9"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>桃陵公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>仲多度郡多度津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk9_TI1">
+      <gml:timePosition>1947</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>100605</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk10">
+  <ksj:loc xlink:href="#pt10"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>栗林公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk10_TI1">
+      <gml:timePosition>1875</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>753120</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk11">
+  <ksj:loc xlink:href="#pt11"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>坂出緩衝緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk11_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>204789</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk12">
+  <ksj:loc xlink:href="#pt12"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>土器川公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk12_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>236404</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk13">
+  <ksj:loc xlink:href="#pt13"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>香東川公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk13_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>293052</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk14">
+  <ksj:loc xlink:href="#pt14"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>円座公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk14_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>24812</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk15">
+  <ksj:loc xlink:href="#pt15"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk15_TI1">
+      <gml:timePosition>1965</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6560</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk16">
+  <ksj:loc xlink:href="#pt16"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>花園公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk16_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>873</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk17">
+  <ksj:loc xlink:href="#pt17"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>亀岡公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk17_TI1">
+      <gml:timePosition>1959</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7719</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk18">
+  <ksj:loc xlink:href="#pt18"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>番町二丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk18_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3140</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk19">
+  <ksj:loc xlink:href="#pt19"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>北浜小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk19_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>393</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk20">
+  <ksj:loc xlink:href="#pt20"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>城東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk20_TI1">
+      <gml:timePosition>1962</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>426</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk21">
+  <ksj:loc xlink:href="#pt21"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>御坊町小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk21_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>849</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk22">
+  <ksj:loc xlink:href="#pt22"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>塩上小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk22_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>469</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk23">
+  <ksj:loc xlink:href="#pt23"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>花園第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk23_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1520</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk24">
+  <ksj:loc xlink:href="#pt24"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>花園第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk24_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>363</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk25">
+  <ksj:loc xlink:href="#pt25"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>藤塚小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk25_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1330</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk26">
+  <ksj:loc xlink:href="#pt26"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>中野町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk26_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1385</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk27">
+  <ksj:loc xlink:href="#pt27"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>番町四丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk27_TI1">
+      <gml:timePosition>1965</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1028</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk28">
+  <ksj:loc xlink:href="#pt28"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新開西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk28_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3467</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk29">
+  <ksj:loc xlink:href="#pt29"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新開東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk29_TI1">
+      <gml:timePosition>1960</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4276</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk30">
+  <ksj:loc xlink:href="#pt30"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>沖松島北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk30_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1356</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk31">
+  <ksj:loc xlink:href="#pt31"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>沖松島中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk31_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1813</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk32">
+  <ksj:loc xlink:href="#pt32"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>沖松島南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk32_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1327</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk33">
+  <ksj:loc xlink:href="#pt33"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松島北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk33_TI1">
+      <gml:timePosition>1962</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1603</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk34">
+  <ksj:loc xlink:href="#pt34"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松島南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk34_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1272</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk35">
+  <ksj:loc xlink:href="#pt35"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>西方寺公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk35_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1706</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk36">
+  <ksj:loc xlink:href="#pt36"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>沖松島西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk36_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1542</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk37">
+  <ksj:loc xlink:href="#pt37"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>扇町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk37_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4362</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk38">
+  <ksj:loc xlink:href="#pt38"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>洲端公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk38_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1228</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk39">
+  <ksj:loc xlink:href="#pt39"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>明見公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk39_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7841</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk40">
+  <ksj:loc xlink:href="#pt40"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>郷東第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk40_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1870</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk41">
+  <ksj:loc xlink:href="#pt41"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>郷東第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk41_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3010</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk42">
+  <ksj:loc xlink:href="#pt42"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>中津公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk42_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1345</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk43">
+  <ksj:loc xlink:href="#pt43"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>姥ヶ池公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk43_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>861</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk44">
+  <ksj:loc xlink:href="#pt44"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>上之町北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk44_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1363</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk45">
+  <ksj:loc xlink:href="#pt45"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>ハゼ東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk45_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2250</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk46">
+  <ksj:loc xlink:href="#pt46"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>上之町南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk46_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1348</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk47">
+  <ksj:loc xlink:href="#pt47"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>つくだ橋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk47_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>503</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk48">
+  <ksj:loc xlink:href="#pt48"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>ハゼ西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk48_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2369</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk49">
+  <ksj:loc xlink:href="#pt49"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>上福岡宮西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk49_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2026</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk50">
+  <ksj:loc xlink:href="#pt50"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松縄北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk50_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1839</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk51">
+  <ksj:loc xlink:href="#pt51"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松縄東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk51_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2141</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk52">
+  <ksj:loc xlink:href="#pt52"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松縄西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk52_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1437</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk53">
+  <ksj:loc xlink:href="#pt53"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>今里西脇公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk53_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1660</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk54">
+  <ksj:loc xlink:href="#pt54"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>上福岡弁財天公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk54_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>925</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk55">
+  <ksj:loc xlink:href="#pt55"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>上福岡宮東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk55_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1090</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk56">
+  <ksj:loc xlink:href="#pt56"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>今里東脇公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk56_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1428</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk57">
+  <ksj:loc xlink:href="#pt57"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>亥浜第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk57_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1851</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk58">
+  <ksj:loc xlink:href="#pt58"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>洲端第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk58_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1066</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk59">
+  <ksj:loc xlink:href="#pt59"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>今里楠川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk59_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>570</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk60">
+  <ksj:loc xlink:href="#pt60"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>相引東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk60_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2023</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk61">
+  <ksj:loc xlink:href="#pt61"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>高田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk61_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2031</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk62">
+  <ksj:loc xlink:href="#pt62"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>杣場川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk62_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3058</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk63">
+  <ksj:loc xlink:href="#pt63"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松島東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk63_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2033</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk64">
+  <ksj:loc xlink:href="#pt64"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>木太北部公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk64_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1221</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk65">
+  <ksj:loc xlink:href="#pt65"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>沖松島新公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk65_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4684</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk66">
+  <ksj:loc xlink:href="#pt66"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>伏石中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk66_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2151</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk67">
+  <ksj:loc xlink:href="#pt67"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>浴公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk67_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2407</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk68">
+  <ksj:loc xlink:href="#pt68"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>居石ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk68_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2120</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk69">
+  <ksj:loc xlink:href="#pt69"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>多肥北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk69_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3089</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk70">
+  <ksj:loc xlink:href="#pt70"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>多肥南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk70_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5571</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk71">
+  <ksj:loc xlink:href="#pt71"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>多肥東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk71_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2073</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk72">
+  <ksj:loc xlink:href="#pt72"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>三軒屋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk72_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2889</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk73">
+  <ksj:loc xlink:href="#pt73"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>浴西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk73_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2293</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk74">
+  <ksj:loc xlink:href="#pt74"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>天皇公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk74_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2462</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk75">
+  <ksj:loc xlink:href="#pt75"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>木太新開公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk75_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2160</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk76">
+  <ksj:loc xlink:href="#pt76"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松縄天満公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk76_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1660</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk77">
+  <ksj:loc xlink:href="#pt77"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>下西原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk77_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1895</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk78">
+  <ksj:loc xlink:href="#pt78"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松縄下所公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk78_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2137</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk79">
+  <ksj:loc xlink:href="#pt79"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>木太宮前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk79_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1786</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk80">
+  <ksj:loc xlink:href="#pt80"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>伏石立石公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk80_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2178</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk81">
+  <ksj:loc xlink:href="#pt81"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>伏石南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk81_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2121</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk82">
+  <ksj:loc xlink:href="#pt82"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>平塚公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk82_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2080</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk83">
+  <ksj:loc xlink:href="#pt83"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>多肥西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk83_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3067</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk84">
+  <ksj:loc xlink:href="#pt84"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>岡の山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk84_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk85">
+  <ksj:loc xlink:href="#pt85"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>浜西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk85_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>582</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk86">
+  <ksj:loc xlink:href="#pt86"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>川西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk86_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1794</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk87">
+  <ksj:loc xlink:href="#pt87"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新居児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk87_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1418</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk88">
+  <ksj:loc xlink:href="#pt88"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松島中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk88_TI1">
+      <gml:timePosition>1958</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>555</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk89">
+  <ksj:loc xlink:href="#pt89"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>瓦町小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk89_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>121</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk90">
+  <ksj:loc xlink:href="#pt90"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>香西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk90_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>309</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk91">
+  <ksj:loc xlink:href="#pt91"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>下田井公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk91_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>154</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk92">
+  <ksj:loc xlink:href="#pt92"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>三条公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk92_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>613</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk93">
+  <ksj:loc xlink:href="#pt93"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>一本松公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk93_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>329</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk94">
+  <ksj:loc xlink:href="#pt94"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>鞍掛公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk94_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>453</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk95">
+  <ksj:loc xlink:href="#pt95"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>赤牛公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk95_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2421</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk96">
+  <ksj:loc xlink:href="#pt96"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>扇町西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk96_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2034</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk97">
+  <ksj:loc xlink:href="#pt97"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>永之谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk97_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2734</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk98">
+  <ksj:loc xlink:href="#pt98"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>津之町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk98_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1718</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk99">
+  <ksj:loc xlink:href="#pt99"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新北町北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk99_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2559</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk100">
+  <ksj:loc xlink:href="#pt100"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk100_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1852</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk101">
+  <ksj:loc xlink:href="#pt101"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>屋島中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk101_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9497</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk102">
+  <ksj:loc xlink:href="#pt102"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>亥浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk102_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2558</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk103">
+  <ksj:loc xlink:href="#pt103"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>景山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk103_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1850</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk104">
+  <ksj:loc xlink:href="#pt104"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新北町南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk104_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3130</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk105">
+  <ksj:loc xlink:href="#pt105"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>洲端西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk105_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>722</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk106">
+  <ksj:loc xlink:href="#pt106"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk106_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2186</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk107">
+  <ksj:loc xlink:href="#pt107"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>郷東町新地北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk107_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2315</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk108">
+  <ksj:loc xlink:href="#pt108"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>郷東町新地東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk108_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>786</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk109">
+  <ksj:loc xlink:href="#pt109"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>乾船入南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk109_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3279</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk110">
+  <ksj:loc xlink:href="#pt110"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>乾船入北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk110_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2461</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk111">
+  <ksj:loc xlink:href="#pt111"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>福岡三丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk111_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1003</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk112">
+  <ksj:loc xlink:href="#pt112"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>半田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk112_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1238</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk113">
+  <ksj:loc xlink:href="#pt113"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>小坂公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk113_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1560</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk114">
+  <ksj:loc xlink:href="#pt114"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>青木公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk114_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2230</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk115">
+  <ksj:loc xlink:href="#pt115"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>花園ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk115_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1588</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk116">
+  <ksj:loc xlink:href="#pt116"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>鹿角公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk116_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1349</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk117">
+  <ksj:loc xlink:href="#pt117"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>錦町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk117_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>616</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk118">
+  <ksj:loc xlink:href="#pt118"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>大的場公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk118_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1177</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk119">
+  <ksj:loc xlink:href="#pt119"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>川島中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk119_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2226</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk120">
+  <ksj:loc xlink:href="#pt120"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>十川ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk120_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1084</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk121">
+  <ksj:loc xlink:href="#pt121"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk121_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3071</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk122">
+  <ksj:loc xlink:href="#pt122"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>塩上三丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk122_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1415</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk123">
+  <ksj:loc xlink:href="#pt123"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>生島ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk123_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1704</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk124">
+  <ksj:loc xlink:href="#pt124"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>玉藻町公共広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk124_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2245</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk125">
+  <ksj:loc xlink:href="#pt125"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>前田勘定公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk125_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>113</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk126">
+  <ksj:loc xlink:href="#pt126"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>多肥日暮小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk126_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>223</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk127">
+  <ksj:loc xlink:href="#pt127"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>屋島西町子の浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk127_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>466</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk128">
+  <ksj:loc xlink:href="#pt128"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>太田中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk128_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9331</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk129">
+  <ksj:loc xlink:href="#pt129"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>松縄流石中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk129_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6787</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk130">
+  <ksj:loc xlink:href="#pt130"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>紫雲公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk130_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18704</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk131">
+  <ksj:loc xlink:href="#pt131"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>今里中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk131_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10138</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk132">
+  <ksj:loc xlink:href="#pt132"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>伏石中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk132_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12094</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk133">
+  <ksj:loc xlink:href="#pt133"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>長池中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk133_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9622</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk134">
+  <ksj:loc xlink:href="#pt134"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>牟礼中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk134_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>34519</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk135">
+  <ksj:loc xlink:href="#pt135"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>御山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk135_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35591</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk136">
+  <ksj:loc xlink:href="#pt136"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>房前公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk136_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19124</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk137">
+  <ksj:loc xlink:href="#pt137"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk137_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35196</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk138">
+  <ksj:loc xlink:href="#pt138"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>橘ノ丘総合運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk138_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>97699</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk139">
+  <ksj:loc xlink:href="#pt139"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>如意輪寺公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk139_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>44056</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk140">
+  <ksj:loc xlink:href="#pt140"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>仏生山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk140_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>90000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk141">
+  <ksj:loc xlink:href="#pt141"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>峰山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk141_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>152792</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk142">
+  <ksj:loc xlink:href="#pt142"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>高松市東部運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk142_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>41500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk143">
+  <ksj:loc xlink:href="#pt143"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>玉藻公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk143_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>80000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk144">
+  <ksj:loc xlink:href="#pt144"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>杣場川緑道</ksj:nop>
+  <ksj:kdp>12</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk144_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5863</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk145">
+  <ksj:loc xlink:href="#pt145"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>木太海浜緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk145_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3150</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk146">
+  <ksj:loc xlink:href="#pt146"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>新浜緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk146_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1639</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk147">
+  <ksj:loc xlink:href="#pt147"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>相引川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk147_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2265</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk148">
+  <ksj:loc xlink:href="#pt148"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>瀬戸内海浜緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk148_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2194</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk149">
+  <ksj:loc xlink:href="#pt149"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>朝日新町西緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk149_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7585</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk150">
+  <ksj:loc xlink:href="#pt150"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>朝日新町東緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk150_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4907</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk151">
+  <ksj:loc xlink:href="#pt151"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>瀬戸内緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk151_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>803</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk152">
+  <ksj:loc xlink:href="#pt152"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>平和公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk152_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>118600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk153">
+  <ksj:loc xlink:href="#pt153"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>六ツ目墓園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk153_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>41959</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk154">
+  <ksj:loc xlink:href="#pt154"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>高松市</ksj:lgn>
+  <ksj:nop>伏石北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>高松市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk154_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1969</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk155">
+  <ksj:loc xlink:href="#pt155"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>平山児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk155_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>940</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk156">
+  <ksj:loc xlink:href="#pt156"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富士見児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk156_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1456</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk157">
+  <ksj:loc xlink:href="#pt157"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>金倉児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk157_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3450</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk158">
+  <ksj:loc xlink:href="#pt158"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>みなと公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk158_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4159</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk159">
+  <ksj:loc xlink:href="#pt159"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>安達児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk159_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3908</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk160">
+  <ksj:loc xlink:href="#pt160"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>塩屋児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk160_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1674</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk161">
+  <ksj:loc xlink:href="#pt161"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>東新開児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk161_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2952</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk162">
+  <ksj:loc xlink:href="#pt162"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>二軒茶屋児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk162_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1638</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk163">
+  <ksj:loc xlink:href="#pt163"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>城東児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk163_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>661</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk164">
+  <ksj:loc xlink:href="#pt164"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>中津児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk164_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>500</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk165">
+  <ksj:loc xlink:href="#pt165"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>御供所児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk165_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3578</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk166">
+  <ksj:loc xlink:href="#pt166"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富屋町児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk166_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>467</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk167">
+  <ksj:loc xlink:href="#pt167"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>原田児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk167_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1560</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk168">
+  <ksj:loc xlink:href="#pt168"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>鍛冶屋高架下公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk168_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5355</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk169">
+  <ksj:loc xlink:href="#pt169"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>金山児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk169_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1209</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk170">
+  <ksj:loc xlink:href="#pt170"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>飯野児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk170_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>653</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk171">
+  <ksj:loc xlink:href="#pt171"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>鴻ノ池公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk171_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4514</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk172">
+  <ksj:loc xlink:href="#pt172"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富士見坂第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk172_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4303</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk173">
+  <ksj:loc xlink:href="#pt173"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富士見坂第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk173_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2140</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk174">
+  <ksj:loc xlink:href="#pt174"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富士見坂第三公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk174_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1428</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk175">
+  <ksj:loc xlink:href="#pt175"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富士見坂第四公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk175_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3402</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk176">
+  <ksj:loc xlink:href="#pt176"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>仁池公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk176_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1919</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk177">
+  <ksj:loc xlink:href="#pt177"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>三浦運動広場</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk177_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11250</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk178">
+  <ksj:loc xlink:href="#pt178"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>中津運動公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk178_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20130</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk179">
+  <ksj:loc xlink:href="#pt179"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>丸亀市民ひろば</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk179_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12983</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk180">
+  <ksj:loc xlink:href="#pt180"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>蓮池公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk180_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>28130</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk181">
+  <ksj:loc xlink:href="#pt181"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>郡家運動広場</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk181_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13045</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk182">
+  <ksj:loc xlink:href="#pt182"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>丸亀市総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk182_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>171980</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk183">
+  <ksj:loc xlink:href="#pt183"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>丸亀市野外活動センター</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk183_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>28805</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk184">
+  <ksj:loc xlink:href="#pt184"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>丸亀市綾歌総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk184_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8031</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk185">
+  <ksj:loc xlink:href="#pt185"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>丸亀市飯山総合運動公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk185_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>93632</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk186">
+  <ksj:loc xlink:href="#pt186"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>蓬莱海浜公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk186_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>32916</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk187">
+  <ksj:loc xlink:href="#pt187"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>綾歌森林公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk187_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2498299</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk188">
+  <ksj:loc xlink:href="#pt188"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>楠見池親水公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk188_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>218000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk189">
+  <ksj:loc xlink:href="#pt189"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>亀山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk189_TI1">
+      <gml:timePosition>1919</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>204756</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk190">
+  <ksj:loc xlink:href="#pt190"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>丸亀市青ノ山墓地公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk190_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>75690</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk191">
+  <ksj:loc xlink:href="#pt191"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>塩屋町緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk191_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>31258</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk192">
+  <ksj:loc xlink:href="#pt192"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>昭和町緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk192_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3833</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk193">
+  <ksj:loc xlink:href="#pt193"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>三浦緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk193_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2663</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk194">
+  <ksj:loc xlink:href="#pt194"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>蓬莱町第一緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk194_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5691</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk195">
+  <ksj:loc xlink:href="#pt195"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>蓬莱町第二緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk195_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8871</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk196">
+  <ksj:loc xlink:href="#pt196"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>港町緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk196_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>817</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk197">
+  <ksj:loc xlink:href="#pt197"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>富士見町緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk197_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21722</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk198">
+  <ksj:loc xlink:href="#pt198"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>二軒茶屋緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk198_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>177</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk199">
+  <ksj:loc xlink:href="#pt199"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>宇夫階緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk199_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1081</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk200">
+  <ksj:loc xlink:href="#pt200"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>土器川河川公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk200_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>60594</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk201">
+  <ksj:loc xlink:href="#pt201"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>土器川生物公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk201_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>69668</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk202">
+  <ksj:loc xlink:href="#pt202"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>綾歌土器川公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk202_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>17771</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk203">
+  <ksj:loc xlink:href="#pt203"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>水辺の楽校公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk203_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>25000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk204">
+  <ksj:loc xlink:href="#pt204"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>東汐入川緑道公園</ksj:nop>
+  <ksj:kdp>12</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk204_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8808</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk205">
+  <ksj:loc xlink:href="#pt205"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>外濠緑道公園</ksj:nop>
+  <ksj:kdp>12</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk205_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9286</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk206">
+  <ksj:loc xlink:href="#pt206"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>大手町広場</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk206_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>273</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk207">
+  <ksj:loc xlink:href="#pt207"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>大手町緑地</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk207_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1454</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk208">
+  <ksj:loc xlink:href="#pt208"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>新堀湛甫親水公園</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk208_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>737</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk209">
+  <ksj:loc xlink:href="#pt209"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>丸亀市</ksj:lgn>
+  <ksj:nop>赤山緑地</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>丸亀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk209_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>681</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk210">
+  <ksj:loc xlink:href="#pt210"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>香風園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk210_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5729</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk211">
+  <ksj:loc xlink:href="#pt211"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>鉄砲町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk211_TI1">
+      <gml:timePosition>1957</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>964</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk212">
+  <ksj:loc xlink:href="#pt212"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>御供所公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk212_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3483</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk213">
+  <ksj:loc xlink:href="#pt213"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>鎌田池公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk213_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6244</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk214">
+  <ksj:loc xlink:href="#pt214"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西庄児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk214_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1739</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk215">
+  <ksj:loc xlink:href="#pt215"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>東大浜第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk215_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1999</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk216">
+  <ksj:loc xlink:href="#pt216"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>東大浜第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk216_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4001</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk217">
+  <ksj:loc xlink:href="#pt217"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>東大浜第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk217_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk218">
+  <ksj:loc xlink:href="#pt218"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西大浜第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk218_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8502</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk219">
+  <ksj:loc xlink:href="#pt219"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西大浜第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk219_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3157</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk220">
+  <ksj:loc xlink:href="#pt220"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西大浜第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk220_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5124</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk221">
+  <ksj:loc xlink:href="#pt221"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西大浜第４公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk221_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2098</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk222">
+  <ksj:loc xlink:href="#pt222"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西大浜第５公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk222_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2247</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk223">
+  <ksj:loc xlink:href="#pt223"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>西原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk223_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1566</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk224">
+  <ksj:loc xlink:href="#pt224"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>平成公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk224_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1920</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk225">
+  <ksj:loc xlink:href="#pt225"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>聖通寺山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk225_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>385044</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk226">
+  <ksj:loc xlink:href="#pt226"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>沙弥島緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk226_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4449</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk227">
+  <ksj:loc xlink:href="#pt227"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>林田与北緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk227_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1410</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk228">
+  <ksj:loc xlink:href="#pt228"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>田尾坂公園</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk228_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7063</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk229">
+  <ksj:loc xlink:href="#pt229"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>下川津緑地公園</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk229_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10340</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk230">
+  <ksj:loc xlink:href="#pt230"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>市民広場</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk230_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2683</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk231">
+  <ksj:loc xlink:href="#pt231"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>坂出市</ksj:lgn>
+  <ksj:nop>坂出駅南口公園</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>坂出市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk231_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1080</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk232">
+  <ksj:loc xlink:href="#pt232"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>片原町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk232_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1686</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk233">
+  <ksj:loc xlink:href="#pt233"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>皇子児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk233_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1050</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk234">
+  <ksj:loc xlink:href="#pt234"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>中央児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk234_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>891</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk235">
+  <ksj:loc xlink:href="#pt235"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>御野立公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk235_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11315</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk236">
+  <ksj:loc xlink:href="#pt236"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>金蔵寺児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk236_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk237">
+  <ksj:loc xlink:href="#pt237"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>善通寺児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk237_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5970</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk238">
+  <ksj:loc xlink:href="#pt238"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>朝比奈運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk238_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>24956</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk239">
+  <ksj:loc xlink:href="#pt239"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>丸山町住宅緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk239_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3704</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk240">
+  <ksj:loc xlink:href="#pt240"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>本郷通公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk240_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>803</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk241">
+  <ksj:loc xlink:href="#pt241"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>大谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk241_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2122</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk242">
+  <ksj:loc xlink:href="#pt242"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>香色山児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk242_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2667</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk243">
+  <ksj:loc xlink:href="#pt243"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>香色山ふれあい公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk243_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6058</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk244">
+  <ksj:loc xlink:href="#pt244"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>ニ頭親水公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk244_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk245">
+  <ksj:loc xlink:href="#pt245"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>未来クルパーク２１親水公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk245_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3375</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk246">
+  <ksj:loc xlink:href="#pt246"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>王墓山古墳公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk246_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6314</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk247">
+  <ksj:loc xlink:href="#pt247"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>宮が尾古墳公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk247_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2039</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk248">
+  <ksj:loc xlink:href="#pt248"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>吉原ボランティア公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk248_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1075</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk249">
+  <ksj:loc xlink:href="#pt249"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>竜川ボランティア公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk249_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>995</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk250">
+  <ksj:loc xlink:href="#pt250"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>筆岡ボランティア公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk250_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2509</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk251">
+  <ksj:loc xlink:href="#pt251"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>東部池ノ前ボランティア公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk251_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1473</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk252">
+  <ksj:loc xlink:href="#pt252"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>鉢伏ふれあい公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk252_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>75032</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk253">
+  <ksj:loc xlink:href="#pt253"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>善通寺市</ksj:lgn>
+  <ksj:nop>丸山やすらぎ広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>善通寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk253_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2988</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk254">
+  <ksj:loc xlink:href="#pt254"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>中央児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk254_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1402</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk255">
+  <ksj:loc xlink:href="#pt255"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>ひがし児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk255_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk256">
+  <ksj:loc xlink:href="#pt256"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>山田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk256_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4411</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk257">
+  <ksj:loc xlink:href="#pt257"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>明星児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk257_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1193</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk258">
+  <ksj:loc xlink:href="#pt258"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>見卓公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk258_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>537</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk259">
+  <ksj:loc xlink:href="#pt259"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>柳町ふれあい広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk259_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>265</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk260">
+  <ksj:loc xlink:href="#pt260"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>柳町にぎわい広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk260_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>242</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk261">
+  <ksj:loc xlink:href="#pt261"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>三本松近隣公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk261_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5445</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk262">
+  <ksj:loc xlink:href="#pt262"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>一の宮公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk262_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>41122</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk263">
+  <ksj:loc xlink:href="#pt263"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>観音寺市総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk263_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>134500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk264">
+  <ksj:loc xlink:href="#pt264"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>三本松緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk264_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10026</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk265">
+  <ksj:loc xlink:href="#pt265"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>角の町小公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk265_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>144</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk266">
+  <ksj:loc xlink:href="#pt266"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>観音寺小公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk266_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>404</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk267">
+  <ksj:loc xlink:href="#pt267"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>観音寺市</ksj:lgn>
+  <ksj:nop>萩の丘公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>観音寺市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk267_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>84558</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk268">
+  <ksj:loc xlink:href="#pt268"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>南志度ニュータウン第1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk268_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6566</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk269">
+  <ksj:loc xlink:href="#pt269"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>南志度ニュータウン第2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk269_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3272</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk270">
+  <ksj:loc xlink:href="#pt270"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>南志度ニュータウン第3号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk270_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1009</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk271">
+  <ksj:loc xlink:href="#pt271"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>南志度ニュータウン第4号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk271_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1339</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk272">
+  <ksj:loc xlink:href="#pt272"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>金屋第1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk272_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>219</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk273">
+  <ksj:loc xlink:href="#pt273"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>金屋第2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk273_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>401</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk274">
+  <ksj:loc xlink:href="#pt274"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>金屋第3号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk274_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>183</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk275">
+  <ksj:loc xlink:href="#pt275"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>三井第1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk275_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>833</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk276">
+  <ksj:loc xlink:href="#pt276"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>三井第2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk276_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>905</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk277">
+  <ksj:loc xlink:href="#pt277"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>グリーンタウン1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk277_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1099</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk278">
+  <ksj:loc xlink:href="#pt278"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>グリーンタウン2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk278_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2495</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk279">
+  <ksj:loc xlink:href="#pt279"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>グリーンタウン3号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk279_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>561</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk280">
+  <ksj:loc xlink:href="#pt280"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>長行緑地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk280_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>539</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk281">
+  <ksj:loc xlink:href="#pt281"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>藤村西緑地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk281_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>130</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk282">
+  <ksj:loc xlink:href="#pt282"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>新町緑地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk282_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1750</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk283">
+  <ksj:loc xlink:href="#pt283"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk283_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1594</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk284">
+  <ksj:loc xlink:href="#pt284"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン3号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk284_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1901</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk285">
+  <ksj:loc xlink:href="#pt285"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン4号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk285_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1289</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk286">
+  <ksj:loc xlink:href="#pt286"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン5号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk286_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>616</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk287">
+  <ksj:loc xlink:href="#pt287"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン6号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk287_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk288">
+  <ksj:loc xlink:href="#pt288"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン7号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk288_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>520</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk289">
+  <ksj:loc xlink:href="#pt289"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン9号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk289_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>491</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk290">
+  <ksj:loc xlink:href="#pt290"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>オレンジタウン11号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk290_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>316</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk291">
+  <ksj:loc xlink:href="#pt291"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>志度中央スポーツ公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk291_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>57081</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk292">
+  <ksj:loc xlink:href="#pt292"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>みろく公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk292_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>253823</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk293">
+  <ksj:loc xlink:href="#pt293"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>津田総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk293_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>110000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk294">
+  <ksj:loc xlink:href="#pt294"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>長尾総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk294_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>168575</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk295">
+  <ksj:loc xlink:href="#pt295"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>間川三十二勝探勝公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk295_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>111102</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk296">
+  <ksj:loc xlink:href="#pt296"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>雨滝森林浴公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk296_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>343506</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk297">
+  <ksj:loc xlink:href="#pt297"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>ランパル広場</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk297_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1547</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk298">
+  <ksj:loc xlink:href="#pt298"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>津田墓園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk298_TI1">
+      <gml:timePosition>1965</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk299">
+  <ksj:loc xlink:href="#pt299"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>さぬき市</ksj:lgn>
+  <ksj:nop>鶴羽墓園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>さぬき市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk299_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk300">
+  <ksj:loc xlink:href="#pt300"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>東かがわ市</ksj:lgn>
+  <ksj:nop>白鳥中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>東かがわ市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk300_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>92000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk301">
+  <ksj:loc xlink:href="#pt301"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>東かがわ市</ksj:lgn>
+  <ksj:nop>とらまる公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>東かがわ市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk301_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>175137</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk302">
+  <ksj:loc xlink:href="#pt302"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>東かがわ市</ksj:lgn>
+  <ksj:nop>白鳥霊園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>東かがわ市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk302_TI1">
+      <gml:timePosition>1954</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>22772</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk303">
+  <ksj:loc xlink:href="#pt303"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>東かがわ市</ksj:lgn>
+  <ksj:nop>中筋サイドパーク</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>東かがわ市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk303_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1425</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk304">
+  <ksj:loc xlink:href="#pt304"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>東かがわ市</ksj:lgn>
+  <ksj:nop>前山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>東かがわ市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk304_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7572</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk305">
+  <ksj:loc xlink:href="#pt305"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>中央児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk305_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1015</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk306">
+  <ksj:loc xlink:href="#pt306"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>塩生児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk306_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2301</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk307">
+  <ksj:loc xlink:href="#pt307"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>みのり公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk307_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2998</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk308">
+  <ksj:loc xlink:href="#pt308"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>金坂公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk308_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3640</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk309">
+  <ksj:loc xlink:href="#pt309"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>西野近隣公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk309_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>31969</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk310">
+  <ksj:loc xlink:href="#pt310"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>仁尾浜公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk310_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20011</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk311">
+  <ksj:loc xlink:href="#pt311"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>不動の滝カントリーパーク</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk311_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>58355</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk312">
+  <ksj:loc xlink:href="#pt312"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>財田川リバーサイドパーク</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk312_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>47114</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk313">
+  <ksj:loc xlink:href="#pt313"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>三豊市</ksj:lgn>
+  <ksj:nop>仁尾海岸緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>三豊市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk313_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18225</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk314">
+  <ksj:loc xlink:href="#pt314"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>小豆郡土庄町</ksj:lgn>
+  <ksj:nop>高見山公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>小豆郡土庄町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk314_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>52000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk315">
+  <ksj:loc xlink:href="#pt315"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>小豆郡小豆島町</ksj:lgn>
+  <ksj:nop>馬木公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>小豆郡小豆島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk315_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35933</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk316">
+  <ksj:loc xlink:href="#pt316"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>小豆郡小豆島町</ksj:lgn>
+  <ksj:nop>草壁児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>小豆郡小豆島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk316_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2198</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk317">
+  <ksj:loc xlink:href="#pt317"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>小豆郡小豆島町</ksj:lgn>
+  <ksj:nop>草壁第２児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>小豆郡小豆島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk317_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4130</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk318">
+  <ksj:loc xlink:href="#pt318"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>小豆郡小豆島町</ksj:lgn>
+  <ksj:nop>草壁港緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>小豆郡小豆島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk318_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2700</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk319">
+  <ksj:loc xlink:href="#pt319"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津臨海公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk319_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>56076</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk320">
+  <ksj:loc xlink:href="#pt320"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk320_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>16262</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk321">
+  <ksj:loc xlink:href="#pt321"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk321_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk322">
+  <ksj:loc xlink:href="#pt322"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk322_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1376</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk323">
+  <ksj:loc xlink:href="#pt323"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk323_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4751</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk324">
+  <ksj:loc xlink:href="#pt324"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk324_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk325">
+  <ksj:loc xlink:href="#pt325"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>宇多津６号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk325_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1540</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk326">
+  <ksj:loc xlink:href="#pt326"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>綾歌郡宇多津町</ksj:lgn>
+  <ksj:nop>平山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>綾歌郡宇多津町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk326_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3881</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk327">
+  <ksj:loc xlink:href="#pt327"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>仲多度郡琴平町</ksj:lgn>
+  <ksj:nop>琴平町いこいの郷公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>仲多度郡琴平町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk327_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>154700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk328">
+  <ksj:loc xlink:href="#pt328"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>仲多度郡まんのう町</ksj:lgn>
+  <ksj:nop>祓川公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>仲多度郡まんのう町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk328_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18700</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk329">
+  <ksj:loc xlink:href="#pt329"/>
+  <ksj:adm>香川県</ksj:adm>
+  <ksj:lgn>仲多度郡まんのう町</ksj:lgn>
+  <ksj:nop>かりんの丘公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>仲多度郡まんのう町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk329_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>104000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk330">
+  <ksj:loc xlink:href="#pt330"/>
+  <ksj:adm>四国地方整備局</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>国営讃岐まんのう公園</ksj:nop>
+  <ksj:kdp>8</ksj:kdp>
+  <ksj:pop>香川県</ksj:pop>
+  <ksj:cop>仲多度郡まんのう町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk330_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1580000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+</ksj:Dataset>

@@ -1,0 +1,4357 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+<gml:description>国土数値情報（都市公園）データ P13-11_41.xml</gml:description>
+<gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+    <gml:lowerCorner>33.08574063 129.81709598</gml:lowerCorner>
+    <gml:upperCorner>33.54885684 130.53588232</gml:upperCorner>
+    <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+    <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Point gml:id="pt1">
+  <gml:pos>33.24524011 130.30030830</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt2">
+  <gml:pos>33.24199352 130.24716855</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt3">
+  <gml:pos>33.25246071 130.29538435</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt4">
+  <gml:pos>33.26309195 130.29019292</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt5">
+  <gml:pos>33.26970816 130.29472007</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt6">
+  <gml:pos>33.24346580 130.31204567</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt7">
+  <gml:pos>33.26650551 130.29852898</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt8">
+  <gml:pos>33.26281543 130.29614166</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt9">
+  <gml:pos>33.26706480 130.30365900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt10">
+  <gml:pos>33.24965644 130.31546159</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt11">
+  <gml:pos>33.27487145 130.27947513</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt12">
+  <gml:pos>33.25408547 130.26346357</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt13">
+  <gml:pos>33.25781148 130.26332402</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt14">
+  <gml:pos>33.26878642 130.28560623</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt15">
+  <gml:pos>33.24327458 130.27437674</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt16">
+  <gml:pos>33.25954560 130.30888392</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt17">
+  <gml:pos>33.25778805 130.29143030</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt18">
+  <gml:pos>33.28331551 130.28799726</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt19">
+  <gml:pos>33.25391050 130.28667428</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt20">
+  <gml:pos>33.25856137 130.27541875</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt21">
+  <gml:pos>33.26893327 130.27861361</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt22">
+  <gml:pos>33.23985633 130.31840340</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt23">
+  <gml:pos>33.27961919 130.26551409</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt24">
+  <gml:pos>33.28856161 130.26483679</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt25">
+  <gml:pos>33.26507759 130.31449588</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt26">
+  <gml:pos>33.26506509 130.31950495</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt27">
+  <gml:pos>33.25046101 130.27726645</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt28">
+  <gml:pos>33.24269290 130.28592382</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt29">
+  <gml:pos>33.26176431 130.31575716</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt30">
+  <gml:pos>33.23223911 130.31975290</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt31">
+  <gml:pos>33.21106832 130.34198607</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt32">
+  <gml:pos>33.31307672 130.28448979</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt33">
+  <gml:pos>33.21647240 130.35972073</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt34">
+  <gml:pos>33.22592591 130.34875508</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt35">
+  <gml:pos>33.26273263 130.32183458</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt36">
+  <gml:pos>33.26932540 130.29874296</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt37">
+  <gml:pos>33.24425881 130.35863046</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt38">
+  <gml:pos>33.23531298 130.29623823</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt39">
+  <gml:pos>33.25624922 130.32539788</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt40">
+  <gml:pos>33.22642942 130.35545560</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt41">
+  <gml:pos>33.26582748 130.28161311</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt42">
+  <gml:pos>33.30951280 130.25624395</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt43">
+  <gml:pos>33.20724967 130.33985364</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt44">
+  <gml:pos>33.33011521 130.31084757</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt45">
+  <gml:pos>33.24782151 130.24496984</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt46">
+  <gml:pos>33.21910873 130.36922789</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt47">
+  <gml:pos>33.30053281 130.27500677</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt48">
+  <gml:pos>33.26046734 130.29114422</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt49">
+  <gml:pos>33.22904255 130.35812091</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt50">
+  <gml:pos>33.22497100 130.35641196</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt51">
+  <gml:pos>33.17469698 130.27104545</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt52">
+  <gml:pos>33.44755677 129.97722791</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt53">
+  <gml:pos>33.45782087 129.95749490</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt54">
+  <gml:pos>33.46832869 129.95275563</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt55">
+  <gml:pos>33.45273725 129.97301523</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt56">
+  <gml:pos>33.44740679 129.96232721</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt57">
+  <gml:pos>33.44473844 129.96563931</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt58">
+  <gml:pos>33.46805998 129.93990173</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt59">
+  <gml:pos>33.43496489 129.96397209</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt60">
+  <gml:pos>33.44296370 129.96298963</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt61">
+  <gml:pos>33.45007015 129.97080320</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt62">
+  <gml:pos>33.45269976 129.96975523</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt63">
+  <gml:pos>33.43965916 129.97353318</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt64">
+  <gml:pos>33.47690580 129.95996098</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt65">
+  <gml:pos>33.47000019 129.93835796</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt66">
+  <gml:pos>33.42822405 130.00770895</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt67">
+  <gml:pos>33.47282802 129.93718507</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt68">
+  <gml:pos>33.46179841 129.95283006</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt69">
+  <gml:pos>33.44846288 129.96319059</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt70">
+  <gml:pos>33.43695110 129.97892674</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt71">
+  <gml:pos>33.43760658 129.96108901</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt72">
+  <gml:pos>33.42371018 129.99295851</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt73">
+  <gml:pos>33.43353919 129.98993755</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt74">
+  <gml:pos>33.44722430 129.99135490</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt75">
+  <gml:pos>33.45365157 129.97854205</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt76">
+  <gml:pos>33.46601000 129.97670000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt77">
+  <gml:pos>33.44854762 129.97782542</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt78">
+  <gml:pos>33.42983674 129.97951894</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt79">
+  <gml:pos>33.47318968 129.94301379</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt80">
+  <gml:pos>33.45323555 129.97355112</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt81">
+  <gml:pos>33.47033997 129.95359283</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt82">
+  <gml:pos>33.35172280 130.01127503</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt83">
+  <gml:pos>33.54885684 129.89755184</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt84">
+  <gml:pos>33.53062529 129.88952701</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt85">
+  <gml:pos>33.37821665 130.49917465</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt86">
+  <gml:pos>33.38884633 130.53265324</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt87">
+  <gml:pos>33.39132096 130.52399662</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt88">
+  <gml:pos>33.38629671 130.52344581</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt89">
+  <gml:pos>33.37158639 130.51692544</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt90">
+  <gml:pos>33.38834856 130.50858601</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt91">
+  <gml:pos>33.40027588 130.51458823</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt92">
+  <gml:pos>33.40273177 130.51749113</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt93">
+  <gml:pos>33.40839772 130.51938872</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt94">
+  <gml:pos>33.40252945 130.51439935</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt95">
+  <gml:pos>33.37847052 130.49349982</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt96">
+  <gml:pos>33.37536552 130.49101095</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt97">
+  <gml:pos>33.37452028 130.49756382</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt98">
+  <gml:pos>33.37797566 130.52261504</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt99">
+  <gml:pos>33.37620985 130.52214774</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt100">
+  <gml:pos>33.36693599 130.51904887</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt101">
+  <gml:pos>33.36757943 130.51360085</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt102">
+  <gml:pos>33.37430122 130.51656257</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt103">
+  <gml:pos>33.40701121 130.51524836</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt104">
+  <gml:pos>33.40517555 130.52080761</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt105">
+  <gml:pos>33.40156280 130.51024736</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt106">
+  <gml:pos>33.37110833 130.50250162</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt107">
+  <gml:pos>33.40849292 130.52534340</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt108">
+  <gml:pos>33.36552368 130.48774412</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt109">
+  <gml:pos>33.37245396 130.52136732</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt110">
+  <gml:pos>33.29375165 130.10001115</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt111">
+  <gml:pos>33.25725804 130.08979108</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt112">
+  <gml:pos>33.28589587 130.11025809</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt113">
+  <gml:pos>33.28197143 130.14821767</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt114">
+  <gml:pos>33.28245224 130.09000262</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt115">
+  <gml:pos>33.25816401 130.08857714</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt116">
+  <gml:pos>33.26735176 129.87005232</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt117">
+  <gml:pos>33.27766517 129.87955131</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt118">
+  <gml:pos>33.27320294 129.89333314</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt119">
+  <gml:pos>33.32870301 129.85069721</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt120">
+  <gml:pos>33.27348610 129.87438749</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt121">
+  <gml:pos>33.27941881 129.88596748</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt122">
+  <gml:pos>33.28018458 129.84699931</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt123">
+  <gml:pos>33.28965381 129.83342352</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt124">
+  <gml:pos>33.26180893 129.88474677</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt125">
+  <gml:pos>33.23395522 129.89166048</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt126">
+  <gml:pos>33.27358341 129.87801748</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt127">
+  <gml:pos>33.27192383 129.87306164</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt128">
+  <gml:pos>33.27150397 129.88659923</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt129">
+  <gml:pos>33.27117199 129.87011919</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt130">
+  <gml:pos>33.37283881 129.87148120</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt131">
+  <gml:pos>33.27790991 129.86633785</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt132">
+  <gml:pos>33.27739177 129.87025875</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt133">
+  <gml:pos>33.27526652 129.87017242</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt134">
+  <gml:pos>33.29803260 129.81709598</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt135">
+  <gml:pos>33.25855196 129.88851479</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt136">
+  <gml:pos>33.30271275 129.82118533</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt137">
+  <gml:pos>33.27841115 129.89844350</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt138">
+  <gml:pos>33.28156693 129.89018138</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt139">
+  <gml:pos>33.27966878 129.89072102</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt140">
+  <gml:pos>33.27794247 129.89070241</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt141">
+  <gml:pos>33.27316974 129.89047911</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt142">
+  <gml:pos>33.27983693 129.88139700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt143">
+  <gml:pos>33.28172793 129.87784297</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt144">
+  <gml:pos>33.26028103 129.88152848</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt145">
+  <gml:pos>33.25878906 129.88219838</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt146">
+  <gml:pos>33.25721124 129.88298952</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt147">
+  <gml:pos>33.26098905 129.90506149</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt148">
+  <gml:pos>33.29777937 129.82912962</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt149">
+  <gml:pos>33.27219723 129.87687174</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt150">
+  <gml:pos>33.34698657 129.85028958</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt151">
+  <gml:pos>33.25637869 129.88294687</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt152">
+  <gml:pos>33.19335151 130.01855127</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt153">
+  <gml:pos>33.19471849 130.02302891</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt154">
+  <gml:pos>33.19608547 130.02533169</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt155">
+  <gml:pos>33.19792028 130.02982855</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt156">
+  <gml:pos>33.19329388 130.02849946</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt157">
+  <gml:pos>33.19958597 130.02905797</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt158">
+  <gml:pos>33.19493199 130.03193364</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt159">
+  <gml:pos>33.19140464 130.02519922</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt160">
+  <gml:pos>33.19748175 130.02069123</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt161">
+  <gml:pos>33.19483566 130.02684362</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt162">
+  <gml:pos>33.19056871 130.02994890</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt163">
+  <gml:pos>33.18975829 130.02185425</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt164">
+  <gml:pos>33.19181583 130.02370635</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt165">
+  <gml:pos>33.19717595 129.94203110</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt166">
+  <gml:pos>33.10328704 130.09417277</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt167">
+  <gml:pos>33.11264259 130.08674624</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt168">
+  <gml:pos>33.10373278 130.09373735</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt169">
+  <gml:pos>33.10290544 130.09833799</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt170">
+  <gml:pos>33.08932495 130.11812218</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt171">
+  <gml:pos>33.11274416 130.09224876</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt172">
+  <gml:pos>33.09567908 130.08395515</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt173">
+  <gml:pos>33.28916165 130.19636575</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt174">
+  <gml:pos>33.10047895 129.98846838</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt175">
+  <gml:pos>33.09339540 129.98567999</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt176">
+  <gml:pos>33.09208992 129.98038732</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt177">
+  <gml:pos>33.09698033 129.97846530</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt178">
+  <gml:pos>33.10207472 129.98587211</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt179">
+  <gml:pos>33.08574063 129.97747214</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt180">
+  <gml:pos>33.11021531 129.98174236</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt181">
+  <gml:pos>33.14888653 130.05674202</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt182">
+  <gml:pos>33.09183623 129.97840266</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt183">
+  <gml:pos>33.09398358 129.97941703</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt184">
+  <gml:pos>33.31374814 130.37126301</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt185">
+  <gml:pos>33.33231038 130.35408199</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt186">
+  <gml:pos>33.25071508 130.40640648</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt187">
+  <gml:pos>33.29458405 130.40093515</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt188">
+  <gml:pos>33.31347801 130.40194597</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt189">
+  <gml:pos>33.33974600 130.41476932</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt190">
+  <gml:pos>33.42205085 130.53588232</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt191">
+  <gml:pos>33.42223893 130.53119032</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt192">
+  <gml:pos>33.42632324 130.52509592</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt193">
+  <gml:pos>33.42771440 130.52863658</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt194">
+  <gml:pos>33.43441374 130.53156720</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt195">
+  <gml:pos>33.41531171 130.52890745</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt196">
+  <gml:pos>33.41959728 130.52676767</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt197">
+  <gml:pos>33.43484116 130.52559599</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt198">
+  <gml:pos>33.42978265 130.52427022</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt199">
+  <gml:pos>33.31924192 130.41635241</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt200">
+  <gml:pos>33.31063700 130.42491124</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt201">
+  <gml:pos>33.36006791 130.42092045</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt202">
+  <gml:pos>33.33343539 130.43010173</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt203">
+  <gml:pos>33.36348656 130.44840058</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt204">
+  <gml:pos>33.20110080 129.87016085</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt205">
+  <gml:pos>33.18485383 129.86517100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt206">
+  <gml:pos>33.16549697 129.89983708</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt207">
+  <gml:pos>33.17521665 129.89502172</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt208">
+  <gml:pos>33.19250152 129.91095129</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt209">
+  <gml:pos>33.18154849 129.88061705</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt210">
+  <gml:pos>33.19170466 129.84456985</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt211">
+  <gml:pos>33.22507621 129.85210905</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt212">
+  <gml:pos>33.20702471 129.85615288</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt213">
+  <gml:pos>33.20938422 129.85024196</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt214">
+  <gml:pos>33.21384337 130.18033391</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt215">
+  <gml:pos>33.18103015 130.14314896</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt216">
+  <gml:pos>33.17595313 130.08739406</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt217">
+  <gml:pos>33.32409742 130.38343452</gml:pos>
+</gml:Point>
+<ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>佐賀城公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>282000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk2">
+  <ksj:loc xlink:href="#pt2"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>森林公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk2_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>400000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk3">
+  <ksj:loc xlink:href="#pt3"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>中の小路公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk3_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk4">
+  <ksj:loc xlink:href="#pt4"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>堀江公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk4_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk5">
+  <ksj:loc xlink:href="#pt5"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>三溝公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk5_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk6">
+  <ksj:loc xlink:href="#pt6"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>古賀公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk6_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk7">
+  <ksj:loc xlink:href="#pt7"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>新家公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk7_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk8">
+  <ksj:loc xlink:href="#pt8"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>草場公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk8_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk9">
+  <ksj:loc xlink:href="#pt9"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>大藤公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk9_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk10">
+  <ksj:loc xlink:href="#pt10"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>田代公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk10_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk11">
+  <ksj:loc xlink:href="#pt11"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>八戸溝公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk11_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk12">
+  <ksj:loc xlink:href="#pt12"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>新川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk12_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk13">
+  <ksj:loc xlink:href="#pt13"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>天神公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk13_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk14">
+  <ksj:loc xlink:href="#pt14"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>西神野記念公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk14_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk15">
+  <ksj:loc xlink:href="#pt15"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>下田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk15_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk16">
+  <ksj:loc xlink:href="#pt16"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>大財公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk16_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk17">
+  <ksj:loc xlink:href="#pt17"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>西大島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk17_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk18">
+  <ksj:loc xlink:href="#pt18"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>高木公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk18_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk19">
+  <ksj:loc xlink:href="#pt19"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>多布施公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk19_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk20">
+  <ksj:loc xlink:href="#pt20"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>新栄公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk20_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk21">
+  <ksj:loc xlink:href="#pt21"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>新村公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk21_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk22">
+  <ksj:loc xlink:href="#pt22"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>南佐賀公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk22_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk23">
+  <ksj:loc xlink:href="#pt23"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>鍋島区画記念公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk23_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk24">
+  <ksj:loc xlink:href="#pt24"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>しらさぎ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk24_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk25">
+  <ksj:loc xlink:href="#pt25"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>西中野公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk25_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk26">
+  <ksj:loc xlink:href="#pt26"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>東中野公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk26_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk27">
+  <ksj:loc xlink:href="#pt27"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>昭栄公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk27_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk28">
+  <ksj:loc xlink:href="#pt28"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>東寺小路公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk28_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk29">
+  <ksj:loc xlink:href="#pt29"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>下村公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk29_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk30">
+  <ksj:loc xlink:href="#pt30"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>北川副南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk30_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk31">
+  <ksj:loc xlink:href="#pt31"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>西寺井児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk31_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk32">
+  <ksj:loc xlink:href="#pt32"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>築山児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk32_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk33">
+  <ksj:loc xlink:href="#pt33"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>諸富鉄橋展望公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk33_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk34">
+  <ksj:loc xlink:href="#pt34"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>サイクルパーク小杭公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk34_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk35">
+  <ksj:loc xlink:href="#pt35"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>修理田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk35_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk36">
+  <ksj:loc xlink:href="#pt36"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>大溝公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk36_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk37">
+  <ksj:loc xlink:href="#pt37"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>蓮池公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk37_TI1">
+      <gml:timePosition>1957</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>30000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk38">
+  <ksj:loc xlink:href="#pt38"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>本庄公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk38_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk39">
+  <ksj:loc xlink:href="#pt39"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>巨勢公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk39_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk40">
+  <ksj:loc xlink:href="#pt40"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>諸富公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk40_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk41">
+  <ksj:loc xlink:href="#pt41"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>神野公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk41_TI1">
+      <gml:timePosition>1960</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>54000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk42">
+  <ksj:loc xlink:href="#pt42"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>大和中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk42_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>78500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk43">
+  <ksj:loc xlink:href="#pt43"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>佐野記念公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk43_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>41000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk44">
+  <ksj:loc xlink:href="#pt44"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>金立公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk44_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>259100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk45">
+  <ksj:loc xlink:href="#pt45"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>嘉瀬川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk45_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk46">
+  <ksj:loc xlink:href="#pt46"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>中の島緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk46_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>39000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk47">
+  <ksj:loc xlink:href="#pt47"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>多布施川河畔公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk47_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>238900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk48">
+  <ksj:loc xlink:href="#pt48"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>どんどんどんの森ふれあい広場</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk48_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>15400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk49">
+  <ksj:loc xlink:href="#pt49"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>大津ふれあい公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk49_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>500</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk50">
+  <ksj:loc xlink:href="#pt50"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>青丸緑道</ksj:nop>
+  <ksj:kdp>12</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk50_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk51">
+  <ksj:loc xlink:href="#pt51"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>佐賀市</ksj:lgn>
+  <ksj:nop>干潟よか公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>佐賀市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk51_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>86000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk52">
+  <ksj:loc xlink:href="#pt52"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>栄町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk52_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk53">
+  <ksj:loc xlink:href="#pt53"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>二タ子児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk53_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4089</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk54">
+  <ksj:loc xlink:href="#pt54"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>妙見児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk54_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2435</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk55">
+  <ksj:loc xlink:href="#pt55"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>北城内児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk55_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1080</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk56">
+  <ksj:loc xlink:href="#pt56"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>熊原児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk56_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk57">
+  <ksj:loc xlink:href="#pt57"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>西新興町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk57_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk58">
+  <ksj:loc xlink:href="#pt58"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>橋本児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk58_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1715</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk59">
+  <ksj:loc xlink:href="#pt59"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>旭が丘児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk59_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk60">
+  <ksj:loc xlink:href="#pt60"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>町田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk60_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1208</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk61">
+  <ksj:loc xlink:href="#pt61"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>大名小路児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk61_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2063</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk62">
+  <ksj:loc xlink:href="#pt62"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>南城内児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk62_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>882</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk63">
+  <ksj:loc xlink:href="#pt63"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>山崎団地児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk63_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2716</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk64">
+  <ksj:loc xlink:href="#pt64"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>西大島児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk64_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk65">
+  <ksj:loc xlink:href="#pt65"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>桜町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk65_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1013</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk66">
+  <ksj:loc xlink:href="#pt66"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>鏡児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk66_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1050</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk67">
+  <ksj:loc xlink:href="#pt67"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>佐志児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk67_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2880</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk68">
+  <ksj:loc xlink:href="#pt68"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>中山みずべの公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk68_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7028</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk69">
+  <ksj:loc xlink:href="#pt69"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>桜馬場児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk69_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>769</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk70">
+  <ksj:loc xlink:href="#pt70"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>和多田ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk70_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4791</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk71">
+  <ksj:loc xlink:href="#pt71"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>長松公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk71_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk72">
+  <ksj:loc xlink:href="#pt72"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>松浦河畔公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk72_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>238000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk73">
+  <ksj:loc xlink:href="#pt73"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>体育の森公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk73_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>110952</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk74">
+  <ksj:loc xlink:href="#pt74"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>東の浜海浜公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk74_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>44000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk75">
+  <ksj:loc xlink:href="#pt75"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>舞鶴海浜公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk75_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>37000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk76">
+  <ksj:loc xlink:href="#pt76"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>鳥島自然公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk76_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>54000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk77">
+  <ksj:loc xlink:href="#pt77"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>松浦河畔緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk77_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk78">
+  <ksj:loc xlink:href="#pt78"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>大久保緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk78_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14586</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk79">
+  <ksj:loc xlink:href="#pt79"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>中瀬緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk79_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6385</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk80">
+  <ksj:loc xlink:href="#pt80"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>二の門堀緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk80_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk81">
+  <ksj:loc xlink:href="#pt81"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>民族資料館緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk81_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>836</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk82">
+  <ksj:loc xlink:href="#pt82"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>浦の川児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk82_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk83">
+  <ksj:loc xlink:href="#pt83"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>尾の上公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk83_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>83000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk84">
+  <ksj:loc xlink:href="#pt84"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>唐津市</ksj:lgn>
+  <ksj:nop>ひばりが丘公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>唐津市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk84_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23868</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk85">
+  <ksj:loc xlink:href="#pt85"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>布津原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk85_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1129</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk86">
+  <ksj:loc xlink:href="#pt86"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>姫方公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk86_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk87">
+  <ksj:loc xlink:href="#pt87"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>田代新町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk87_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2493</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk88">
+  <ksj:loc xlink:href="#pt88"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>桜町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk88_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2056</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk89">
+  <ksj:loc xlink:href="#pt89"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>東町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk89_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>784</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk90">
+  <ksj:loc xlink:href="#pt90"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>池田下ため池公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk90_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4948</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk91">
+  <ksj:loc xlink:href="#pt91"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>安永田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk91_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk92">
+  <ksj:loc xlink:href="#pt92"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>大久保公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk92_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk93">
+  <ksj:loc xlink:href="#pt93"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>もちの木公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk93_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk94">
+  <ksj:loc xlink:href="#pt94"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>さくら公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk94_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4304</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk95">
+  <ksj:loc xlink:href="#pt95"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>蔵上北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk95_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk96">
+  <ksj:loc xlink:href="#pt96"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>蔵上西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk96_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2929</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk97">
+  <ksj:loc xlink:href="#pt97"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>蔵上東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk97_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk98">
+  <ksj:loc xlink:href="#pt98"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>鳥の里公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk98_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>892</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk99">
+  <ksj:loc xlink:href="#pt99"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>サツキ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk99_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2498</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk100">
+  <ksj:loc xlink:href="#pt100"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>藤木公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk100_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1568</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk101">
+  <ksj:loc xlink:href="#pt101"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>いずみパーク</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk101_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3469</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk102">
+  <ksj:loc xlink:href="#pt102"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk102_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14268</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk103">
+  <ksj:loc xlink:href="#pt103"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>梅坂公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk103_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk104">
+  <ksj:loc xlink:href="#pt104"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>八ツ並公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk104_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>25000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk105">
+  <ksj:loc xlink:href="#pt105"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>田代公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk105_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>72000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk106">
+  <ksj:loc xlink:href="#pt106"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>市民公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk106_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>169000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk107">
+  <ksj:loc xlink:href="#pt107"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>東公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk107_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>87000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk108">
+  <ksj:loc xlink:href="#pt108"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>朝日山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk108_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>250581</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk109">
+  <ksj:loc xlink:href="#pt109"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鳥栖市</ksj:lgn>
+  <ksj:nop>藤木緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鳥栖市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk109_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>48067</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk110">
+  <ksj:loc xlink:href="#pt110"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>多久市</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>多久市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk110_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>160400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk111">
+  <ksj:loc xlink:href="#pt111"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>多久市</ksj:lgn>
+  <ksj:nop>西渓公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>多久市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk111_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>30000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk112">
+  <ksj:loc xlink:href="#pt112"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>多久市</ksj:lgn>
+  <ksj:nop>北部公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>多久市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk112_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk113">
+  <ksj:loc xlink:href="#pt113"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>多久市</ksj:lgn>
+  <ksj:nop>東部公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>多久市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk113_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk114">
+  <ksj:loc xlink:href="#pt114"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>多久市</ksj:lgn>
+  <ksj:nop>みどりが丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>多久市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk114_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk115">
+  <ksj:loc xlink:href="#pt115"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>多久市</ksj:lgn>
+  <ksj:nop>中部公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>多久市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk115_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk116">
+  <ksj:loc xlink:href="#pt116"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>国見台公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk116_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>218000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk117">
+  <ksj:loc xlink:href="#pt117"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>城山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk117_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8389</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk118">
+  <ksj:loc xlink:href="#pt118"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>祇園公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk118_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7231</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk119">
+  <ksj:loc xlink:href="#pt119"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>黒川公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk119_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9271</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk120">
+  <ksj:loc xlink:href="#pt120"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>蓮池児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk120_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1189</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk121">
+  <ksj:loc xlink:href="#pt121"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>栄町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk121_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2190</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk122">
+  <ksj:loc xlink:href="#pt122"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>長浜児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk122_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1885</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk123">
+  <ksj:loc xlink:href="#pt123"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>里・福和児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk123_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1322</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk124">
+  <ksj:loc xlink:href="#pt124"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>立花児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk124_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4296</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk125">
+  <ksj:loc xlink:href="#pt125"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>鍋島藩窯公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk125_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>17694</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk126">
+  <ksj:loc xlink:href="#pt126"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>今町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk126_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>669</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk127">
+  <ksj:loc xlink:href="#pt127"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>駅南児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk127_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1309</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk128">
+  <ksj:loc xlink:href="#pt128"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>円造寺公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk128_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk129">
+  <ksj:loc xlink:href="#pt129"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>中井樋児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk129_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2052</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk130">
+  <ksj:loc xlink:href="#pt130"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>浜新田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk130_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>555</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk131">
+  <ksj:loc xlink:href="#pt131"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>東八谷搦新田川河畔公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk131_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3522</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk132">
+  <ksj:loc xlink:href="#pt132"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>東八谷搦おまつり広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk132_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3556</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk133">
+  <ksj:loc xlink:href="#pt133"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>東八谷搦一本松公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk133_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2285</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk134">
+  <ksj:loc xlink:href="#pt134"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>鳴石搦公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk134_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3251</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk135">
+  <ksj:loc xlink:href="#pt135"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>南ヶ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk135_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>577</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk136">
+  <ksj:loc xlink:href="#pt136"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>伊万里団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk136_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>988</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk137">
+  <ksj:loc xlink:href="#pt137"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>あさひが丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk137_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5046</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk138">
+  <ksj:loc xlink:href="#pt138"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>つつじヶ丘北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk138_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>815</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk139">
+  <ksj:loc xlink:href="#pt139"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>つつじヶ丘中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk139_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3277</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk140">
+  <ksj:loc xlink:href="#pt140"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>つつじヶ丘南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk140_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>584</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk141">
+  <ksj:loc xlink:href="#pt141"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>森永公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk141_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1946</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk142">
+  <ksj:loc xlink:href="#pt142"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>川久保公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk142_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1650</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk143">
+  <ksj:loc xlink:href="#pt143"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>松島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk143_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk144">
+  <ksj:loc xlink:href="#pt144"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>立花台北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk144_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1548</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk145">
+  <ksj:loc xlink:href="#pt145"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>立花台中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk145_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4913</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk146">
+  <ksj:loc xlink:href="#pt146"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>立花台南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk146_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1160</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk147">
+  <ksj:loc xlink:href="#pt147"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>都川内湖水公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk147_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18640</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk148">
+  <ksj:loc xlink:href="#pt148"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>楠久津公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk148_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23612</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk149">
+  <ksj:loc xlink:href="#pt149"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>伊万里駅前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk149_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>919</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk150">
+  <ksj:loc xlink:href="#pt150"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>伊万里ファミリーパーク</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk150_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>59000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk151">
+  <ksj:loc xlink:href="#pt151"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>伊万里市</ksj:lgn>
+  <ksj:nop>立花台大道田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>伊万里市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk151_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1749</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk152">
+  <ksj:loc xlink:href="#pt152"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk152_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3516</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk153">
+  <ksj:loc xlink:href="#pt153"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>一の坪公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk153_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1734</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk154">
+  <ksj:loc xlink:href="#pt154"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>武雄東児童遊園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk154_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1631</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk155">
+  <ksj:loc xlink:href="#pt155"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>野田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk155_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1556</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk156">
+  <ksj:loc xlink:href="#pt156"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>五反田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk156_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1599</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk157">
+  <ksj:loc xlink:href="#pt157"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>梶原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk157_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>638</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk158">
+  <ksj:loc xlink:href="#pt158"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>杉橋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk158_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1977</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk159">
+  <ksj:loc xlink:href="#pt159"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>黒尾町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk159_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk160">
+  <ksj:loc xlink:href="#pt160"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>丸山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk160_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19039</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk161">
+  <ksj:loc xlink:href="#pt161"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>天神崎公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk161_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10831</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk162">
+  <ksj:loc xlink:href="#pt162"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>白岩運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk162_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>190402</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk163">
+  <ksj:loc xlink:href="#pt163"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>迎田緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk163_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>27951</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk164">
+  <ksj:loc xlink:href="#pt164"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>筈町緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk164_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>902</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk165">
+  <ksj:loc xlink:href="#pt165"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>武雄市</ksj:lgn>
+  <ksj:nop>山内中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>武雄市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk165_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>99197</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk166">
+  <ksj:loc xlink:href="#pt166"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>城内公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk166_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk167">
+  <ksj:loc xlink:href="#pt167"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>西牟田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk167_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk168">
+  <ksj:loc xlink:href="#pt168"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>旭ヶ岡公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk168_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk169">
+  <ksj:loc xlink:href="#pt169"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>中川公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk169_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk170">
+  <ksj:loc xlink:href="#pt170"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>臥竜ヶ岡公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk170_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>22000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk171">
+  <ksj:loc xlink:href="#pt171"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>北公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk171_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>25000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk172">
+  <ksj:loc xlink:href="#pt172"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>鹿島市</ksj:lgn>
+  <ksj:nop>蟻尾山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>鹿島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk172_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>217700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk173">
+  <ksj:loc xlink:href="#pt173"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>小城市</ksj:lgn>
+  <ksj:nop>小城公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>小城市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk173_TI1">
+      <gml:timePosition>1958</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>81000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk174">
+  <ksj:loc xlink:href="#pt174"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>嬉野松児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk174_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk175">
+  <ksj:loc xlink:href="#pt175"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>曙児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk175_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk176">
+  <ksj:loc xlink:href="#pt176"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>立石児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk176_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk177">
+  <ksj:loc xlink:href="#pt177"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>西公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk177_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>28000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk178">
+  <ksj:loc xlink:href="#pt178"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>鷹ノ巣公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk178_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk179">
+  <ksj:loc xlink:href="#pt179"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>轟の滝公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk179_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>66000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk180">
+  <ksj:loc xlink:href="#pt180"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>嬉野総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk180_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>405866</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk181">
+  <ksj:loc xlink:href="#pt181"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>北部公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk181_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>45000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk182">
+  <ksj:loc xlink:href="#pt182"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>山伏塚公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk182_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>984</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk183">
+  <ksj:loc xlink:href="#pt183"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>嬉野市</ksj:lgn>
+  <ksj:nop>湯野田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>嬉野市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk183_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>609</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk184">
+  <ksj:loc xlink:href="#pt184"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>神埼市</ksj:lgn>
+  <ksj:nop>神埼中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk184_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>39000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk185">
+  <ksj:loc xlink:href="#pt185"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>神埼市</ksj:lgn>
+  <ksj:nop>日の隈公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk185_TI1">
+      <gml:timePosition>1960</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>281000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk186">
+  <ksj:loc xlink:href="#pt186"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>神埼市</ksj:lgn>
+  <ksj:nop>筑後川運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk186_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>65000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk187">
+  <ksj:loc xlink:href="#pt187"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>神埼郡吉野ヶ里町</ksj:lgn>
+  <ksj:nop>下藤公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼郡吉野ヶ里町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk187_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1554</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk188">
+  <ksj:loc xlink:href="#pt188"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>神埼郡吉野ヶ里町</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼郡吉野ヶ里町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk188_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46394</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk189">
+  <ksj:loc xlink:href="#pt189"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>神埼郡吉野ヶ里町</ksj:lgn>
+  <ksj:nop>佐賀東部緩衝緑地</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼郡吉野ヶ里町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk189_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>173982</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk190">
+  <ksj:loc xlink:href="#pt190"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>伊勢前児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk190_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1663</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk191">
+  <ksj:loc xlink:href="#pt191"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>若宮児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk191_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1396</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk192">
+  <ksj:loc xlink:href="#pt192"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>玉虫児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk192_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1706</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk193">
+  <ksj:loc xlink:href="#pt193"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>氏林児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk193_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2325</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk194">
+  <ksj:loc xlink:href="#pt194"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>猪ノ浦児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk194_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4968</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk195">
+  <ksj:loc xlink:href="#pt195"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>向田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk195_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1751</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk196">
+  <ksj:loc xlink:href="#pt196"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk196_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk197">
+  <ksj:loc xlink:href="#pt197"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>北部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk197_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk198">
+  <ksj:loc xlink:href="#pt198"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡基山町</ksj:lgn>
+  <ksj:nop>基山総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡基山町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk198_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>94000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk199">
+  <ksj:loc xlink:href="#pt199"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡上峰町</ksj:lgn>
+  <ksj:nop>坊所児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡上峰町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk199_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3925</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk200">
+  <ksj:loc xlink:href="#pt200"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡上峰町</ksj:lgn>
+  <ksj:nop>上峰町中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡上峰町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk200_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>45337</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk201">
+  <ksj:loc xlink:href="#pt201"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡上峰町</ksj:lgn>
+  <ksj:nop>鎮西山いこいの森</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡上峰町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk201_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>412162</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk202">
+  <ksj:loc xlink:href="#pt202"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡みやき町</ksj:lgn>
+  <ksj:nop>中原公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡みやき町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk202_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>58995</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk203">
+  <ksj:loc xlink:href="#pt203"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>三養基郡みやき町</ksj:lgn>
+  <ksj:nop>グリーンパーク香田</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>三養基郡みやき町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk203_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>43131</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk204">
+  <ksj:loc xlink:href="#pt204"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>黒牟田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk204_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk205">
+  <ksj:loc xlink:href="#pt205"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>西部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk205_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk206">
+  <ksj:loc xlink:href="#pt206"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>円山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk206_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>28000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk207">
+  <ksj:loc xlink:href="#pt207"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>菅野公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk207_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>43000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk208">
+  <ksj:loc xlink:href="#pt208"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>白磁ヶ丘公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk208_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>197000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk209">
+  <ksj:loc xlink:href="#pt209"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>東の前緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk209_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk210">
+  <ksj:loc xlink:href="#pt210"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>曲川桜ヶ丘公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk210_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk211">
+  <ksj:loc xlink:href="#pt211"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>唐船城公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk211_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>59000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk212">
+  <ksj:loc xlink:href="#pt212"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>西有田中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk212_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>78000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk213">
+  <ksj:loc xlink:href="#pt213"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>西松浦郡有田町</ksj:lgn>
+  <ksj:nop>西有田駅前公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>西松浦郡有田町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk213_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk214">
+  <ksj:loc xlink:href="#pt214"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>杵島郡江北町</ksj:lgn>
+  <ksj:nop>鳴江河畔公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>杵島郡江北町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk214_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>31900</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk215">
+  <ksj:loc xlink:href="#pt215"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>杵島郡白石町</ksj:lgn>
+  <ksj:nop>中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>杵島郡白石町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk215_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk216">
+  <ksj:loc xlink:href="#pt216"/>
+  <ksj:adm>佐賀県</ksj:adm>
+  <ksj:lgn>杵島郡白石町</ksj:lgn>
+  <ksj:nop>水堂公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>杵島郡白石町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk216_TI1">
+      <gml:timePosition>1965</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>127000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk217">
+  <ksj:loc xlink:href="#pt217"/>
+  <ksj:adm>九州地方整備局</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>国営吉野ヶ里歴史公園</ksj:nop>
+  <ksj:kdp>8</ksj:kdp>
+  <ksj:pop>佐賀県</ksj:pop>
+  <ksj:cop>神埼郡吉野ヶ里町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk217_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>737000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+</ksj:Dataset>

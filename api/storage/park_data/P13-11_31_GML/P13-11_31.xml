@@ -1,0 +1,5997 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+<gml:description>国土数値情報（都市公園）データ P13-11_31.xml</gml:description>
+<gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+    <gml:lowerCorner>35.26464160 133.20569131</gml:lowerCorner>
+    <gml:upperCorner>35.54678557 134.40144487</gml:upperCorner>
+    <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+    <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Point gml:id="pt1">
+  <gml:pos>35.49966596 134.18056242</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt2">
+  <gml:pos>35.47740450 133.90272596</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt3">
+  <gml:pos>35.49417898 134.22700797</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt4">
+  <gml:pos>35.42415468 133.33649577</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt5">
+  <gml:pos>35.49877000 134.23224000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt6">
+  <gml:pos>35.49076054 134.22226724</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt7">
+  <gml:pos>35.50575000 134.23340000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt8">
+  <gml:pos>35.50314238 134.23368044</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt9">
+  <gml:pos>35.49100134 134.24471252</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt10">
+  <gml:pos>35.50136912 134.22679915</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt11">
+  <gml:pos>35.50148841 134.22982446</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt12">
+  <gml:pos>35.50322863 134.22956773</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt13">
+  <gml:pos>35.50475370 134.22791976</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt14">
+  <gml:pos>35.50360000 134.22997000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt15">
+  <gml:pos>35.50504801 134.23068834</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt16">
+  <gml:pos>35.50669347 134.22923813</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt17">
+  <gml:pos>35.50848610 134.23111681</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt18">
+  <gml:pos>35.50833894 134.23332508</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt19">
+  <gml:pos>35.50942254 134.23246814</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt20">
+  <gml:pos>35.49698121 134.23065538</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt21">
+  <gml:pos>35.49624011 134.23079110</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt22">
+  <gml:pos>35.49069000 134.23788000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt23">
+  <gml:pos>35.49438592 134.22877670</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt24">
+  <gml:pos>35.49719525 134.22735945</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt25">
+  <gml:pos>35.49870694 134.22889206</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt26">
+  <gml:pos>35.49880059 134.22663435</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt27">
+  <gml:pos>35.49949623 134.22716170</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt28">
+  <gml:pos>35.49839925 134.22167398</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt29">
+  <gml:pos>35.50198450 134.22495343</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt30">
+  <gml:pos>35.50428547 134.22508526</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt31">
+  <gml:pos>35.50788409 134.22683211</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt32">
+  <gml:pos>35.50825867 134.22754073</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt33">
+  <gml:pos>35.50920849 134.22841415</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt34">
+  <gml:pos>35.51063992 134.22843063</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt35">
+  <gml:pos>35.51078707 134.22775497</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt36">
+  <gml:pos>35.50753627 134.22734297</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt37">
+  <gml:pos>35.49160220 134.22594987</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt38">
+  <gml:pos>35.48908393 134.23154631</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt39">
+  <gml:pos>35.48817863 134.22627180</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt40">
+  <gml:pos>35.49427221 134.22021192</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt41">
+  <gml:pos>35.48952979 134.23670341</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt42">
+  <gml:pos>35.48540943 134.23291309</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt43">
+  <gml:pos>35.51314156 134.22918869</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt44">
+  <gml:pos>35.49474712 134.23772515</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt45">
+  <gml:pos>35.51463987 134.21735631</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt46">
+  <gml:pos>35.52011138 134.14056118</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt47">
+  <gml:pos>35.53193734 134.21333528</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt48">
+  <gml:pos>35.52304112 134.13426596</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt49">
+  <gml:pos>35.52373676 134.13841883</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt50">
+  <gml:pos>35.51968329 134.14344512</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt51">
+  <gml:pos>35.48789770 134.25496285</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt52">
+  <gml:pos>35.47460019 134.23741204</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt53">
+  <gml:pos>35.47395805 134.25609995</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt54">
+  <gml:pos>35.47283432 134.25336433</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt55">
+  <gml:pos>35.48251983 134.23779107</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt56">
+  <gml:pos>35.52400432 134.15895246</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt57">
+  <gml:pos>35.48762647 134.21834060</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt58">
+  <gml:pos>35.48488770 134.25138677</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt59">
+  <gml:pos>35.50930214 134.21882300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt60">
+  <gml:pos>35.51490743 134.17836548</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt61">
+  <gml:pos>35.49355650 134.24110347</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt62">
+  <gml:pos>35.53514800 134.18700081</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt63">
+  <gml:pos>35.48674721 134.24888187</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt64">
+  <gml:pos>35.52057960 134.23838433</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt65">
+  <gml:pos>35.49181739 134.25789623</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt66">
+  <gml:pos>35.52593072 134.17609129</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt67">
+  <gml:pos>35.48075396 134.23398427</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt68">
+  <gml:pos>35.52744240 134.22554669</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt69">
+  <gml:pos>35.52381703 134.17790405</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt70">
+  <gml:pos>35.49830561 134.20806179</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt71">
+  <gml:pos>35.48233254 134.23554984</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt72">
+  <gml:pos>35.48003156 134.24817324</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt73">
+  <gml:pos>35.50619850 134.20379357</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt74">
+  <gml:pos>35.52579694 134.22843063</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt75">
+  <gml:pos>35.51227201 134.22047096</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt76">
+  <gml:pos>35.44445188 134.26092197</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt77">
+  <gml:pos>35.52293409 134.24164730</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt78">
+  <gml:pos>35.52296085 134.14135220</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt79">
+  <gml:pos>35.50428547 134.21132476</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt80">
+  <gml:pos>35.50189599 134.21850775</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt81">
+  <gml:pos>35.47088117 134.25372688</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt82">
+  <gml:pos>35.49324881 134.26051649</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt83">
+  <gml:pos>35.48903481 134.21709264</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt84">
+  <gml:pos>35.44755190 134.26271212</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt85">
+  <gml:pos>35.52178360 134.13805628</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt86">
+  <gml:pos>35.47961685 134.22882614</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt87">
+  <gml:pos>35.51952276 134.24434996</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt88">
+  <gml:pos>35.47941619 134.23639030</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt89">
+  <gml:pos>35.47593797 134.22025673</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt90">
+  <gml:pos>35.44716844 134.26606301</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt91">
+  <gml:pos>35.50411156 134.20476587</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt92">
+  <gml:pos>35.52566316 134.18766000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt93">
+  <gml:pos>35.52095418 134.17416317</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt94">
+  <gml:pos>35.49926654 134.17366971</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt95">
+  <gml:pos>35.48119401 134.22863063</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt96">
+  <gml:pos>35.47835934 134.23146288</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt97">
+  <gml:pos>35.51805120 134.21495028</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt98">
+  <gml:pos>35.52064527 134.16965052</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt99">
+  <gml:pos>35.53397076 134.18696785</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt100">
+  <gml:pos>35.47702548 134.23939161</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt101">
+  <gml:pos>35.47399819 134.23162768</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt102">
+  <gml:pos>35.51508134 134.24566834</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt103">
+  <gml:pos>35.51655289 134.23975214</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt104">
+  <gml:pos>35.45311548 134.26499896</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt105">
+  <gml:pos>35.47916201 134.24555298</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt106">
+  <gml:pos>35.51121516 134.18339177</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt107">
+  <gml:pos>35.51680386 134.13257967</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt108">
+  <gml:pos>35.52032543 134.23152880</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt109">
+  <gml:pos>35.47432526 134.24381882</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt110">
+  <gml:pos>35.52034281 134.21243993</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt111">
+  <gml:pos>35.48213427 134.23746684</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt112">
+  <gml:pos>35.48397801 134.26165359</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt113">
+  <gml:pos>35.48217201 134.25778087</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt114">
+  <gml:pos>35.48136934 134.26712483</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt115">
+  <gml:pos>35.47991116 134.26280716</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt116">
+  <gml:pos>35.48495459 134.26552630</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt117">
+  <gml:pos>35.41038001 134.19800885</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt118">
+  <gml:pos>35.41296667 134.19672732</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt119">
+  <gml:pos>35.40990108 134.19925505</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt120">
+  <gml:pos>35.51511258 134.04818824</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt121">
+  <gml:pos>35.52150997 134.00208210</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt122">
+  <gml:pos>35.52104783 134.18377080</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt123">
+  <gml:pos>35.53018485 134.19093945</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt124">
+  <gml:pos>35.46107526 134.04952352</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt125">
+  <gml:pos>35.47176706 134.04884253</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt126">
+  <gml:pos>35.48231248 134.22453732</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt127">
+  <gml:pos>35.44294837 134.25768199</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt128">
+  <gml:pos>35.40383785 134.19930626</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt129">
+  <gml:pos>35.51219508 134.05310784</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt130">
+  <gml:pos>35.50526790 134.17415081</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt131">
+  <gml:pos>35.49868353 134.24259282</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt132">
+  <gml:pos>35.50681053 134.23697944</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt133">
+  <gml:pos>35.51283809 133.99046782</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt134">
+  <gml:pos>35.51727529 134.23812066</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt135">
+  <gml:pos>35.49944272 134.22871078</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt136">
+  <gml:pos>35.49214486 134.23495470</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt137">
+  <gml:pos>35.50707808 134.23677345</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt138">
+  <gml:pos>35.49999121 134.22238260</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt139">
+  <gml:pos>35.50564938 134.22411116</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt140">
+  <gml:pos>35.44752618 134.21136323</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt141">
+  <gml:pos>35.43154904 133.33717170</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt142">
+  <gml:pos>35.43272482 133.33005841</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt143">
+  <gml:pos>35.43172000 133.33536000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt144">
+  <gml:pos>35.40489800 133.34750366</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt145">
+  <gml:pos>35.43794483 133.32500714</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt146">
+  <gml:pos>35.46260534 133.31960414</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt147">
+  <gml:pos>35.46321152 133.31841967</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt148">
+  <gml:pos>35.44515152 133.32439354</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt149">
+  <gml:pos>35.44178617 133.32653074</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt150">
+  <gml:pos>35.45455777 133.35670909</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt151">
+  <gml:pos>35.44912305 133.29727938</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt152">
+  <gml:pos>35.44276861 133.34087318</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt153">
+  <gml:pos>35.43806548 133.31494349</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt154">
+  <gml:pos>35.42360076 133.34007495</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt155">
+  <gml:pos>35.43986312 133.33453882</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt156">
+  <gml:pos>35.40405667 133.36896582</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt157">
+  <gml:pos>35.39575987 133.37206203</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt158">
+  <gml:pos>35.45039699 133.30052541</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt159">
+  <gml:pos>35.45145071 133.29820702</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt160">
+  <gml:pos>35.40679312 133.36626930</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt161">
+  <gml:pos>35.43751748 133.32375812</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt162">
+  <gml:pos>35.44465019 133.35869593</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt163">
+  <gml:pos>35.44931599 133.34066408</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt164">
+  <gml:pos>35.39457054 133.36771185</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt165">
+  <gml:pos>35.39356419 133.37093504</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt166">
+  <gml:pos>35.44981002 133.36045403</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt167">
+  <gml:pos>35.44035033 133.32055857</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt168">
+  <gml:pos>35.46752178 133.30935628</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt169">
+  <gml:pos>35.49185716 133.25613979</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt170">
+  <gml:pos>35.48124474 133.24836356</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt171">
+  <gml:pos>35.43950326 133.32932974</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt172">
+  <gml:pos>35.39984016 133.36586359</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt173">
+  <gml:pos>35.43936227 133.34449585</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt174">
+  <gml:pos>35.43555644 133.35369209</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt175">
+  <gml:pos>35.43965503 133.30908581</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt176">
+  <gml:pos>35.39791895 133.37095758</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt177">
+  <gml:pos>35.42576740 133.33013799</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt178">
+  <gml:pos>35.42408405 133.33331610</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt179">
+  <gml:pos>35.45354230 133.36457908</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt180">
+  <gml:pos>35.46560057 133.27534371</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt181">
+  <gml:pos>35.49286351 133.26411888</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt182">
+  <gml:pos>35.43604000 133.33607000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt183">
+  <gml:pos>35.44294854 133.30545690</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt184">
+  <gml:pos>35.45731190 133.35560797</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt185">
+  <gml:pos>35.43279355 133.34837269</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt186">
+  <gml:pos>35.44664459 133.36146832</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt187">
+  <gml:pos>35.46660647 133.27542108</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt188">
+  <gml:pos>35.43262888 133.34043868</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt189">
+  <gml:pos>35.45324991 133.34404505</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt190">
+  <gml:pos>35.43392798 133.35678004</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt191">
+  <gml:pos>35.43927079 133.30009242</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt192">
+  <gml:pos>35.43880535 133.35401187</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt193">
+  <gml:pos>35.46689967 133.27308973</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt194">
+  <gml:pos>35.43914271 133.31255694</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt195">
+  <gml:pos>35.45394520 133.33590818</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt196">
+  <gml:pos>35.44744967 133.36469152</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt197">
+  <gml:pos>35.41542944 133.32049095</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt198">
+  <gml:pos>35.45498418 133.33786599</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt199">
+  <gml:pos>35.45152996 133.36933472</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt200">
+  <gml:pos>35.41347163 133.35887625</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt201">
+  <gml:pos>35.41747873 133.32175318</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt202">
+  <gml:pos>35.45494783 133.37109536</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt203">
+  <gml:pos>35.46808000 133.29774000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt204">
+  <gml:pos>35.46534440 133.31568997</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt205">
+  <gml:pos>35.44933429 133.35033366</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt206">
+  <gml:pos>35.47862823 133.26553889</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt207">
+  <gml:pos>35.46560057 133.31321059</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt208">
+  <gml:pos>35.43207996 133.39789266</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt209">
+  <gml:pos>35.42929877 133.39460184</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt210">
+  <gml:pos>35.44759225 133.31169337</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt211">
+  <gml:pos>35.45776933 133.35862831</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt212">
+  <gml:pos>35.45392690 133.36726106</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt213">
+  <gml:pos>35.42009524 133.32139254</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt214">
+  <gml:pos>35.45145677 133.40235554</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt215">
+  <gml:pos>35.42796307 133.32085159</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt216">
+  <gml:pos>35.46173984 133.32168556</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt217">
+  <gml:pos>35.42917069 133.35412035</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt218">
+  <gml:pos>35.40345048 133.36680287</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt219">
+  <gml:pos>35.40790926 133.34336886</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt220">
+  <gml:pos>35.44537909 133.36956447</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt221">
+  <gml:pos>35.42949446 133.33063870</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt222">
+  <gml:pos>35.43940436 133.36683811</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt223">
+  <gml:pos>35.41686934 133.36917655</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt224">
+  <gml:pos>35.43245179 133.32634077</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt225">
+  <gml:pos>35.44134982 133.28820619</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt226">
+  <gml:pos>35.41562326 133.31832024</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt227">
+  <gml:pos>35.42766260 133.82260220</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt228">
+  <gml:pos>35.43663255 133.81762759</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt229">
+  <gml:pos>35.43524783 133.82425714</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt230">
+  <gml:pos>35.43466702 133.83215520</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt231">
+  <gml:pos>35.43530269 133.83884419</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt232">
+  <gml:pos>35.43534602 133.84170821</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt233">
+  <gml:pos>35.43601387 133.84564598</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt234">
+  <gml:pos>35.43317779 133.84431613</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt235">
+  <gml:pos>35.43242761 133.84402312</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt236">
+  <gml:pos>35.42391937 133.84864378</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt237">
+  <gml:pos>35.42724948 133.84120564</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt238">
+  <gml:pos>35.42284405 133.81293624</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt239">
+  <gml:pos>35.43227371 133.80316329</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt240">
+  <gml:pos>35.45361682 133.84780721</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt241">
+  <gml:pos>35.45198949 133.85236600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt242">
+  <gml:pos>35.45889267 133.83682573</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt243">
+  <gml:pos>35.45945268 133.83832055</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt244">
+  <gml:pos>35.41010583 133.79872963</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt245">
+  <gml:pos>35.47485899 133.84954537</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt246">
+  <gml:pos>35.43120264 133.83885195</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt247">
+  <gml:pos>35.46572865 133.84686313</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt248">
+  <gml:pos>35.36038437 133.75740404</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt249">
+  <gml:pos>35.36231245 133.76360108</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt250">
+  <gml:pos>35.36739024 133.75974183</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt251">
+  <gml:pos>35.37065219 133.75509877</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt252">
+  <gml:pos>35.54678557 133.24243559</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt253">
+  <gml:pos>35.53814926 133.23163902</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt254">
+  <gml:pos>35.50825151 133.24040700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt255">
+  <gml:pos>35.50634860 133.22557581</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt256">
+  <gml:pos>35.50278063 133.24556862</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt257">
+  <gml:pos>35.50636689 133.21963755</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt258">
+  <gml:pos>35.54528520 133.23140333</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt259">
+  <gml:pos>35.51782099 133.21431815</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt260">
+  <gml:pos>35.54120491 133.23298111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt261">
+  <gml:pos>35.54050961 133.22644457</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt262">
+  <gml:pos>35.53897264 133.23443395</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt263">
+  <gml:pos>35.53816756 133.23453636</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt264">
+  <gml:pos>35.53384940 133.23449128</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt265">
+  <gml:pos>35.53256859 133.23169635</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt266">
+  <gml:pos>35.53734418 133.22754902</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt267">
+  <gml:pos>35.52216137 133.20640922</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt268">
+  <gml:pos>35.52514651 133.20569131</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt269">
+  <gml:pos>35.54211977 133.21824008</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt270">
+  <gml:pos>35.54461232 133.22347709</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt271">
+  <gml:pos>35.53653910 133.22040390</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt272">
+  <gml:pos>35.53641102 133.22234232</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt273">
+  <gml:pos>35.53655740 133.22752648</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt274">
+  <gml:pos>35.52124820 133.23727772</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt275">
+  <gml:pos>35.51602786 133.23390525</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt276">
+  <gml:pos>35.51470336 133.23570208</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt277">
+  <gml:pos>35.50966040 133.23994592</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt278">
+  <gml:pos>35.50669625 133.23730876</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt279">
+  <gml:pos>35.50110783 133.22353567</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt280">
+  <gml:pos>35.34503982 134.40144487</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt281">
+  <gml:pos>35.26464160 134.22973659</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt282">
+  <gml:pos>35.41205119 134.25357411</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt283">
+  <gml:pos>35.38791262 134.24116388</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt284">
+  <gml:pos>35.38962784 134.25218141</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt285">
+  <gml:pos>35.39788628 134.25000210</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt286">
+  <gml:pos>35.39915705 133.89590836</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt287">
+  <gml:pos>35.41274889 133.88745267</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt288">
+  <gml:pos>35.46960636 133.90019268</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt289">
+  <gml:pos>35.47500768 133.90342604</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt290">
+  <gml:pos>35.45695968 133.92185406</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt291">
+  <gml:pos>35.50151354 133.69625873</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt292">
+  <gml:pos>35.50051477 133.67376105</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt293">
+  <gml:pos>35.51278238 133.65024144</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt294">
+  <gml:pos>35.51794626 133.63656440</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt295">
+  <gml:pos>35.48737890 133.69406110</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt296">
+  <gml:pos>35.49490365 133.67974832</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt297">
+  <gml:pos>35.45271928 133.38857342</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt298">
+  <gml:pos>35.44639500 133.37208981</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt299">
+  <gml:pos>35.31563610 133.33560487</gml:pos>
+</gml:Point>
+<ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>布勢総合運動公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>524000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk2">
+  <ksj:loc xlink:href="#pt2"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>東郷湖羽合臨海公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡湯梨浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk2_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>634000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk3">
+  <ksj:loc xlink:href="#pt3"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>風紋広場</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk3_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2394</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk4">
+  <ksj:loc xlink:href="#pt4"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>だんだん広場</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk4_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3046</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk5">
+  <ksj:loc xlink:href="#pt5"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>真教寺公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk5_TI1">
+      <gml:timePosition>1965</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4381</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk6">
+  <ksj:loc xlink:href="#pt6"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>天神公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk6_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4935</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk7">
+  <ksj:loc xlink:href="#pt7"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>西町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk7_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1884</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk8">
+  <ksj:loc xlink:href="#pt8"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>なかよし公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk8_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1279</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk9">
+  <ksj:loc xlink:href="#pt9"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>立川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk9_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1044</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk10">
+  <ksj:loc xlink:href="#pt10"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>元町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk10_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1709</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk11">
+  <ksj:loc xlink:href="#pt11"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>元魚町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk11_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>514</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk12">
+  <ksj:loc xlink:href="#pt12"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>二階町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk12_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>611</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk13">
+  <ksj:loc xlink:href="#pt13"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>三軒屋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk13_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>665</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk14">
+  <ksj:loc xlink:href="#pt14"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>本町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk14_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>647</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk15">
+  <ksj:loc xlink:href="#pt15"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>鹿野町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk15_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>827</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk16">
+  <ksj:loc xlink:href="#pt16"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>玄好町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk16_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2708</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk17">
+  <ksj:loc xlink:href="#pt17"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>材木町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk17_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>607</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk18">
+  <ksj:loc xlink:href="#pt18"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>東町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk18_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>470</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk19">
+  <ksj:loc xlink:href="#pt19"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>泉公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk19_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>658</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk20">
+  <ksj:loc xlink:href="#pt20"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>弥生公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk20_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1540</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk21">
+  <ksj:loc xlink:href="#pt21"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>末広公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk21_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>270</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk22">
+  <ksj:loc xlink:href="#pt22"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>吉方公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk22_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>601</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk23">
+  <ksj:loc xlink:href="#pt23"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>永楽公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk23_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1425</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk24">
+  <ksj:loc xlink:href="#pt24"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>太平公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk24_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>894</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk25">
+  <ksj:loc xlink:href="#pt25"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>花見公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk25_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>654</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk26">
+  <ksj:loc xlink:href="#pt26"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>瓦町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk26_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>425</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk27">
+  <ksj:loc xlink:href="#pt27"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>さなえ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk27_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1197</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk28">
+  <ksj:loc xlink:href="#pt28"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>行徳公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk28_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1229</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk29">
+  <ksj:loc xlink:href="#pt29"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>南町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk29_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>709</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk30">
+  <ksj:loc xlink:href="#pt30"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>寿公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk30_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2218</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk31">
+  <ksj:loc xlink:href="#pt31"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>相生第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk31_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1309</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk32">
+  <ksj:loc xlink:href="#pt32"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>相生第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk32_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>723</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk33">
+  <ksj:loc xlink:href="#pt33"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大森公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk33_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1597</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk34">
+  <ksj:loc xlink:href="#pt34"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>相生第三公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk34_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>317</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk35">
+  <ksj:loc xlink:href="#pt35"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>相生第四公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk35_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>772</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk36">
+  <ksj:loc xlink:href="#pt36"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>相生第五公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk36_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>453</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk37">
+  <ksj:loc xlink:href="#pt37"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>沢井手公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk37_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2279</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk38">
+  <ksj:loc xlink:href="#pt38"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>東富安公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk38_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk39">
+  <ksj:loc xlink:href="#pt39"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>富安公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk39_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5305</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk40">
+  <ksj:loc xlink:href="#pt40"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>幸町棒鼻公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk40_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3754</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk41">
+  <ksj:loc xlink:href="#pt41"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>吉方南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk41_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2623</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk42">
+  <ksj:loc xlink:href="#pt42"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>井原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk42_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5732</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk43">
+  <ksj:loc xlink:href="#pt43"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>湯所公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk43_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>862</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk44">
+  <ksj:loc xlink:href="#pt44"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>吉方北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk44_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1090</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk45">
+  <ksj:loc xlink:href="#pt45"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>城北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk45_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2051</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk46">
+  <ksj:loc xlink:href="#pt46"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>美萩野公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk46_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8062</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk47">
+  <ksj:loc xlink:href="#pt47"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>浜坂公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk47_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2375</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk48">
+  <ksj:loc xlink:href="#pt48"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>美萩野深沢公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk48_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3098</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk49">
+  <ksj:loc xlink:href="#pt49"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>美萩野鳥打場公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk49_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1249</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk50">
+  <ksj:loc xlink:href="#pt50"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>美萩野西山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk50_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2642</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk51">
+  <ksj:loc xlink:href="#pt51"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>卯垣公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk51_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1502</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk52">
+  <ksj:loc xlink:href="#pt52"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>南雲山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk52_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1190</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk53">
+  <ksj:loc xlink:href="#pt53"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>東今在家公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk53_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1586</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk54">
+  <ksj:loc xlink:href="#pt54"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>桜谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk54_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1005</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk55">
+  <ksj:loc xlink:href="#pt55"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大樋井公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk55_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1060</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk56">
+  <ksj:loc xlink:href="#pt56"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>堀越公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk56_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1005</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk57">
+  <ksj:loc xlink:href="#pt57"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>財ノ木公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk57_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2175</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk58">
+  <ksj:loc xlink:href="#pt58"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>立川南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk58_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3412</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk59">
+  <ksj:loc xlink:href="#pt59"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>西品治公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk59_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>960</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk60">
+  <ksj:loc xlink:href="#pt60"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>湖山南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk60_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4499</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk61">
+  <ksj:loc xlink:href="#pt61"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>立川第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk61_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1620</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk62">
+  <ksj:loc xlink:href="#pt62"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>賀露公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk62_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1565</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk63">
+  <ksj:loc xlink:href="#pt63"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>立六南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk63_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1336</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk64">
+  <ksj:loc xlink:href="#pt64"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>北園妙見公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk64_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2809</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk65">
+  <ksj:loc xlink:href="#pt65"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>稲葉山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk65_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1657</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk66">
+  <ksj:loc xlink:href="#pt66"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>湖山白浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk66_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1462</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk67">
+  <ksj:loc xlink:href="#pt67"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大覚寺南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk67_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2422</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk68">
+  <ksj:loc xlink:href="#pt68"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>浜坂東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk68_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2592</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk69">
+  <ksj:loc xlink:href="#pt69"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>湖山北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk69_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1443</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk70">
+  <ksj:loc xlink:href="#pt70"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>高草公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk70_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1045</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk71">
+  <ksj:loc xlink:href="#pt71"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>新南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk71_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2441</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk72">
+  <ksj:loc xlink:href="#pt72"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>面影二丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk72_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1398</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk73">
+  <ksj:loc xlink:href="#pt73"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>緑ケ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk73_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1190</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk74">
+  <ksj:loc xlink:href="#pt74"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>浜坂中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk74_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3278</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk75">
+  <ksj:loc xlink:href="#pt75"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>田島第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk75_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2103</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk76">
+  <ksj:loc xlink:href="#pt76"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>ニュータウン1号児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk76_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2667</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk77">
+  <ksj:loc xlink:href="#pt77"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>北園３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk77_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2068</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk78">
+  <ksj:loc xlink:href="#pt78"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>松林公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk78_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4514</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk79">
+  <ksj:loc xlink:href="#pt79"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>南城北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk79_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1799</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk80">
+  <ksj:loc xlink:href="#pt80"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>西品治南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk80_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1051</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk81">
+  <ksj:loc xlink:href="#pt81"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>桜谷南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk81_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1547</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk82">
+  <ksj:loc xlink:href="#pt82"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>滝山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk82_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1133</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk83">
+  <ksj:loc xlink:href="#pt83"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>財ノ木第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk83_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1207</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk84">
+  <ksj:loc xlink:href="#pt84"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>若葉台南第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk84_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2868</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk85">
+  <ksj:loc xlink:href="#pt85"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>美萩野三角公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk85_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1622</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk86">
+  <ksj:loc xlink:href="#pt86"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大覚寺西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk86_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1585</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk87">
+  <ksj:loc xlink:href="#pt87"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>北園２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk87_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>26712</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk88">
+  <ksj:loc xlink:href="#pt88"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>南雲山第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk88_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2522</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk89">
+  <ksj:loc xlink:href="#pt89"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>宮長いなば公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk89_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>989</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk90">
+  <ksj:loc xlink:href="#pt90"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>若葉台南第三公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk90_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2694</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk91">
+  <ksj:loc xlink:href="#pt91"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>緑ケ丘第二公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk91_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3382</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk92">
+  <ksj:loc xlink:href="#pt92"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>賀露南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk92_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3088</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk93">
+  <ksj:loc xlink:href="#pt93"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大寺屋１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk93_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2623</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk94">
+  <ksj:loc xlink:href="#pt94"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>桂見台１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk94_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1043</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk95">
+  <ksj:loc xlink:href="#pt95"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大覚寺山王公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk95_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>837</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk96">
+  <ksj:loc xlink:href="#pt96"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>南大覚寺公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk96_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2190</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk97">
+  <ksj:loc xlink:href="#pt97"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>秋里１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk97_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2786</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk98">
+  <ksj:loc xlink:href="#pt98"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>大寺屋２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk98_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1726</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk99">
+  <ksj:loc xlink:href="#pt99"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>賀露北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk99_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2409</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk100">
+  <ksj:loc xlink:href="#pt100"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>新雲山ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk100_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1899</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk101">
+  <ksj:loc xlink:href="#pt101"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>新的場公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk101_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>899</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk102">
+  <ksj:loc xlink:href="#pt102"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>円護寺吉川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk102_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3386</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk103">
+  <ksj:loc xlink:href="#pt103"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>円護寺小堤公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk103_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1004</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk104">
+  <ksj:loc xlink:href="#pt104"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>わかば北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk104_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2622</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk105">
+  <ksj:loc xlink:href="#pt105"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>三角公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk105_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>880</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk106">
+  <ksj:loc xlink:href="#pt106"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>八丁田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk106_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1129</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk107">
+  <ksj:loc xlink:href="#pt107"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>みはぎの台公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk107_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2223</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk108">
+  <ksj:loc xlink:href="#pt108"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>グランデ公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk108_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1063</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk109">
+  <ksj:loc xlink:href="#pt109"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>正蓮寺公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk109_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1416</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk110">
+  <ksj:loc xlink:href="#pt110"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>秋里タウン公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk110_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2008</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk111">
+  <ksj:loc xlink:href="#pt111"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>新南青空公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk111_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>851</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk112">
+  <ksj:loc xlink:href="#pt112"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>国府町ふたば公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk112_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1891</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk113">
+  <ksj:loc xlink:href="#pt113"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>国府町あおば公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk113_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9749</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk114">
+  <ksj:loc xlink:href="#pt114"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>国府町宮下公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk114_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1514</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk115">
+  <ksj:loc xlink:href="#pt115"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>国府町いなば公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk115_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3678</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk116">
+  <ksj:loc xlink:href="#pt116"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>国府町稲葉丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk116_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1617</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk117">
+  <ksj:loc xlink:href="#pt117"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>河原町鮎ヶ丘ふれあい公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk117_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>979</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk118">
+  <ksj:loc xlink:href="#pt118"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>河原町鮎ヶ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk118_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>601</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk119">
+  <ksj:loc xlink:href="#pt119"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>河原町鮎ヶ丘広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk119_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>959</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk120">
+  <ksj:loc xlink:href="#pt120"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>気高町北浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk120_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2664</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk121">
+  <ksj:loc xlink:href="#pt121"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>青谷町空浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk121_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2782</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk122">
+  <ksj:loc xlink:href="#pt122"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>湖山公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk122_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11163</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk123">
+  <ksj:loc xlink:href="#pt123"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>賀露上小路公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk123_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10006</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk124">
+  <ksj:loc xlink:href="#pt124"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>鹿野温泉公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk124_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk125">
+  <ksj:loc xlink:href="#pt125"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>鹿野町越路ヶ丘公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk125_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3060</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk126">
+  <ksj:loc xlink:href="#pt126"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>美保公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk126_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>48000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk127">
+  <ksj:loc xlink:href="#pt127"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>ニュータウン中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk127_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>206000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk128">
+  <ksj:loc xlink:href="#pt128"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>河原中央公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk128_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>52000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk129">
+  <ksj:loc xlink:href="#pt129"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>浜村砂丘公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk129_TI1">
+      <gml:timePosition>1959</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>30781</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk130">
+  <ksj:loc xlink:href="#pt130"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>湖山池公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk130_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>441400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk131">
+  <ksj:loc xlink:href="#pt131"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>樗谿公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk131_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk132">
+  <ksj:loc xlink:href="#pt132"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>久松公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk132_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>73700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk133">
+  <ksj:loc xlink:href="#pt133"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>青谷上寺地遺跡公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk133_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>41831</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk134">
+  <ksj:loc xlink:href="#pt134"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>円護寺公園墓地</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk134_TI1">
+      <gml:timePosition>1965</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>60000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk135">
+  <ksj:loc xlink:href="#pt135"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>袋川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk135_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk136">
+  <ksj:loc xlink:href="#pt136"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>吉方中央緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk136_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2179</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk137">
+  <ksj:loc xlink:href="#pt137"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>久松緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk137_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>975</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk138">
+  <ksj:loc xlink:href="#pt138"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>行徳緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk138_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4713</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk139">
+  <ksj:loc xlink:href="#pt139"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>新品治緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk139_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>640</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk140">
+  <ksj:loc xlink:href="#pt140"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>鳥取市</ksj:lgn>
+  <ksj:nop>千代川倉田緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>鳥取市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk140_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>112000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk141">
+  <ksj:loc xlink:href="#pt141"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>富士見１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk141_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1644</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk142">
+  <ksj:loc xlink:href="#pt142"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>朝日公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk142_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1360</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk143">
+  <ksj:loc xlink:href="#pt143"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>富士見２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk143_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>980</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk144">
+  <ksj:loc xlink:href="#pt144"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>石井要害公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk144_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2570</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk145">
+  <ksj:loc xlink:href="#pt145"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>立町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk145_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>835</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk146">
+  <ksj:loc xlink:href="#pt146"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>三柳団地１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk146_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3100</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk147">
+  <ksj:loc xlink:href="#pt147"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>三柳団地２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk147_TI1">
+      <gml:timePosition>1964</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1602</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk148">
+  <ksj:loc xlink:href="#pt148"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>三本松公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk148_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1860</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk149">
+  <ksj:loc xlink:href="#pt149"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>立町北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk149_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk150">
+  <ksj:loc xlink:href="#pt150"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>上福原団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk150_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>535</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk151">
+  <ksj:loc xlink:href="#pt151"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>上粟島団地1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk151_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1184</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk152">
+  <ksj:loc xlink:href="#pt152"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>西福原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk152_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4037</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk153">
+  <ksj:loc xlink:href="#pt153"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>旗ヶ崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk153_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1998</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk154">
+  <ksj:loc xlink:href="#pt154"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>米子駅裏公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk154_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk155">
+  <ksj:loc xlink:href="#pt155"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>米原南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk155_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2407</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk156">
+  <ksj:loc xlink:href="#pt156"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>御所原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk156_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1584</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk157">
+  <ksj:loc xlink:href="#pt157"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>永江東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk157_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2185</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk158">
+  <ksj:loc xlink:href="#pt158"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>河崎団地１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk158_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk159">
+  <ksj:loc xlink:href="#pt159"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>河崎団地２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk159_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2350</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk160">
+  <ksj:loc xlink:href="#pt160"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>つつじヶ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk160_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>843</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk161">
+  <ksj:loc xlink:href="#pt161"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>立町西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk161_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>530</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk162">
+  <ksj:loc xlink:href="#pt162"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>福生公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk162_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>473</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk163">
+  <ksj:loc xlink:href="#pt163"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>福米公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk163_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>464</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk164">
+  <ksj:loc xlink:href="#pt164"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>永江西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk164_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8326</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk165">
+  <ksj:loc xlink:href="#pt165"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>永江南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk165_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6280</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk166">
+  <ksj:loc xlink:href="#pt166"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>福原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk166_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1027</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk167">
+  <ksj:loc xlink:href="#pt167"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>三旗公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk167_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1009</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk168">
+  <ksj:loc xlink:href="#pt168"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>河崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk168_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9477</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk169">
+  <ksj:loc xlink:href="#pt169"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>大篠津公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk169_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4034</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk170">
+  <ksj:loc xlink:href="#pt170"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>葭津公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk170_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>725</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk171">
+  <ksj:loc xlink:href="#pt171"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>米原西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk171_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>838</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk172">
+  <ksj:loc xlink:href="#pt172"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>青木谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk172_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1191</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk173">
+  <ksj:loc xlink:href="#pt173"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>前地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk173_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>723</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk174">
+  <ksj:loc xlink:href="#pt174"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>中島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk174_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1349</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk175">
+  <ksj:loc xlink:href="#pt175"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>旗ヶ崎２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk175_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2702</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk176">
+  <ksj:loc xlink:href="#pt176"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>永江北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk176_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1124</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk177">
+  <ksj:loc xlink:href="#pt177"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>東町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk177_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2043</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk178">
+  <ksj:loc xlink:href="#pt178"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>明治町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk178_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1181</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk179">
+  <ksj:loc xlink:href="#pt179"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>皆生新田西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk179_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk180">
+  <ksj:loc xlink:href="#pt180"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>富益団地１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk180_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>961</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk181">
+  <ksj:loc xlink:href="#pt181"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>旭が丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk181_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1589</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk182">
+  <ksj:loc xlink:href="#pt182"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>日ノ出公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk182_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>576</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk183">
+  <ksj:loc xlink:href="#pt183"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>安倍公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk183_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>458</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk184">
+  <ksj:loc xlink:href="#pt184"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>上福原北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk184_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>455</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk185">
+  <ksj:loc xlink:href="#pt185"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>住之江公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk185_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>538</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk186">
+  <ksj:loc xlink:href="#pt186"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>皆生四軒屋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk186_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>708</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk187">
+  <ksj:loc xlink:href="#pt187"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>富益団地２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk187_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>833</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk188">
+  <ksj:loc xlink:href="#pt188"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>博労町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk188_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1817</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk189">
+  <ksj:loc xlink:href="#pt189"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>福米西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk189_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3059</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk190">
+  <ksj:loc xlink:href="#pt190"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>車尾公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk190_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>777</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk191">
+  <ksj:loc xlink:href="#pt191"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>安倍彦名団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk191_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2499</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk192">
+  <ksj:loc xlink:href="#pt192"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>上福原南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk192_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>544</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk193">
+  <ksj:loc xlink:href="#pt193"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>富益団地３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk193_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2498</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk194">
+  <ksj:loc xlink:href="#pt194"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>旗ヶ崎３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk194_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1670</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk195">
+  <ksj:loc xlink:href="#pt195"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>三柳上谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk195_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2516</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk196">
+  <ksj:loc xlink:href="#pt196"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>福生東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk196_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4118</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk197">
+  <ksj:loc xlink:href="#pt197"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>錦海町２丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk197_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1310</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk198">
+  <ksj:loc xlink:href="#pt198"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>堀川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk198_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2468</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk199">
+  <ksj:loc xlink:href="#pt199"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>皆生新田東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk199_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1644</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk200">
+  <ksj:loc xlink:href="#pt200"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>宗像団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk200_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2824</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk201">
+  <ksj:loc xlink:href="#pt201"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>錦海町１丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk201_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1058</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk202">
+  <ksj:loc xlink:href="#pt202"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>皆生新田北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk202_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>996</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk203">
+  <ksj:loc xlink:href="#pt203"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>夜見新開公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk203_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>602</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk204">
+  <ksj:loc xlink:href="#pt204"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>加茂北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk204_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2669</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk205">
+  <ksj:loc xlink:href="#pt205"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>東福原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk205_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1298</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk206">
+  <ksj:loc xlink:href="#pt206"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>和田南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk206_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>500</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk207">
+  <ksj:loc xlink:href="#pt207"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>浜河崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk207_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2102</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk208">
+  <ksj:loc xlink:href="#pt208"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>流通町北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk208_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11068</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk209">
+  <ksj:loc xlink:href="#pt209"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>流通町南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk209_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4603</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk210">
+  <ksj:loc xlink:href="#pt210"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>スタイリッシュ中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk210_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>761</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk211">
+  <ksj:loc xlink:href="#pt211"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>皆生海浜公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk211_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>17000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk212">
+  <ksj:loc xlink:href="#pt212"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>皆生新田中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk212_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10011</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk213">
+  <ksj:loc xlink:href="#pt213"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>錦海公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk213_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>15643</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk214">
+  <ksj:loc xlink:href="#pt214"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>大和公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk214_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10497</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk215">
+  <ksj:loc xlink:href="#pt215"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>湊山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk215_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>285000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk216">
+  <ksj:loc xlink:href="#pt216"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>弓ヶ浜公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk216_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>109380</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk217">
+  <ksj:loc xlink:href="#pt217"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>東山公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk217_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>241581</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk218">
+  <ksj:loc xlink:href="#pt218"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>福市公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk218_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>43978</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk219">
+  <ksj:loc xlink:href="#pt219"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>南公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk219_TI1">
+      <gml:timePosition>1977</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>128000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk220">
+  <ksj:loc xlink:href="#pt220"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>日野川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk220_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>150684</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk221">
+  <ksj:loc xlink:href="#pt221"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>中町広場</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk221_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>531</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk222">
+  <ksj:loc xlink:href="#pt222"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>日野川桜づつみ</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk222_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4784</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk223">
+  <ksj:loc xlink:href="#pt223"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>日野川堰緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk223_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>111969</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk224">
+  <ksj:loc xlink:href="#pt224"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>加茂川緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk224_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk225">
+  <ksj:loc xlink:href="#pt225"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>米子水鳥公園</ksj:nop>
+  <ksj:kdp>13</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk225_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>287696</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk226">
+  <ksj:loc xlink:href="#pt226"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>米子市</ksj:lgn>
+  <ksj:nop>錦海散策の道</ksj:nop>
+  <ksj:kdp>12</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>米子市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk226_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12380</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk227">
+  <ksj:loc xlink:href="#pt227"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>打吹公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk227_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>485219</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk228">
+  <ksj:loc xlink:href="#pt228"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>旭田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk228_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3355</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk229">
+  <ksj:loc xlink:href="#pt229"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>明治町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk229_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk230">
+  <ksj:loc xlink:href="#pt230"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>宮川町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk230_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1780</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk231">
+  <ksj:loc xlink:href="#pt231"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>昭和町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk231_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1471</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk232">
+  <ksj:loc xlink:href="#pt232"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>深田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk232_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3819</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk233">
+  <ksj:loc xlink:href="#pt233"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>千人破戸公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk233_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1994</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk234">
+  <ksj:loc xlink:href="#pt234"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>下田中公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk234_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1572</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk235">
+  <ksj:loc xlink:href="#pt235"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>畑ヶ田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk235_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2494</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk236">
+  <ksj:loc xlink:href="#pt236"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>円谷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk236_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4077</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk237">
+  <ksj:loc xlink:href="#pt237"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>西田井公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk237_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1498</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk238">
+  <ksj:loc xlink:href="#pt238"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>八幡町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk238_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1963</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk239">
+  <ksj:loc xlink:href="#pt239"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>福守町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk239_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1478</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk240">
+  <ksj:loc xlink:href="#pt240"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>上井西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk240_TI1">
+      <gml:timePosition>1960</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>776</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk241">
+  <ksj:loc xlink:href="#pt241"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>上井東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk241_TI1">
+      <gml:timePosition>1961</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4168</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk242">
+  <ksj:loc xlink:href="#pt242"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>小田東第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk242_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>476</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk243">
+  <ksj:loc xlink:href="#pt243"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>小田東第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk243_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>926</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk244">
+  <ksj:loc xlink:href="#pt244"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>中河原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk244_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>327</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk245">
+  <ksj:loc xlink:href="#pt245"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>七峰公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk245_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8292</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk246">
+  <ksj:loc xlink:href="#pt246"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>史跡大御堂廃寺跡歴史公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk246_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>43331</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk247">
+  <ksj:loc xlink:href="#pt247"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>河北中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk247_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk248">
+  <ksj:loc xlink:href="#pt248"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>関金総合公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk248_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>173795</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk249">
+  <ksj:loc xlink:href="#pt249"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>関金１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk249_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk250">
+  <ksj:loc xlink:href="#pt250"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>関金２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk250_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1049</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk251">
+  <ksj:loc xlink:href="#pt251"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>倉吉市</ksj:lgn>
+  <ksj:nop>関金３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>倉吉市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk251_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1649</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk252">
+  <ksj:loc xlink:href="#pt252"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>境台場公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk252_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23753</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk253">
+  <ksj:loc xlink:href="#pt253"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>境中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk253_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11421</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk254">
+  <ksj:loc xlink:href="#pt254"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>市民の森</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk254_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>30380</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk255">
+  <ksj:loc xlink:href="#pt255"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>竜ヶ山公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk255_TI1">
+      <gml:timePosition>1969</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>132184</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk256">
+  <ksj:loc xlink:href="#pt256"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>中浜緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk256_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>64008</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk257">
+  <ksj:loc xlink:href="#pt257"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>親水公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk257_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10550</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk258">
+  <ksj:loc xlink:href="#pt258"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>日の出広場</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk258_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2854</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk259">
+  <ksj:loc xlink:href="#pt259"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>渡緑地</ksj:nop>
+  <ksj:kdp>14</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk259_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3556</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk260">
+  <ksj:loc xlink:href="#pt260"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>下ノ川１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk260_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6315</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk261">
+  <ksj:loc xlink:href="#pt261"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>下ノ川２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk261_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5123</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk262">
+  <ksj:loc xlink:href="#pt262"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>上道東1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk262_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1879</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk263">
+  <ksj:loc xlink:href="#pt263"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>上道東2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk263_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2064</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk264">
+  <ksj:loc xlink:href="#pt264"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>中野東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk264_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2026</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk265">
+  <ksj:loc xlink:href="#pt265"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>中野西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk265_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1785</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk266">
+  <ksj:loc xlink:href="#pt266"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>上道西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk266_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>916</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk267">
+  <ksj:loc xlink:href="#pt267"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>渡西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk267_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>663</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk268">
+  <ksj:loc xlink:href="#pt268"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>外江西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk268_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>654</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk269">
+  <ksj:loc xlink:href="#pt269"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>弥生公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk269_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2010</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk270">
+  <ksj:loc xlink:href="#pt270"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>駅前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk270_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1998</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk271">
+  <ksj:loc xlink:href="#pt271"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>深田川1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk271_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1760</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk272">
+  <ksj:loc xlink:href="#pt272"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>深田川2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk272_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1509</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk273">
+  <ksj:loc xlink:href="#pt273"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>深田川3号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk273_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2018</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk274">
+  <ksj:loc xlink:href="#pt274"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>余子駅前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk274_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3742</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk275">
+  <ksj:loc xlink:href="#pt275"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>薮田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk275_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3035</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk276">
+  <ksj:loc xlink:href="#pt276"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>誠道公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk276_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>959</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk277">
+  <ksj:loc xlink:href="#pt277"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>幸神1号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk277_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3414</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk278">
+  <ksj:loc xlink:href="#pt278"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>幸神2号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk278_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1822</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk279">
+  <ksj:loc xlink:href="#pt279"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>境港市</ksj:lgn>
+  <ksj:nop>夕日ヶ丘公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>境港市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk279_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1994</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk280">
+  <ksj:loc xlink:href="#pt280"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>八頭郡若桜町</ksj:lgn>
+  <ksj:nop>中之島公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>八頭郡若桜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk280_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23100</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk281">
+  <ksj:loc xlink:href="#pt281"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>八頭郡智頭町</ksj:lgn>
+  <ksj:nop>愛宕公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>八頭郡智頭町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk281_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>27000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk282">
+  <ksj:loc xlink:href="#pt282"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>八頭郡八頭町</ksj:lgn>
+  <ksj:nop>郡家公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>八頭郡八頭町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk282_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk283">
+  <ksj:loc xlink:href="#pt283"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>八頭郡八頭町</ksj:lgn>
+  <ksj:nop>いぬい公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>八頭郡八頭町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk283_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>91900</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk284">
+  <ksj:loc xlink:href="#pt284"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>八頭郡八頭町</ksj:lgn>
+  <ksj:nop>天満山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>八頭郡八頭町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk284_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>76100</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk285">
+  <ksj:loc xlink:href="#pt285"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>八頭郡八頭町</ksj:lgn>
+  <ksj:nop>八東川水辺プラザ河川公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>八頭郡八頭町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk285_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>32521</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk286">
+  <ksj:loc xlink:href="#pt286"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡三朝町</ksj:lgn>
+  <ksj:nop>三朝高原公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡三朝町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk286_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>216000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk287">
+  <ksj:loc xlink:href="#pt287"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡三朝町</ksj:lgn>
+  <ksj:nop>三徳川緑地公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡三朝町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk287_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21956</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk288">
+  <ksj:loc xlink:href="#pt288"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡湯梨浜町</ksj:lgn>
+  <ksj:nop>東郷湖畔公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡湯梨浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk288_TI1">
+      <gml:timePosition>1968</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>19400</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk289">
+  <ksj:loc xlink:href="#pt289"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡湯梨浜町</ksj:lgn>
+  <ksj:nop>東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡湯梨浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk289_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk290">
+  <ksj:loc xlink:href="#pt290"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡湯梨浜町</ksj:lgn>
+  <ksj:nop>東郷運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡湯梨浜町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk290_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>158000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk291">
+  <ksj:loc xlink:href="#pt291"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡琴浦町</ksj:lgn>
+  <ksj:nop>徳万公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡琴浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk291_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8300</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk292">
+  <ksj:loc xlink:href="#pt292"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡琴浦町</ksj:lgn>
+  <ksj:nop>八橋公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡琴浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk292_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4900</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk293">
+  <ksj:loc xlink:href="#pt293"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡琴浦町</ksj:lgn>
+  <ksj:nop>荒神公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡琴浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk293_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk294">
+  <ksj:loc xlink:href="#pt294"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡琴浦町</ksj:lgn>
+  <ksj:nop>花見公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡琴浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk294_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk295">
+  <ksj:loc xlink:href="#pt295"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡琴浦町</ksj:lgn>
+  <ksj:nop>いなり公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡琴浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk295_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>12000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk296">
+  <ksj:loc xlink:href="#pt296"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>東伯郡琴浦町</ksj:lgn>
+  <ksj:nop>東伯総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>東伯郡琴浦町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk296_TI1">
+      <gml:timePosition>9999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>148000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk297">
+  <ksj:loc xlink:href="#pt297"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>西伯郡日吉津村</ksj:lgn>
+  <ksj:nop>海浜運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>西伯郡日吉津村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk297_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>46152</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk298">
+  <ksj:loc xlink:href="#pt298"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>西伯郡日吉津村</ksj:lgn>
+  <ksj:nop>河川敷運動公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>西伯郡日吉津村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk298_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>48106</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk299">
+  <ksj:loc xlink:href="#pt299"/>
+  <ksj:adm>鳥取県</ksj:adm>
+  <ksj:lgn>西伯郡南部町</ksj:lgn>
+  <ksj:nop>西伯カントリーパーク</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>鳥取県</ksj:pop>
+  <ksj:cop>西伯郡南部町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk299_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>77</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+</ksj:Dataset>

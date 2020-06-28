@@ -1,0 +1,5037 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+<gml:description>国土数値情報（都市公園）データ P13-11_36.xml</gml:description>
+<gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+    <gml:lowerCorner>33.62030477 133.78179951</gml:lowerCorner>
+    <gml:upperCorner>34.21102032 134.68551179</gml:upperCorner>
+    <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+    <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Point gml:id="pt1">
+  <gml:pos>34.03123948 134.58572752</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt2">
+  <gml:pos>34.21059897 134.59471579</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt3">
+  <gml:pos>34.16755829 134.61769456</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt4">
+  <gml:pos>34.12623079 134.60891120</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt5">
+  <gml:pos>34.07250746 134.54851471</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt6">
+  <gml:pos>34.07450587 134.51425934</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt7">
+  <gml:pos>34.03982073 134.52640162</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt8">
+  <gml:pos>33.86608186 134.60263737</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt9">
+  <gml:pos>34.07016097 134.55572763</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt10">
+  <gml:pos>34.06974933 134.55419244</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt11">
+  <gml:pos>34.06925756 134.55629040</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt12">
+  <gml:pos>34.07208086 134.55407779</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt13">
+  <gml:pos>34.06473322 134.55433148</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt14">
+  <gml:pos>34.06412214 134.55043709</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt15">
+  <gml:pos>34.06201259 134.54820684</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt16">
+  <gml:pos>34.06232877 134.55011104</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt17">
+  <gml:pos>34.06261041 134.55833209</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt18">
+  <gml:pos>34.05691174 134.56691358</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt19">
+  <gml:pos>34.05474249 134.55297259</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt20">
+  <gml:pos>34.04757450 134.55521693</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt21">
+  <gml:pos>34.04388283 134.58075019</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt22">
+  <gml:pos>34.04579097 134.58115599</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt23">
+  <gml:pos>34.04675726 134.57626439</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt24">
+  <gml:pos>34.04627364 134.57723020</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt25">
+  <gml:pos>34.04493789 134.57346742</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt26">
+  <gml:pos>34.06528990 134.58058525</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt27">
+  <gml:pos>34.06917790 134.56099187</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt28">
+  <gml:pos>34.07638854 134.56263380</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt29">
+  <gml:pos>34.07964066 134.56611614</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt30">
+  <gml:pos>34.08969511 134.54942780</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt31">
+  <gml:pos>34.07839652 134.54605849</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt32">
+  <gml:pos>34.06914280 134.54507301</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt33">
+  <gml:pos>34.07873313 134.54040283</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt34">
+  <gml:pos>34.07952958 134.53158159</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt35">
+  <gml:pos>34.09787792 134.51020395</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt36">
+  <gml:pos>34.09515133 134.51419647</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt37">
+  <gml:pos>34.09207617 134.50885014</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt38">
+  <gml:pos>34.08719599 134.51204204</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt39">
+  <gml:pos>34.07653242 134.50485206</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt40">
+  <gml:pos>34.07647845 134.50627923</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt41">
+  <gml:pos>34.07496888 134.50671542</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt42">
+  <gml:pos>34.07252446 134.50140919</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt43">
+  <gml:pos>34.09162600 134.46790401</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt44">
+  <gml:pos>34.02131601 134.56518294</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt45">
+  <gml:pos>34.03954138 134.51192016</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt46">
+  <gml:pos>34.04779762 134.47945242</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt47">
+  <gml:pos>34.04511764 134.47054627</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt48">
+  <gml:pos>34.03520250 134.49255777</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt49">
+  <gml:pos>34.03058411 134.49344959</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt50">
+  <gml:pos>34.02958981 134.49437486</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt51">
+  <gml:pos>34.02932962 134.48885670</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt52">
+  <gml:pos>34.03359489 134.48779766</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt53">
+  <gml:pos>34.03273570 134.49109155</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt54">
+  <gml:pos>34.10478506 134.56190822</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt55">
+  <gml:pos>34.12111206 134.52217747</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt56">
+  <gml:pos>34.11762736 134.52362668</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt57">
+  <gml:pos>34.05448453 134.55506348</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt58">
+  <gml:pos>34.00429551 134.54894333</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt59">
+  <gml:pos>34.00592170 134.54122906</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt60">
+  <gml:pos>34.00591241 134.54472947</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt61">
+  <gml:pos>34.06266304 134.58394400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt62">
+  <gml:pos>34.10646934 134.58798571</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt63">
+  <gml:pos>34.09383148 134.51356022</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt64">
+  <gml:pos>34.05154809 134.55146274</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt65">
+  <gml:pos>34.04741548 134.57778011</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt66">
+  <gml:pos>34.04891252 134.58349518</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt67">
+  <gml:pos>34.05016814 134.58203557</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt68">
+  <gml:pos>34.05220089 134.56939676</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt69">
+  <gml:pos>34.06321445 134.57537786</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt70">
+  <gml:pos>34.04763407 134.48030857</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt71">
+  <gml:pos>34.04500265 134.56311419</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt72">
+  <gml:pos>34.09626008 134.51401951</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt73">
+  <gml:pos>34.03944920 134.51411761</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt74">
+  <gml:pos>34.05364077 134.53646672</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt75">
+  <gml:pos>34.02322182 134.57209959</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt76">
+  <gml:pos>34.02339525 134.57017544</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt77">
+  <gml:pos>34.03691230 134.50597019</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt78">
+  <gml:pos>34.09341027 134.50895442</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt79">
+  <gml:pos>34.09368047 134.45414245</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt80">
+  <gml:pos>34.09575766 134.45623182</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt81">
+  <gml:pos>34.09726112 134.45593502</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt82">
+  <gml:pos>34.08955756 134.45317393</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt83">
+  <gml:pos>34.04677440 134.56439222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt84">
+  <gml:pos>34.09203517 134.52558575</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt85">
+  <gml:pos>34.12184617 134.52281289</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt86">
+  <gml:pos>34.04792102 134.56524837</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt87">
+  <gml:pos>34.12192051 134.52448506</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt88">
+  <gml:pos>34.11234919 134.58797178</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt89">
+  <gml:pos>34.03177356 134.50948013</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt90">
+  <gml:pos>34.03057482 134.50553381</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt91">
+  <gml:pos>34.03282361 134.50672662</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt92">
+  <gml:pos>34.03341169 134.50810772</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt93">
+  <gml:pos>34.06056418 134.57864943</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt94">
+  <gml:pos>33.99341012 134.52751974</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt95">
+  <gml:pos>34.05811868 134.47970632</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt96">
+  <gml:pos>34.03534764 134.53884134</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt97">
+  <gml:pos>34.11813185 134.52091580</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt98">
+  <gml:pos>34.00088875 134.54458385</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt99">
+  <gml:pos>34.00282829 134.54648882</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt100">
+  <gml:pos>34.05288251 134.54252234</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt101">
+  <gml:pos>34.00446463 134.54091692</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt102">
+  <gml:pos>34.03998858 134.55561829</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt103">
+  <gml:pos>34.06176617 134.58714907</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt104">
+  <gml:pos>34.07249638 134.52531418</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt105">
+  <gml:pos>34.05534316 134.55986946</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt106">
+  <gml:pos>34.05075285 134.55489694</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt107">
+  <gml:pos>34.04557068 134.58280517</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt108">
+  <gml:pos>34.06835191 134.55061240</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt109">
+  <gml:pos>34.08387028 134.54212677</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt110">
+  <gml:pos>34.07394544 134.55748255</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt111">
+  <gml:pos>34.06674372 134.53440660</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt112">
+  <gml:pos>34.06951986 134.51393925</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt113">
+  <gml:pos>34.03100228 134.48454807</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt114">
+  <gml:pos>34.01331546 134.51908670</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt115">
+  <gml:pos>34.05881900 134.46870999</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt116">
+  <gml:pos>34.07192054 134.56692845</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt117">
+  <gml:pos>34.08285717 134.55555740</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt118">
+  <gml:pos>34.08717761 134.56301293</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt119">
+  <gml:pos>34.08087449 134.50184607</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt120">
+  <gml:pos>34.09000089 134.60323080</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt121">
+  <gml:pos>34.08135395 134.53427110</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt122">
+  <gml:pos>34.09133306 134.55163533</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt123">
+  <gml:pos>34.08469936 134.52875344</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt124">
+  <gml:pos>34.05905208 134.50233389</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt125">
+  <gml:pos>34.04836646 134.53420509</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt126">
+  <gml:pos>34.08010060 134.54021589</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt127">
+  <gml:pos>34.15926564 134.49693600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt128">
+  <gml:pos>34.20601052 134.58998762</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt129">
+  <gml:pos>34.18162274 134.60283224</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt130">
+  <gml:pos>34.18934989 134.60171489</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt131">
+  <gml:pos>34.19873217 134.60350046</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt132">
+  <gml:pos>34.18565161 134.60521998</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt133">
+  <gml:pos>34.17147190 134.61142530</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt134">
+  <gml:pos>34.18748459 134.61030460</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt135">
+  <gml:pos>34.17805841 134.61150902</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt136">
+  <gml:pos>34.18050351 134.60676793</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt137">
+  <gml:pos>34.17756489 134.60635776</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt138">
+  <gml:pos>34.17451519 134.60731355</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt139">
+  <gml:pos>34.17480115 134.61044040</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt140">
+  <gml:pos>34.17386308 134.60498436</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt141">
+  <gml:pos>34.17350628 134.61349553</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt142">
+  <gml:pos>34.17371138 134.61620089</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt143">
+  <gml:pos>34.17130556 134.61629194</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt144">
+  <gml:pos>34.17324837 134.61962602</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt145">
+  <gml:pos>34.21102032 134.57956146</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt146">
+  <gml:pos>34.20883532 134.57943842</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt147">
+  <gml:pos>34.20764274 134.58289730</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt148">
+  <gml:pos>34.20551105 134.58404635</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt149">
+  <gml:pos>34.20391901 134.58293934</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt150">
+  <gml:pos>34.20167511 134.58340119</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt151">
+  <gml:pos>34.18710450 134.60019665</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt152">
+  <gml:pos>34.18620088 134.60301827</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt153">
+  <gml:pos>34.20416525 134.60930901</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt154">
+  <gml:pos>34.20128851 134.61062796</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt155">
+  <gml:pos>34.19958430 134.60745366</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt156">
+  <gml:pos>34.20276412 134.60118372</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt157">
+  <gml:pos>34.20034441 134.60217566</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt158">
+  <gml:pos>34.20487864 134.59375978</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt159">
+  <gml:pos>34.20192225 134.59434002</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt160">
+  <gml:pos>34.18135291 134.61355635</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt161">
+  <gml:pos>34.18190312 134.61641807</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt162">
+  <gml:pos>34.13691976 134.53776527</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt163">
+  <gml:pos>34.13727879 134.52719124</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt164">
+  <gml:pos>34.15852453 134.49580675</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt165">
+  <gml:pos>34.14102658 134.52380502</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt166">
+  <gml:pos>34.17048017 134.57692369</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt167">
+  <gml:pos>34.01112097 134.58636892</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt168">
+  <gml:pos>33.97543959 134.60482067</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt169">
+  <gml:pos>34.01353607 134.57895307</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt170">
+  <gml:pos>33.93451937 134.66333709</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt171">
+  <gml:pos>33.92361504 134.65231865</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt172">
+  <gml:pos>33.91968205 134.66132590</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt173">
+  <gml:pos>33.92268424 134.58092529</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt174">
+  <gml:pos>33.94391342 134.66116448</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt175">
+  <gml:pos>33.94182937 134.64842529</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt176">
+  <gml:pos>33.95285791 134.68147163</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt177">
+  <gml:pos>33.96092947 134.61613628</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt178">
+  <gml:pos>33.96312856 134.62334399</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt179">
+  <gml:pos>33.96462731 134.62982926</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt180">
+  <gml:pos>33.95461727 134.63434572</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt181">
+  <gml:pos>33.95195131 134.63631866</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt182">
+  <gml:pos>33.94306431 134.62395337</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt183">
+  <gml:pos>33.94358410 134.63174483</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt184">
+  <gml:pos>33.94364951 134.60884650</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt185">
+  <gml:pos>33.94251354 134.60209686</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt186">
+  <gml:pos>33.94496334 134.59252983</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt187">
+  <gml:pos>33.95884748 134.63030043</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt188">
+  <gml:pos>33.95340606 134.62922730</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt189">
+  <gml:pos>33.94024471 134.59980756</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt190">
+  <gml:pos>33.96364037 134.62371664</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt191">
+  <gml:pos>33.94132386 134.60634925</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt192">
+  <gml:pos>33.95735476 134.62530578</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt193">
+  <gml:pos>33.96164840 134.62580319</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt194">
+  <gml:pos>33.94163670 134.61929799</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt195">
+  <gml:pos>33.95233903 134.61598272</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt196">
+  <gml:pos>33.91869942 134.67870472</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt197">
+  <gml:pos>33.91391094 134.68551179</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt198">
+  <gml:pos>33.90913265 134.68388293</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt199">
+  <gml:pos>33.91898509 134.64854517</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt200">
+  <gml:pos>33.92075422 134.65810411</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt201">
+  <gml:pos>34.07565056 134.35201068</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt202">
+  <gml:pos>34.06896858 134.38553982</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt203">
+  <gml:pos>34.05714274 134.35757883</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt204">
+  <gml:pos>34.06492517 134.34397072</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt205">
+  <gml:pos>34.07942626 134.36564939</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt206">
+  <gml:pos>34.05185363 134.32630753</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt207">
+  <gml:pos>34.06365084 134.22981219</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt208">
+  <gml:pos>34.06644237 134.13147813</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt209">
+  <gml:pos>34.02334968 133.78518536</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt210">
+  <gml:pos>34.02927935 133.79585770</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt211">
+  <gml:pos>34.03959840 133.83816984</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt212">
+  <gml:pos>34.01885096 133.78179951</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt213">
+  <gml:pos>34.02830831 133.81342206</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt214">
+  <gml:pos>34.04117725 133.85195749</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt215">
+  <gml:pos>33.98741647 134.45621826</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt216">
+  <gml:pos>34.08482487 134.44555496</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt217">
+  <gml:pos>34.05759984 134.43636135</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt218">
+  <gml:pos>34.06935402 134.44431839</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt219">
+  <gml:pos>34.07290050 134.44550894</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt220">
+  <gml:pos>34.06760744 134.44678506</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt221">
+  <gml:pos>33.65702348 134.41051169</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt222">
+  <gml:pos>33.66637339 134.42754408</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt223">
+  <gml:pos>33.72264323 134.53941318</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt224">
+  <gml:pos>33.62030477 134.37122982</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt225">
+  <gml:pos>34.13594428 134.58179038</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt226">
+  <gml:pos>34.14183302 134.58932592</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt227">
+  <gml:pos>34.11168944 134.59873735</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt228">
+  <gml:pos>34.14595040 134.60224266</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt229">
+  <gml:pos>34.14008000 134.58609000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt230">
+  <gml:pos>34.11365533 134.55244822</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt231">
+  <gml:pos>34.12891058 134.53430626</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt232">
+  <gml:pos>34.13346428 134.55250672</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt233">
+  <gml:pos>34.12974668 134.55034068</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt234">
+  <gml:pos>34.12499481 134.55504502</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt235">
+  <gml:pos>34.13620244 134.54204224</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt236">
+  <gml:pos>34.13403779 134.54041299</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt237">
+  <gml:pos>34.13458148 134.54302880</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt238">
+  <gml:pos>34.13780558 134.54281435</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt239">
+  <gml:pos>34.13923818 134.54297608</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt240">
+  <gml:pos>34.13911593 134.54098913</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt241">
+  <gml:pos>34.14028919 134.55943265</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt242">
+  <gml:pos>34.13912848 134.56770043</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt243">
+  <gml:pos>34.13475562 134.55344722</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt244">
+  <gml:pos>34.12913449 134.55472831</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt245">
+  <gml:pos>34.13801272 134.56697219</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt246">
+  <gml:pos>34.13463304 134.54478621</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt247">
+  <gml:pos>34.12844664 134.53562283</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt248">
+  <gml:pos>34.13459209 134.55407712</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt249">
+  <gml:pos>34.11373914 134.54265672</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt250">
+  <gml:pos>34.13466698 134.55826539</gml:pos>
+</gml:Point>
+<gml:Point gml:id="pt251">
+  <gml:pos>34.04482436 133.94002264</gml:pos>
+</gml:Point>
+<ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>日峯大神子広域公園</ksj:nop>
+  <ksj:kdp>6</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>653900</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk2">
+  <ksj:loc xlink:href="#pt2"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>鳴門ウチノ海総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk2_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>225000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk3">
+  <ksj:loc xlink:href="#pt3"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>鳴門総合運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk3_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>256000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk4">
+  <ksj:loc xlink:href="#pt4"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>月見が丘海浜公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡松茂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk4_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>141000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk5">
+  <ksj:loc xlink:href="#pt5"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>新町川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk5_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>38000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk6">
+  <ksj:loc xlink:href="#pt6"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>蔵本公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk6_TI1">
+      <gml:timePosition>1956</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>91000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk7">
+  <ksj:loc xlink:href="#pt7"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>文化の森総合公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk7_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>286000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk8">
+  <ksj:loc xlink:href="#pt8"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn></ksj:lgn>
+  <ksj:nop>南部健康運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk8_TI1">
+      <gml:timePosition>2007</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>87200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk9">
+  <ksj:loc xlink:href="#pt9"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>市役所前公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk9_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3349</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk10">
+  <ksj:loc xlink:href="#pt10"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>幸町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk10_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1655</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk11">
+  <ksj:loc xlink:href="#pt11"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>寺島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk11_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk12">
+  <ksj:loc xlink:href="#pt12"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>寺島東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk12_TI1">
+      <gml:timePosition>1966</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>920</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk13">
+  <ksj:loc xlink:href="#pt13"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>東富田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk13_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4763</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk14">
+  <ksj:loc xlink:href="#pt14"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>富田中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk14_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4052</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk15">
+  <ksj:loc xlink:href="#pt15"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>西富田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk15_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3218</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk16">
+  <ksj:loc xlink:href="#pt16"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>伊月町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk16_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>606</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk17">
+  <ksj:loc xlink:href="#pt17"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>昭和町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk17_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3522</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk18">
+  <ksj:loc xlink:href="#pt18"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>南昭和町公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk18_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1154</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk19">
+  <ksj:loc xlink:href="#pt19"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>北浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk19_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>923</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk20">
+  <ksj:loc xlink:href="#pt20"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>山城南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk20_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk21">
+  <ksj:loc xlink:href="#pt21"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk21_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>152</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk22">
+  <ksj:loc xlink:href="#pt22"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk22_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>448</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk23">
+  <ksj:loc xlink:href="#pt23"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk23_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>306</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk24">
+  <ksj:loc xlink:href="#pt24"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk24_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>306</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk25">
+  <ksj:loc xlink:href="#pt25"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>新浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk25_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1011</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk26">
+  <ksj:loc xlink:href="#pt26"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>末広公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk26_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1579</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk27">
+  <ksj:loc xlink:href="#pt27"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>新蔵公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk27_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1887</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk28">
+  <ksj:loc xlink:href="#pt28"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>常三島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk28_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk29">
+  <ksj:loc xlink:href="#pt29"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>北常三島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk29_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1084</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk30">
+  <ksj:loc xlink:href="#pt30"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>蛭子公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk30_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3444</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk31">
+  <ksj:loc xlink:href="#pt31"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>出来島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk31_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2340</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk32">
+  <ksj:loc xlink:href="#pt32"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>東山手公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk32_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>879</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk33">
+  <ksj:loc xlink:href="#pt33"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>佐古東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk33_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk34">
+  <ksj:loc xlink:href="#pt34"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>佐古西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk34_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>606</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk35">
+  <ksj:loc xlink:href="#pt35"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>不動東４丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk35_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>695</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk36">
+  <ksj:loc xlink:href="#pt36"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>不動東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk36_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1277</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk37">
+  <ksj:loc xlink:href="#pt37"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>不動公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk37_TI1">
+      <gml:timePosition>1958</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>431</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk38">
+  <ksj:loc xlink:href="#pt38"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>北島田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk38_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>578</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk39">
+  <ksj:loc xlink:href="#pt39"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>鮎喰公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk39_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1591</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk40">
+  <ksj:loc xlink:href="#pt40"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>庄町北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk40_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>510</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk41">
+  <ksj:loc xlink:href="#pt41"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>庄町南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk41_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>505</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk42">
+  <ksj:loc xlink:href="#pt42"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>袋井公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk42_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1167</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk43">
+  <ksj:loc xlink:href="#pt43"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>芝原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk43_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1392</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk44">
+  <ksj:loc xlink:href="#pt44"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>大原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk44_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>551</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk45">
+  <ksj:loc xlink:href="#pt45"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>明善公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk45_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1145</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk46">
+  <ksj:loc xlink:href="#pt46"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>延命公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk46_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1215</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk47">
+  <ksj:loc xlink:href="#pt47"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>一宮公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk47_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1819</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk48">
+  <ksj:loc xlink:href="#pt48"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk48_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>995</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk49">
+  <ksj:loc xlink:href="#pt49"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk49_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1049</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk50">
+  <ksj:loc xlink:href="#pt50"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk50_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1100</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk51">
+  <ksj:loc xlink:href="#pt51"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk51_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1139</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk52">
+  <ksj:loc xlink:href="#pt52"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台５号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk52_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1815</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk53">
+  <ksj:loc xlink:href="#pt53"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk53_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5228</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk54">
+  <ksj:loc xlink:href="#pt54"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>榎瀬公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk54_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>502</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk55">
+  <ksj:loc xlink:href="#pt55"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>応神公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk55_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1752</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk56">
+  <ksj:loc xlink:href="#pt56"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>応神七丁原公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk56_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>500</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk57">
+  <ksj:loc xlink:href="#pt57"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>北川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk57_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2200</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk58">
+  <ksj:loc xlink:href="#pt58"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>丈六東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk58_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1071</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk59">
+  <ksj:loc xlink:href="#pt59"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>丈六西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk59_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>992</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk60">
+  <ksj:loc xlink:href="#pt60"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>丈六中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk60_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2030</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk61">
+  <ksj:loc xlink:href="#pt61"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>南沖洲公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk61_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>150</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk62">
+  <ksj:loc xlink:href="#pt62"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>川内流通団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk62_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4949</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk63">
+  <ksj:loc xlink:href="#pt63"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>不動東３丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk63_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>835</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk64">
+  <ksj:loc xlink:href="#pt64"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>南浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk64_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2144</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk65">
+  <ksj:loc xlink:href="#pt65"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田５号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk65_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>201</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk66">
+  <ksj:loc xlink:href="#pt66"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田６号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk66_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>831</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk67">
+  <ksj:loc xlink:href="#pt67"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田砲台場公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk67_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>699</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk68">
+  <ksj:loc xlink:href="#pt68"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>新浜団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk68_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>514</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk69">
+  <ksj:loc xlink:href="#pt69"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>南末広公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk69_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>278</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk70">
+  <ksj:loc xlink:href="#pt70"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>延命第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk70_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2787</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk71">
+  <ksj:loc xlink:href="#pt71"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>西新浜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk71_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>389</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk72">
+  <ksj:loc xlink:href="#pt72"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>不動東団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk72_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>515</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk73">
+  <ksj:loc xlink:href="#pt73"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>寺山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk73_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1432</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk74">
+  <ksj:loc xlink:href="#pt74"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>城南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk74_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>493</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk75">
+  <ksj:loc xlink:href="#pt75"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>大原団地東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk75_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>985</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk76">
+  <ksj:loc xlink:href="#pt76"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>大原団地中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk76_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>621</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk77">
+  <ksj:loc xlink:href="#pt77"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>上八万公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk77_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>592</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk78">
+  <ksj:loc xlink:href="#pt78"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>不動第一公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk78_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>606</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk79">
+  <ksj:loc xlink:href="#pt79"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>竜王中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk79_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5030</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk80">
+  <ksj:loc xlink:href="#pt80"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>竜王北１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk80_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1106</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk81">
+  <ksj:loc xlink:href="#pt81"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>竜王北２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk81_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2212</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk82">
+  <ksj:loc xlink:href="#pt82"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>竜王南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk82_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1025</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk83">
+  <ksj:loc xlink:href="#pt83"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>千切山公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk83_TI1">
+      <gml:timePosition>1990</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>821</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk84">
+  <ksj:loc xlink:href="#pt84"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>春日公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk84_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1362</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk85">
+  <ksj:loc xlink:href="#pt85"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>ハイテクランド徳島南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk85_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1885</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk86">
+  <ksj:loc xlink:href="#pt86"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>新浜四丁目公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk86_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>808</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk87">
+  <ksj:loc xlink:href="#pt87"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>ハイテクランド徳島中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk87_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2703</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk88">
+  <ksj:loc xlink:href="#pt88"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>ブレインズパーク徳島公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk88_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2665</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk89">
+  <ksj:loc xlink:href="#pt89"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>センチュリーヒルズ団地１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk89_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1142</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk90">
+  <ksj:loc xlink:href="#pt90"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>センチュリーヒルズ団地２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk90_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1284</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk91">
+  <ksj:loc xlink:href="#pt91"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>センチュリーヒルズ団地３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk91_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>701</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk92">
+  <ksj:loc xlink:href="#pt92"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>センチュリーヒルズ団地４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk92_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>667</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk93">
+  <ksj:loc xlink:href="#pt93"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>南末広三角公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk93_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>543</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk94">
+  <ksj:loc xlink:href="#pt94"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>八多金堂公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk94_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2168</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk95">
+  <ksj:loc xlink:href="#pt95"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>矢野公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk95_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>958</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk96">
+  <ksj:loc xlink:href="#pt96"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>木の香る公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk96_TI1">
+      <gml:timePosition>2000</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk97">
+  <ksj:loc xlink:href="#pt97"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>応神瑞川公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk97_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2533</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk98">
+  <ksj:loc xlink:href="#pt98"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>丈領団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk98_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>450</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk99">
+  <ksj:loc xlink:href="#pt99"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>丈六南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk99_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2249</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk100">
+  <ksj:loc xlink:href="#pt100"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>ドリームパーク八万</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk100_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>573</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk101">
+  <ksj:loc xlink:href="#pt101"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>ニュー丈六団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk101_TI1">
+      <gml:timePosition>2006</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>906</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk102">
+  <ksj:loc xlink:href="#pt102"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>雑賀ゆとり公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk102_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>554</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk103">
+  <ksj:loc xlink:href="#pt103"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>沖洲公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk103_TI1">
+      <gml:timePosition>1926</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>15085</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk104">
+  <ksj:loc xlink:href="#pt104"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>椎宮公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk104_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20732</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk105">
+  <ksj:loc xlink:href="#pt105"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>大西公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk105_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>8700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk106">
+  <ksj:loc xlink:href="#pt106"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>山城公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk106_TI1">
+      <gml:timePosition>1986</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9174</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk107">
+  <ksj:loc xlink:href="#pt107"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>津田公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk107_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>49731</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk108">
+  <ksj:loc xlink:href="#pt108"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>新町川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk108_TI1">
+      <gml:timePosition>1947</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13424</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk109">
+  <ksj:loc xlink:href="#pt109"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>田宮公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk109_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>51943</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk110">
+  <ksj:loc xlink:href="#pt110"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>徳島中央公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk110_TI1">
+      <gml:timePosition>1906</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>200262</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk111">
+  <ksj:loc xlink:href="#pt111"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>眉山公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk111_TI1">
+      <gml:timePosition>1957</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>240403</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk112">
+  <ksj:loc xlink:href="#pt112"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>西部公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk112_TI1">
+      <gml:timePosition>1958</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>48895</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk113">
+  <ksj:loc xlink:href="#pt113"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>しらさぎ台自然公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk113_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>32000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk114">
+  <ksj:loc xlink:href="#pt114"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>徳島市総合動植物公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk114_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>589000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk115">
+  <ksj:loc xlink:href="#pt115"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>阿波史跡公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk115_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>192804</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk116">
+  <ksj:loc xlink:href="#pt116"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>福島・住吉緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk116_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>6699</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk117">
+  <ksj:loc xlink:href="#pt117"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>助任緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk117_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11167</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk118">
+  <ksj:loc xlink:href="#pt118"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>吉野川河川敷緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk118_TI1">
+      <gml:timePosition>1976</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>435300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk119">
+  <ksj:loc xlink:href="#pt119"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>鮎喰川河川敷緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk119_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>101826</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk120">
+  <ksj:loc xlink:href="#pt120"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>小松海岸緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk120_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk121">
+  <ksj:loc xlink:href="#pt121"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>北佐古緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk121_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1387</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk122">
+  <ksj:loc xlink:href="#pt122"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>新町樋門緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk122_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>798</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk123">
+  <ksj:loc xlink:href="#pt123"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>南矢三緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk123_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1284</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk124">
+  <ksj:loc xlink:href="#pt124"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>地蔵院池緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk124_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>20600</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk125">
+  <ksj:loc xlink:href="#pt125"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>夷山緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk125_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2800</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk126">
+  <ksj:loc xlink:href="#pt126"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>徳島市</ksj:lgn>
+  <ksj:nop>佐古駅東緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>徳島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk126_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1951</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk127">
+  <ksj:loc xlink:href="#pt127"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>ドイツ村公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk127_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>99100</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk128">
+  <ksj:loc xlink:href="#pt128"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門塩田公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk128_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>36597</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk129">
+  <ksj:loc xlink:href="#pt129"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>撫養第１公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk129_TI1">
+      <gml:timePosition>1953</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23417</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk130">
+  <ksj:loc xlink:href="#pt130"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>中水尾川１号公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk130_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9183</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk131">
+  <ksj:loc xlink:href="#pt131"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町７号公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk131_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7557</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk132">
+  <ksj:loc xlink:href="#pt132"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>撫養緑地公園</ksj:nop>
+  <ksj:kdp>10</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk132_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10061</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk133">
+  <ksj:loc xlink:href="#pt133"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>撫養川親水公園</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk133_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>11972</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk134">
+  <ksj:loc xlink:href="#pt134"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>桑島公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk134_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>34400</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk135">
+  <ksj:loc xlink:href="#pt135"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>林崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk135_TI1">
+      <gml:timePosition>1967</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>742</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk136">
+  <ksj:loc xlink:href="#pt136"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>撫養第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk136_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2348</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk137">
+  <ksj:loc xlink:href="#pt137"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>撫養第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk137_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1303</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk138">
+  <ksj:loc xlink:href="#pt138"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>東浜第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk138_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>985</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk139">
+  <ksj:loc xlink:href="#pt139"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>東浜第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk139_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2500</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk140">
+  <ksj:loc xlink:href="#pt140"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>東浜第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk140_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1934</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk141">
+  <ksj:loc xlink:href="#pt141"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>立岩第１公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk141_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3347</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk142">
+  <ksj:loc xlink:href="#pt142"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>立岩第２公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk142_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1604</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk143">
+  <ksj:loc xlink:href="#pt143"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>立岩第３公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk143_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2015</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk144">
+  <ksj:loc xlink:href="#pt144"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>立岩第４公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk144_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1427</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk145">
+  <ksj:loc xlink:href="#pt145"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>明神第１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk145_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1820</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk146">
+  <ksj:loc xlink:href="#pt146"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>明神第２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk146_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1830</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk147">
+  <ksj:loc xlink:href="#pt147"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>明神第３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk147_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1218</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk148">
+  <ksj:loc xlink:href="#pt148"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>明神第４号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk148_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3087</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk149">
+  <ksj:loc xlink:href="#pt149"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>明神第５号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk149_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1762</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk150">
+  <ksj:loc xlink:href="#pt150"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>明神第６号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk150_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>974</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk151">
+  <ksj:loc xlink:href="#pt151"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>中水尾川２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk151_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3396</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk152">
+  <ksj:loc xlink:href="#pt152"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>中水尾川３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk152_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3288</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk153">
+  <ksj:loc xlink:href="#pt153"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk153_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>480</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk154">
+  <ksj:loc xlink:href="#pt154"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk154_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1686</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk155">
+  <ksj:loc xlink:href="#pt155"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町３号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk155_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1999</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk156">
+  <ksj:loc xlink:href="#pt156"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町５号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk156_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>484</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk157">
+  <ksj:loc xlink:href="#pt157"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町６号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk157_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3465</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk158">
+  <ksj:loc xlink:href="#pt158"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町８号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk158_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1792</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk159">
+  <ksj:loc xlink:href="#pt159"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>鳴門町９号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk159_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1459</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk160">
+  <ksj:loc xlink:href="#pt160"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>弁北１号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk160_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2197</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk161">
+  <ksj:loc xlink:href="#pt161"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>弁北２号公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk161_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1953</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk162">
+  <ksj:loc xlink:href="#pt162"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>松の木広場</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk162_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1457</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk163">
+  <ksj:loc xlink:href="#pt163"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>西部グランド</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk163_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4539</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk164">
+  <ksj:loc xlink:href="#pt164"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>新生公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk164_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1905</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk165">
+  <ksj:loc xlink:href="#pt165"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>川崎公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk165_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>892</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk166">
+  <ksj:loc xlink:href="#pt166"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>鳴門市</ksj:lgn>
+  <ksj:nop>木津城山公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>鳴門市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk166_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk167">
+  <ksj:loc xlink:href="#pt167"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>小松島市</ksj:lgn>
+  <ksj:nop>小松島ステーションパーク</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>小松島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk167_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>14810</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk168">
+  <ksj:loc xlink:href="#pt168"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>小松島市</ksj:lgn>
+  <ksj:nop>立江川親水公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>小松島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk168_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7298</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk169">
+  <ksj:loc xlink:href="#pt169"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>小松島市</ksj:lgn>
+  <ksj:nop>自転車歩行者専用道路</ksj:nop>
+  <ksj:kdp>12</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>小松島市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk169_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9800</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk170">
+  <ksj:loc xlink:href="#pt170"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立那賀川河川敷第1緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk170_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>59000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk171">
+  <ksj:loc xlink:href="#pt171"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立浜の浦緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk171_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk172">
+  <ksj:loc xlink:href="#pt172"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立阿南駅前児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk172_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2300</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk173">
+  <ksj:loc xlink:href="#pt173"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立阿南西部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk173_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>35000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk174">
+  <ksj:loc xlink:href="#pt174"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立那賀川児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk174_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk175">
+  <ksj:loc xlink:href="#pt175"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立那賀川河川敷第２緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk175_TI1">
+      <gml:timePosition>1991</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>22100</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk176">
+  <ksj:loc xlink:href="#pt176"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立出島恐竜公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk176_TI1">
+      <gml:timePosition>1997</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3900</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk177">
+  <ksj:loc xlink:href="#pt177"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立春日野児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk177_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk178">
+  <ksj:loc xlink:href="#pt178"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立宮倉児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk178_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk179">
+  <ksj:loc xlink:href="#pt179"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立中庄児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk179_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>600</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk180">
+  <ksj:loc xlink:href="#pt180"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立那東児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk180_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>800</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk181">
+  <ksj:loc xlink:href="#pt181"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立中塚児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk181_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk182">
+  <ksj:loc xlink:href="#pt182"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立古庄児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk182_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk183">
+  <ksj:loc xlink:href="#pt183"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立古庄在所児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk183_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk184">
+  <ksj:loc xlink:href="#pt184"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立上岩脇児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk184_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk185">
+  <ksj:loc xlink:href="#pt185"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立明見児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk185_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk186">
+  <ksj:loc xlink:href="#pt186"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立古毛児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk186_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk187">
+  <ksj:loc xlink:href="#pt187"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立野神児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk187_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>700</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk188">
+  <ksj:loc xlink:href="#pt188"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立高田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk188_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>800</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk189">
+  <ksj:loc xlink:href="#pt189"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立那賀川河川敷第３緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk189_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21600</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk190">
+  <ksj:loc xlink:href="#pt190"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立前川親水公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk190_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4200</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk191">
+  <ksj:loc xlink:href="#pt191"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立羽ノ浦桜づつみ公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk191_TI1">
+      <gml:timePosition>1998</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>10200</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk192">
+  <ksj:loc xlink:href="#pt192"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立羽ノ浦街区公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk192_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>300</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk193">
+  <ksj:loc xlink:href="#pt193"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立浦川西街区公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk193_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>400</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk194">
+  <ksj:loc xlink:href="#pt194"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立若鮎街区公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk194_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk195">
+  <ksj:loc xlink:href="#pt195"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立羽ノ浦スポーツランド公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk195_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9600</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk196">
+  <ksj:loc xlink:href="#pt196"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立王子農村公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk196_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1500</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk197">
+  <ksj:loc xlink:href="#pt197"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立東部自然公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk197_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>18700</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk198">
+  <ksj:loc xlink:href="#pt198"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立才見やすらぎの郷農村公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk198_TI1">
+      <gml:timePosition>2004</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk199">
+  <ksj:loc xlink:href="#pt199"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立桑野川防災ステーション</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk199_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4600</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk200">
+  <ksj:loc xlink:href="#pt200"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>阿南市</ksj:lgn>
+  <ksj:nop>阿南市立牛岐城趾公園</ksj:nop>
+  <ksj:kdp>9</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>阿南市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk200_TI1">
+      <gml:timePosition>2009</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>7500</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk201">
+  <ksj:loc xlink:href="#pt201"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>江川・鴨島公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk201_TI1">
+      <gml:timePosition>1994</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23766</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk202">
+  <ksj:loc xlink:href="#pt202"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>向麻山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk202_TI1">
+      <gml:timePosition>1979</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>92003</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk203">
+  <ksj:loc xlink:href="#pt203"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>呉郷公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk203_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2139</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk204">
+  <ksj:loc xlink:href="#pt204"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>西麻植児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk204_TI1">
+      <gml:timePosition>1974</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2751</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk205">
+  <ksj:loc xlink:href="#pt205"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>喜来児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk205_TI1">
+      <gml:timePosition>1975</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2000</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk206">
+  <ksj:loc xlink:href="#pt206"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>上桜公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk206_TI1">
+      <gml:timePosition>1987</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>73000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk207">
+  <ksj:loc xlink:href="#pt207"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>吉野川市</ksj:lgn>
+  <ksj:nop>バンブーパーク</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>吉野川市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk207_TI1">
+      <gml:timePosition>2002</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>80000</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk208">
+  <ksj:loc xlink:href="#pt208"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>美馬市</ksj:lgn>
+  <ksj:nop>新町公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>美馬市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk208_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>37700</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk209">
+  <ksj:loc xlink:href="#pt209"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好市</ksj:lgn>
+  <ksj:nop>吉野川運動公園</ksj:nop>
+  <ksj:kdp>5</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk209_TI1">
+      <gml:timePosition>1978</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>75000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk210">
+  <ksj:loc xlink:href="#pt210"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好市</ksj:lgn>
+  <ksj:nop>丸山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk210_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>57000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk211">
+  <ksj:loc xlink:href="#pt211"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好市</ksj:lgn>
+  <ksj:nop>箸蔵近隣公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk211_TI1">
+      <gml:timePosition>1988</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>9500</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk212">
+  <ksj:loc xlink:href="#pt212"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好市</ksj:lgn>
+  <ksj:nop>白地児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk212_TI1">
+      <gml:timePosition>1970</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3865</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk213">
+  <ksj:loc xlink:href="#pt213"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好市</ksj:lgn>
+  <ksj:nop>鍛冶屋町児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk213_TI1">
+      <gml:timePosition>1971</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1375</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk214">
+  <ksj:loc xlink:href="#pt214"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好市</ksj:lgn>
+  <ksj:nop>州津児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好市</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk214_TI1">
+      <gml:timePosition>1972</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>2490</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk215">
+  <ksj:loc xlink:href="#pt215"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>名東郡佐那河内村</ksj:lgn>
+  <ksj:nop>佐那河内村中央運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>名東郡佐那河内村</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk215_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>62700</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk216">
+  <ksj:loc xlink:href="#pt216"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>名西郡石井町</ksj:lgn>
+  <ksj:nop>飯尾川公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>名西郡石井町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk216_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>43632</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk217">
+  <ksj:loc xlink:href="#pt217"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>名西郡石井町</ksj:lgn>
+  <ksj:nop>前山公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>名西郡石井町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk217_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>71845</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk218">
+  <ksj:loc xlink:href="#pt218"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>名西郡石井町</ksj:lgn>
+  <ksj:nop>池田児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>名西郡石井町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk218_TI1">
+      <gml:timePosition>1963</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1460</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk219">
+  <ksj:loc xlink:href="#pt219"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>名西郡石井町</ksj:lgn>
+  <ksj:nop>高川原児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>名西郡石井町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk219_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1309</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk220">
+  <ksj:loc xlink:href="#pt220"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>名西郡石井町</ksj:lgn>
+  <ksj:nop>原児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>名西郡石井町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk220_TI1">
+      <gml:timePosition>1980</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1055</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk221">
+  <ksj:loc xlink:href="#pt221"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>海部郡牟岐町</ksj:lgn>
+  <ksj:nop>内妻公園</ksj:nop>
+  <ksj:kdp>4</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>海部郡牟岐町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk221_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>59000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk222">
+  <ksj:loc xlink:href="#pt222"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>海部郡牟岐町</ksj:lgn>
+  <ksj:nop>大牟岐田公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>海部郡牟岐町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk222_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1300</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk223">
+  <ksj:loc xlink:href="#pt223"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>海部郡美波町</ksj:lgn>
+  <ksj:nop>竜宮公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>海部郡美波町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk223_TI1">
+      <gml:timePosition>1996</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>13000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk224">
+  <ksj:loc xlink:href="#pt224"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>海部郡海陽町</ksj:lgn>
+  <ksj:nop>蛇王運動公園</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>海部郡海陽町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk224_TI1">
+      <gml:timePosition>1993</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>87000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk225">
+  <ksj:loc xlink:href="#pt225"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡松茂町</ksj:lgn>
+  <ksj:nop>松茂公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡松茂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk225_TI1">
+      <gml:timePosition>1973</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>15733</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk226">
+  <ksj:loc xlink:href="#pt226"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡松茂町</ksj:lgn>
+  <ksj:nop>松茂中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡松茂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk226_TI1">
+      <gml:timePosition>1981</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>23537</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk227">
+  <ksj:loc xlink:href="#pt227"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡松茂町</ksj:lgn>
+  <ksj:nop>長原児童公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡松茂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk227_TI1">
+      <gml:timePosition>1985</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>509</ksj:opa>
+  <ksj:cpd>1</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk228">
+  <ksj:loc xlink:href="#pt228"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡松茂町</ksj:lgn>
+  <ksj:nop>松茂東部公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡松茂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk228_TI1">
+      <gml:timePosition>1989</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4309</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk229">
+  <ksj:loc xlink:href="#pt229"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡松茂町</ksj:lgn>
+  <ksj:nop>向喜来緑地</ksj:nop>
+  <ksj:kdp>11</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡松茂町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk229_TI1">
+      <gml:timePosition>2008</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4471</ksj:opa>
+  <ksj:cpd>2</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk230">
+  <ksj:loc xlink:href="#pt230"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>川久保公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk230_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1679</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk231">
+  <ksj:loc xlink:href="#pt231"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>勝瑞境公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk231_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>667</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk232">
+  <ksj:loc xlink:href="#pt232"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>北村公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk232_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1353</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk233">
+  <ksj:loc xlink:href="#pt233"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>中村公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk233_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1281</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk234">
+  <ksj:loc xlink:href="#pt234"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>栄通り公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk234_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1095</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk235">
+  <ksj:loc xlink:href="#pt235"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>グリーンタウン中央公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk235_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1954</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk236">
+  <ksj:loc xlink:href="#pt236"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>グリーンタウン西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk236_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1629</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk237">
+  <ksj:loc xlink:href="#pt237"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>グリーンタウン南公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk237_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>855</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk238">
+  <ksj:loc xlink:href="#pt238"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>グリーンタウン東小公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk238_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>190</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk239">
+  <ksj:loc xlink:href="#pt239"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>グリーンタウン東公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk239_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>769</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk240">
+  <ksj:loc xlink:href="#pt240"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>グリーンタウン北公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk240_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1330</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk241">
+  <ksj:loc xlink:href="#pt241"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>鍋井公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk241_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>4342</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk242">
+  <ksj:loc xlink:href="#pt242"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>外開公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk242_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>817</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk243">
+  <ksj:loc xlink:href="#pt243"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>北村団地公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk243_TI1">
+      <gml:timePosition>1982</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>877</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk244">
+  <ksj:loc xlink:href="#pt244"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>北島中央公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk244_TI1">
+      <gml:timePosition>1983</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk245">
+  <ksj:loc xlink:href="#pt245"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>太郎八須公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk245_TI1">
+      <gml:timePosition>1984</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1173</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk246">
+  <ksj:loc xlink:href="#pt246"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>親水公園ゆとり</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk246_TI1">
+      <gml:timePosition>1992</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>21102</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk247">
+  <ksj:loc xlink:href="#pt247"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>三ツ合公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk247_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>5254</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk248">
+  <ksj:loc xlink:href="#pt248"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>北村防災公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk248_TI1">
+      <gml:timePosition>1999</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>1207</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk249">
+  <ksj:loc xlink:href="#pt249"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>大西公園</ksj:nop>
+  <ksj:kdp>1</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk249_TI1">
+      <gml:timePosition>2001</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>3044</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk250">
+  <ksj:loc xlink:href="#pt250"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>板野郡北島町</ksj:lgn>
+  <ksj:nop>北島北公園</ksj:nop>
+  <ksj:kdp>2</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>板野郡北島町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk250_TI1">
+      <gml:timePosition>2003</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>24885</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+<ksj:Park gml:id="pk251">
+  <ksj:loc xlink:href="#pt251"/>
+  <ksj:adm>徳島県</ksj:adm>
+  <ksj:lgn>三好郡東みよし町</ksj:lgn>
+  <ksj:nop>ぶぶるパークみかも</ksj:nop>
+  <ksj:kdp>3</ksj:kdp>
+  <ksj:pop>徳島県</ksj:pop>
+  <ksj:cop>三好郡東みよし町</ksj:cop>
+  <ksj:opd>
+    <gml:TimeInstant gml:id="pk251_TI1">
+      <gml:timePosition>2005</gml:timePosition>
+    </gml:TimeInstant>
+  </ksj:opd>
+  <ksj:opa>180000</ksj:opa>
+  <ksj:cpd>0</ksj:cpd>
+  <ksj:rmk></ksj:rmk>
+</ksj:Park>
+</ksj:Dataset>
