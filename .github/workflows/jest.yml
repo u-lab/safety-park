@@ -24,11 +24,12 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: clientディレクトリに移動
-      run: cd client
     - name: package Install
       run: npm ci
+      working-directory: ./client
     - name: build
       run: npm run build
+      working-directory: ./client
     - name: test
       run: npm test
+      working-directory: ./client
