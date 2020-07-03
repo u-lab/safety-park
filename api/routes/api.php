@@ -13,8 +13,9 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+//->middlewareによってtokenない場合は先にエラー返すようになっている
 // ユーザー位置情報取得 API仕様書の114行目
-Route::get('/v1/user/location', 'Api\UserLocationController@index')->middleware('exsit.token');
+Route::get('/v1/user/location', 'Api\UserLocationController@index')->middleware('exsit.token');//利用するmiddlewareを呼び出す処理 青本p111
 
 // ユーザー位置情報記録 API仕様書の142行目
 Route::post('/v1/user/location', 'Api\UserLocationController@create')->middleware('exsit.token');
