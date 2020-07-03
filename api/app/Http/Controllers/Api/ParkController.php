@@ -18,7 +18,7 @@ class ParkController extends Controller
         //Laravwl-hands-onをそのまま持ってきました
         //findメソッドp243 引数は検索するID番号
         $park = Park::find($location_id);
-        $user_locations = $park->user_location;
+        $user_locations = $park->user_location;//←こんなのない
 
         // 人数取得
         $count = count($user_locations);

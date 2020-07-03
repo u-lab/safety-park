@@ -20,7 +20,7 @@ class CreateUserLocationsTable extends Migration
             $table->double('latitude', 15, 12);  // 緯度
             $table->double('longitude', 15, 12); // 経度
             $table->integer('time_diff');//滞在時間
-            $table->timestamp('start_time'); //開始時間
+            $table->timestamp('start_time'); //開始時間 時間関連の型はtimestampを使う
             $table->timestamp('end_time'); //終了時間         
             $table->timestamps();
         });
