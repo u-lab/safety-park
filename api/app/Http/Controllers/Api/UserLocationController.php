@@ -19,7 +19,7 @@ class UserLocationController extends Controller
         return $user_location;
     }
     // ユーザー位置情報記録
-    public function create(Request $request)
+    public function create(UserLocationRequest $request)
     {
         $token = $request->header('X-API-TOKEN');
         //requestから来た連想配列から取り出していく
@@ -49,14 +49,13 @@ class UserLocationController extends Controller
         ];
     }
     // ユーザー位置情報更新
-    public function update(Request $request,$location_id)
+    public function update(UserLocationRequest $request)
     {
         $token = $request->header('X-API-TOKEN');//Tokenひろう
         $user = User::where('remember_token', '=', $token)->first();//tokenに該当するユーザー持ってくる 勉強会のときtoken→今回remember_token
         $user_location = UserLocation::where('id', '=', $user->id)->first();//User_locationsとidを照合
         //whereの前はモデルクラス←モデルクラスはEloquent関連のものでテーブルの単数形
         //入力された値を変数に入れる
-        $park_id = $location_id;//どっちを保存すべき？
         $park_id = $request->parkID;
         $longitude = $request->longitude;
         $latitude = $request->latitude;

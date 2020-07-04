@@ -24,7 +24,13 @@ class UserLocationRequest extends FormRequest
     public function rules()
     {
         return [
-            //
+            'parkID'=>'required',
+            'longitude'=>'',
+            'latitude'=>,
+            'time_diff'=>,
+            'start_time'=>,
+            'end_time'=>'required',
+
         ];
     }
 }

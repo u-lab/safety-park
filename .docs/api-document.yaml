@@ -230,13 +230,13 @@ paths:
           in: query
           description: 始まりの時間
           schema:
-            type: timestamp
+            type: string
             format: 'date-time'
         - name: end_time
           in: query
           description: 終わりの時間
           schema:
-            type: timestamp
+            type: string
             format: 'date-time'
       responses:
         200:
