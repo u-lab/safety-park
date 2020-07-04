@@ -28,7 +28,7 @@ class UserLocationController extends Controller
         */
         $token = $request->header('X-API-TOKEN');
         $user = User::where('remember_token', '=', $token)->first();//userの照合 データベースから一致するもの取り出す
-        $user_location = UserLocation::where('id', '=', $user->id)->first();//User_locationsとidを照合
+        $user_location = UserLocation::where('user_id', '=', $user->id)->first();//User_locationsとidを照合
         /*** 
          * requestから来た連想配列から取り出していく
         */
@@ -98,7 +98,7 @@ class UserLocationController extends Controller
     {
         $token = $request->header('X-API-TOKEN');//Tokenひろう
         $user = User::where('remember_token', '=', $token)->first();//tokenに該当するユーザー持ってくる 勉強会のときtoken→今回remember_token
-        $user_location = UserLocation::where('id', '=', $user->id)->first();//User_locationsとidを照合
+        $user_location = UserLocation::where('user_id', '=', $user->id)->first();//User_locationsとidを照合
         //whereの前はモデルクラス←モデルクラスはEloquent関連のものでテーブルの単数形
 
 
@@ -123,12 +123,7 @@ class UserLocationController extends Controller
         ]);
 
         return [
-            "data" => [
-                'park_id' => $user_location->park_id,
-                'longitude' => $user_location->longitude,
-                'latitude' => $user_location->latitude,
-                'end_time'=>$user_location->end_time,
-            ]
+            "data" => $user_location
         ];
 
     }
