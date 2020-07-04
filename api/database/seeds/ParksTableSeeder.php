@@ -11,8 +11,8 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call([
-        ParksTableSeeder::class,
-        ]);
+      DB::table('parks')->insert([
+
+      ]);
     }
 }
