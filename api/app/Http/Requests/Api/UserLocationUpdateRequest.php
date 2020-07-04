@@ -24,7 +24,6 @@ class UserLocationUpdateRequest extends FormRequest
     public function rules()
     {
         return [
-            'user_id' => 'required | integer | gte:1',
             'park_id' => 'required | integer | gte:1',
             'longitude' => 'required | numeric',
             'latitude' => 'required | numeric',

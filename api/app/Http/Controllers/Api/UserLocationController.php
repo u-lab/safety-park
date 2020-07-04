@@ -75,8 +75,9 @@ class UserLocationController extends Controller
         }
 
 
-
-        //データベースに入れる作業をしていると思われる↓
+        /*** 
+         * データベースへの追加
+        */
         $user_location = UserLocation::create([
             'user_id' => $user->id,
             'park_id' => $park_id,
@@ -106,13 +107,18 @@ class UserLocationController extends Controller
         $number_of_people =$request->number_of_people;
         $longitude = $request->longitude;
         $latitude = $request->latitude;
+        $time_diff=$request->time_diff;
+        $start_time=$request->start_time;
         $end_time=$request->end_time;
         
         //更新の処理 tokenがおなじだったユーザーのデータベースを更新する
         $user_location->update([
             'park_id' => $park_id,
+            'number_of_people' => $number_of_people,
             'longitude' => $longitude,
             'latitude' => $latitude,
+            'time_diff'=>$time_diff,
+            'start_time'=>$start_time,
             'end_time'=>$end_time,
         ]);
 
