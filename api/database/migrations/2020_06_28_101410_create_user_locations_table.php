@@ -22,7 +22,8 @@ class CreateUserLocationsTable extends Migration
             $table->unsignedTinyInteger('number_of_people');//人数
             $table->integer('time_diff');//滞在時間
             $table->timestamp('start_time'); //開始時間 時間関連の型はtimestampを使う
-            $table->timestamp('end_time'); //終了時間         
+            $table->timestamp('end_time');
+            //$table->timestamp('end_time'); //終了時間         
             $table->timestamps();
         });
     }

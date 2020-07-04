@@ -20,7 +20,7 @@ class UserLocationController extends Controller
         return $user_location;
     }
     // ユーザー位置情報更新POST
-    public function create(UserLocationRequest $request)
+    public function create(Request $request)
     {
         /*** 
          * ユーザーを判別
@@ -92,7 +92,7 @@ class UserLocationController extends Controller
         ];
     }
     // ユーザー位置情報更新
-    public function update(UserLocationRequest $request)
+    public function update(Request $request)
     {
         $token = $request->header('X-API-TOKEN');//Tokenひろう
         $user = User::where('remember_token', '=', $token)->first();//tokenに該当するユーザー持ってくる 勉強会のときtoken→今回remember_token
