@@ -11,8 +11,12 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-      DB::table('parks')->insert([
+        $park_path = storage_path('park_data/P13-11_01_GML/KS-META-P13-11_01.xml');
+        $word = File::extension($park_path);
 
-      ]);
+        \Log::debug($word);
+    //   DB::table('parks')->insert([
+
+    //   ]);
     }
 }
