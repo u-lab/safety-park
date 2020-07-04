@@ -6,7 +6,8 @@ use App\Http\Controllers\Controller;
 use App\Models\UserLocation;
 use App\User;
 use Illuminate\Http\Request;
-use App\Http\Requests\UserFormRequest;
+use App\Http\Requests\Api\UserLocationCreateRequest;
+use App\Http\Requests\Api\UserLocationUpdateRequest;
 use Carbon\Carbon;
 
 class UserLocationController extends Controller
@@ -20,7 +21,7 @@ class UserLocationController extends Controller
         return $user_location;
     }
     // ユーザー位置情報更新POST
-    public function create(Request $request)
+    public function create(UserLocationCreateRequest $request)
     {
         /*** 
          * ユーザーを判別
@@ -92,7 +93,7 @@ class UserLocationController extends Controller
         ];
     }
     // ユーザー位置情報更新
-    public function update(Request $request)
+    public function update(UserLocationUpdateRequest $request)
     {
         $token = $request->header('X-API-TOKEN');//Tokenひろう
         $user = User::where('remember_token', '=', $token)->first();//tokenに該当するユーザー持ってくる 勉強会のときtoken→今回remember_token
