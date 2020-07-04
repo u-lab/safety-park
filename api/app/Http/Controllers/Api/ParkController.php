@@ -15,7 +15,7 @@ class ParkController extends Controller
 
     public function show(Request $request,$location_id)
     {
-        //Laravwl-hands-onをそのまま持ってきました
+        //Laravel-hands-onをそのまま持ってきました
         //findメソッドp243 引数は検索するID番号
         $park = Park::find($location_id);
         $user_locations = $park->user_location;//←こんなのない
@@ -33,5 +33,5 @@ class ParkController extends Controller
             ]
         ];
     }
-    }
+    
 }
