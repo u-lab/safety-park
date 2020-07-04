@@ -21,9 +21,8 @@ class CreateUserLocationsTable extends Migration
             $table->double('longitude', 15, 12); // 経度
             $table->unsignedTinyInteger('number_of_people');//人数
             $table->integer('time_diff');//滞在時間
-            $table->timestamp('start_time'); //開始時間 時間関連の型はtimestampを使う
-            $table->timestamp('end_time');
-            //$table->timestamp('end_time'); //終了時間         
+            $table->dateTime('start_time',0); //開始時間 
+            $table->dateTime('end_time',0); //終了時間 
             $table->timestamps();
         });
     }
