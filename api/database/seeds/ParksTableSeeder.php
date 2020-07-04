@@ -12,9 +12,13 @@ class DatabaseSeeder extends Seeder
     public function run()
     {
         $park_path = storage_path('park_data/P13-11_01_GML/KS-META-P13-11_01.xml');
-        $word = File::extension($park_path);
+        $word = file_get_contents($park_path);
+        $data = mb_convert_encoding($word, 'UTF-8', 'SJIS');
+        // $xml = simplexml_load_file($data);
+        $xml_str = str_replace('encoding="Shift_JIS"', 'encoding="UTF-8"', $data );
+        $parkdata = json_decode(json_encode(simplexml_load_string($xml_str)), true);
 
-        \Log::debug($word);
+        \Log::debug($parkdata);
     //   DB::table('parks')->insert([
 
     //   ]);
