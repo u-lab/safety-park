@@ -13,7 +13,7 @@ class UserLocationCreateRequest extends FormRequest
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**
@@ -24,14 +24,13 @@ class UserLocationCreateRequest extends FormRequest
     public function rules()
     {
         return [
-            'user_id' => 'required | integer | gte:1',
             'park_id' => 'required | integer | gte:1',
             'longitude' => 'required | numeric',
             'latitude' => 'required | numeric',
-            'number_of_people'=>'integer | gte:1',
-            'time_diff'=>'numeric |gte:1',
-            'start_time'=>'numeric',
-            'end_time'=>'numeric | after:start_time',
+            'number_of_people'=>'nullable | numeric | gte:1',
+            'time_diff'=>'nullable | numeric |gte:1',
+            'start_time'=>'nullable | date',
+            'end_time'=>'nullable |date | after:start_time',
         ];
     }
 }

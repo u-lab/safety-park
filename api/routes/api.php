@@ -21,7 +21,7 @@ Route::get('/v1/user/location', 'Api\UserLocationController@index')->middleware(
 Route::post('/v1/user/location', 'Api\UserLocationController@create')->middleware('exsit.token');
 
 // ユーザー位置情報更新 API仕様書の177行目
-Route::patch('/v1/user/location/{location_id}', 'Api\UserLocationController@update')->middleware('exsit.token');
+Route::patch('/v1/user/location', 'Api\UserLocationController@update')->middleware('exsit.token');
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();

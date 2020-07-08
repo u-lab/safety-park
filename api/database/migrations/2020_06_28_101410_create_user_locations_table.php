@@ -19,7 +19,7 @@ class CreateUserLocationsTable extends Migration
             $table->unsignedBigInteger('park_id');          // パークID
             $table->double('latitude', 15, 12);  // 緯度
             $table->double('longitude', 15, 12); // 経度
-            $table->unsignedTinyInteger('number_of_people');//人数
+            $table->unsignedTinyInteger('number_of_people');//人数 256人まで
             $table->integer('time_diff');//滞在時間
             $table->dateTime('start_time',0); //開始時間 
             $table->dateTime('end_time',0); //終了時間 
