@@ -80,7 +80,8 @@ class UserLocationController extends Controller
     {
         $token = $request->header('X-API-TOKEN');//Tokenひろう
         $user = User::where('remember_token', '=', $token)->first();//tokenに該当するユーザー持ってくる 勉強会のときtoken→今回remember_token
-        $user_location = UserLocation::where('user_id', '=', $user->id)->first();//User_locationsとidを照合
+        $user_location = UserLocation::where('user_id', '=', $user->id)->latest()->first();
+        //↑について User_locationsとidを照合 latestでそのひとのcreated at が最新のものを選ぶ first で取り出す
         //whereの前はモデルクラス←モデルクラスはEloquent関連のものでテーブルの単数形
 
         
@@ -100,7 +101,7 @@ class UserLocationController extends Controller
             
         $for_plus_one_hour =new Carbon();
         $end_time = $request->end_time ?? $for_plus_one_hour->addHours(1);//終了時刻 デフォルト値は開始時刻の1時間後
-        
+
         $time_diff = $request->time_diff ?? $start_time->diffInMinutes($end_time);//時間幅、デフォルト値は60
         
         /*** 
