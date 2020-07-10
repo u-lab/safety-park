@@ -6,9 +6,9 @@ use App\Http\Controllers\Controller;
 use App\Models\UserLocation;
 use App\User;
 use Illuminate\Http\Request;
-use App\Http\Requests\Api\UserLocationCreateRequest;
-use App\Http\Requests\Api\UserLocationUpdateRequest;
-use Carbon\Carbon;
+use App\Http\Requests\Api\UserLocationRequest;
+
+
 
 class UserLocationController extends Controller
 {
@@ -21,7 +21,7 @@ class UserLocationController extends Controller
         return $user_location;
     }
     // ユーザー位置情報更新POST UserLocationCreate
-    public function create(UserLocationCreateRequest $request)
+    public function create(UserLocationRequest $request)
     {
         /*** 
          * ユーザーを判別
@@ -40,21 +40,11 @@ class UserLocationController extends Controller
         $park_id = $request->park_id;
         $longitude = $request->longitude;
         $latitude = $request->latitude;
-        $end_time=$request->end_time;
-        /*** 
-         * 入力されていなかった場合はデフォルト値設定するタイプのもの
-        */
-        //これはモダンなnull合体演算子。 ??の前がnullだったら??より右を採用するらしい
-        $number_of_people = $request->number_of_people ?? 1;//人数、デフォルトは１
-        $start_time = $request->start_time ?? new Carbon();//開始時刻 デフォルト値は現在時刻
-            
-        $for_plus_one_hour =new Carbon();
-        $end_time = $request->end_time ?? $for_plus_one_hour->addHours(1);//終了時刻 デフォルト値は開始時刻の1時間後
-                /** 
-         * はじめは$end_time = $start_time->addHours(1);としていたがこうすると
-         * start_timeまで1時間たされてしまうので別途変数に入れてから操作することにした。
-        */
-        $time_diff = $request->time_diff ?? $start_time->diffInMinutes($end_time);//時間幅、デフォルト値は60
+        $end_time=$request->end_time;  
+        $number_of_people = $request->number_of_people;//人数、デフォルトは１
+        $start_time = $request->start_time;//開始時刻 デフォルト値は現在時刻
+        $end_time = $request->end_time ;//終了時刻 デフォルト値は開始時刻の1時間後
+        $time_diff = $request->time_diff ;//時間幅、デフォルト値は60
         
 
         /*** 
@@ -62,7 +52,7 @@ class UserLocationController extends Controller
         */
         $user_location = UserLocation::create([
             'user_id' => $user->id,
-            'park_id'=>$park_id,
+            'park_id'=> $park_id,
             'longitude' => $longitude,
             'latitude' => $latitude,
             'number_of_people'=>$number_of_people,
@@ -76,7 +66,7 @@ class UserLocationController extends Controller
         
     }
     // ユーザー位置情報更新 UserLocationUpdate
-    public function update(Request $request)
+    public function update(UserLocationRequest $request)
     {
         $token = $request->header('X-API-TOKEN');//Tokenひろう
         $user = User::where('remember_token', '=', $token)->first();//tokenに該当するユーザー持ってくる 勉強会のときtoken→今回remember_token
@@ -92,21 +82,12 @@ class UserLocationController extends Controller
         $park_id = $request->park_id;
         $longitude = $request->longitude;
         $latitude = $request->latitude;
-        $end_time=$request->end_time;
-        /*** 
-         * 入力されていなかった場合はデフォルト値設定するタイプのもの
-        */
-        $number_of_people = $request->number_of_people ?? 1;//人数、デフォルトは１
-        $start_time = $request->start_time ?? new Carbon();//開始時刻 デフォルト値は現在時刻
-            
-        $for_plus_one_hour =new Carbon();
-        $end_time = $request->end_time ?? $for_plus_one_hour->addHours(1);//終了時刻 デフォルト値は開始時刻の1時間後
+        $end_time=$request->end_time;  
+        $number_of_people = $request->number_of_people;//人数、デフォルトは１
+        $start_time = $request->start_time;//開始時刻 デフォルト値は現在時刻
+        $end_time = $request->end_time ;//終了時刻 デフォルト値は開始時刻の1時間後
+        $time_diff = $request->time_diff ;//時間幅、デフォルト値は60
 
-        $time_diff = $request->time_diff ?? $start_time->diffInMinutes($end_time);//時間幅、デフォルト値は60
-        
-        /*** 
-         * 更新の処理 tokenがおなじだったユーザーのデータベースを更新する
-        */
 
         $user_location->update([
             'park_id' => $park_id,
