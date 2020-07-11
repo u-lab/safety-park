@@ -48,7 +48,8 @@ class DatabaseSeeder extends Seeder
         $le = $xml->xpath('/ksj:Dataset/gml:Point/gml:pos/text()');
 
         $ss = [];
-        $max = 7000;
+        $max = 6560;
+        // 6550より少し上にするとエラー
 
 
         for($i = 0; $i< $max; $i++){
