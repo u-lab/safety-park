@@ -32,34 +32,7 @@ class UserLocationController extends Controller
         /*** 
          * requestから来た連想配列から取り出していく
         */
-
-        /*** 
-         * requestから来た連想配列から取り出していく 
-        */
-
-        $park_id = $request->park_id;
-        $longitude = $request->longitude;
-        $latitude = $request->latitude;
-        $end_time=$request->end_time;  
-        $number_of_people = $request->number_of_people;//人数、デフォルトは１
-        $start_time = $request->start_time;//開始時刻 デフォルト値は現在時刻
-        $end_time = $request->end_time ;//終了時刻 デフォルト値は開始時刻の1時間後
-        $time_diff = $request->time_diff ;//時間幅、デフォルト値は60
-        
-
-        /*** 
-         * データベースへの追加
-        */
-        $user_location = UserLocation::create([
-            'user_id' => $user->id,
-            'park_id'=> $park_id,
-            'longitude' => $longitude,
-            'latitude' => $latitude,
-            'number_of_people'=>$number_of_people,
-            'time_diff'=>$time_diff,
-            'start_time'=>$start_time,
-            'end_time'=>$end_time,
-        ]);
+        $user_location = UserLocation::create($request->all());
         return [
             "data" => $user_location
         ];
@@ -78,26 +51,8 @@ class UserLocationController extends Controller
         /*** 
          * requestから来た連想配列から取り出していく 後ほどrequestメソッドと同じにしました。
         */
-
-        $park_id = $request->park_id;
-        $longitude = $request->longitude;
-        $latitude = $request->latitude;
-        $end_time=$request->end_time;  
-        $number_of_people = $request->number_of_people;//人数、デフォルトは１
-        $start_time = $request->start_time;//開始時刻 デフォルト値は現在時刻
-        $end_time = $request->end_time ;//終了時刻 デフォルト値は開始時刻の1時間後
-        $time_diff = $request->time_diff ;//時間幅、デフォルト値は60
-
-
-        $user_location->update([
-            'park_id' => $park_id,
-            'number_of_people' => $number_of_people,
-            'longitude' => $longitude,
-            'latitude' => $latitude,
-            'time_diff'=>$time_diff,
-            'start_time'=>$start_time,
-            'end_time'=>$end_time,
-        ]);
+        //$request無いと変数名が同じで、コントローラーでの処理もないため、allでそのまま代入できる。
+        $user_location->update($request->all());
 
         return [
             "data" => $user_location

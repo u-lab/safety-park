@@ -53,7 +53,6 @@ class UserLocationRequest extends FormRequest
          * はじめは$end_time = $start_time->addHours(1);としていたがこうすると
          * start_timeまで1時間たされてしまうので別途変数に入れてから操作することにした。
         */
-         //\Log::info($request->time_diff);
         $time_diff = $this->time_diff ?? $start_time->diffInMinutes($end_time);//時間幅、デフォルト値は終わりの時刻-始まりの時刻(60)
 
         $this->merge([
