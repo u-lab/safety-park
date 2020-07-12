@@ -23,7 +23,7 @@ class CreateParksTable extends Migration
             $table->string('pop')->nullable()->comment('都市公園の所在地名（都道府県）');
             $table->string('cop')->nullable()->comment('都市公園の所在地名（市区町村）');
             $table->unsignedSmallInteger('timePosition')->nullable()->comment('供用開始した年（西暦）');
-            $table->unsignedDecimal('opa')->nullable()->comment('供用開始最終開設面積（m2）');
+            $table->unsignedInteger('opa')->nullable()->comment('供用開始最終開設面積（m2）');
             $table->double('latitude', 15, 12)->comment('緯度');
             $table->double('longitude', 15, 12)->comment('経度');
             $table->timestamps();
