@@ -43,7 +43,7 @@ class DatabaseSeeder extends Seeder
                 $pop[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:pop/text()')[0] ?? $DEFAULT_EMPTY_STR;
                 $cop[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:cop/text()')[0] ?? $DEFAULT_EMPTY_STR;
                 $timePosition[] = $xml->xpath('/ksj:Dataset[@gml:id="pk'.$i.'"]/ksj:Park/ksj:opd/gml:TimeInstant/gml:timePosition/text()')[0] ?? $DEFAULT_EMPTY_NUMBER;
-                $opa[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:opa/text()')[0] ?? $DEFAULT_EMPTY_NUMBER
+                $opa[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:opa/text()')[0] ?? $DEFAULT_EMPTY_NUMBER;
             }
 
             //緯度と経度を足したもの(例:緯度 経度)
