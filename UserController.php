@@ -8,6 +8,19 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
+    public function show(Request $request)
+    {
+
+        $user = User::where('token', '=', $token)->first();
+
+        return [
+            "data" => [
+                "name" => $user->name
+            ]
+        ];
+    }
+      public function update(Request $request)
+    {
     
         // 取得
         $name = $request->name;
