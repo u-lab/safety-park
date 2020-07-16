@@ -8,33 +8,7 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function show(Request $request)
-    {
-        $token = $request->header('X-API-TOKEN');
-
-        if (empty($token)) {
-            return abort('401'); // エラー
-        }
-
-        $user = User::where('token', '=', $token)->first();
-
-        return [
-            "data" => [
-                "name" => $user->name
-            ]
-        ];
-    }
-
-    public function update(Request $request)
-    {
-        $token = $request->header('X-API-TOKEN');
-
-
-        if (empty($token)) {
-
-            return abort('401'); // 認証エラー
-        }
-
+    
         // 取得
         $name = $request->name;
 
