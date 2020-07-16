@@ -11,6 +11,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        ini_set("memory_limit", "500M");
         //各公園データのデフォルト値
         $DEFAULT_EMPTY_STR = "empty";
         $DEFAULT_EMPTY_NUMBER = 0;
@@ -76,8 +77,9 @@ class DatabaseSeeder extends Seeder
                     ];
                 }
             }
-
+            \Log::debug($prefecture_num.'件目 start');
             DB::table('parks')->insert($list);
+            \Log::debug($prefecture_num.'件 end');
         }
     }
 
@@ -90,6 +92,6 @@ class DatabaseSeeder extends Seeder
     public function get_xmlfile_path($prefecture_num) {
         $display_num_str = $prefecture_num < 10 ? "0{$prefecture_num}" : (string)$prefecture_num;
 
-        return "park_data/P13-11_{$display_num_str}_GML/P13-11_{$display_num_str}.xml"
+        return "park_data/P13-11_{$display_num_str}_GML/P13-11_{$display_num_str}.xml";
     }
 }
