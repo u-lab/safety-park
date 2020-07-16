@@ -26,7 +26,6 @@ class DatabaseSeeder extends Seeder
             $cop = [];
             $timePosition = [];
             $opa = [];
-            
             $longitude_array = [];
             $latitude_array = [];
 
@@ -116,7 +115,7 @@ class DatabaseSeeder extends Seeder
                 $max_loop = $max/5000;
                 $max_count = (int)$max_loop + 1;
                 for($loop = 0; $loop < $max_count; $loop++){
-                    
+
                     $list = [];
                     $add = $loop === $max_count-1 ?$max%5000:5000;
                     $array_count = $loop * 5000 + $add;
@@ -140,13 +139,6 @@ class DatabaseSeeder extends Seeder
                     $list
                 );
         }
-
-
-
-        
-        
-    
-        
         // \Log::debug($path);
     }
 }
