@@ -10,36 +10,33 @@ class DatabaseSeeder extends Seeder
      * @return void
      */
     public function run()
-    {
-        $path = [];
-
-        $adm = [];
-        $lgn = [];
-        $nop = [];
-        $kdp = [];
-        $pop = [];
-        $cop = [];
-        $timePosition = [];
-        $opa = [];
-        
-        $longitude_array = [];
-        $latitude_array = [];
-
+    {   
         //各公園データのデフォルト値
         $DEFAULT_EMPTY_STR = "empty";
         $DEFAULT_EMPTY_NUMBER = 0;
-
-
+        
+        
         for($prefecture_arr_num = 0; $prefecture_arr_num < 47; $prefecture_arr_num++){
-
             
+            $adm = [];
+            $lgn = [];
+            $nop = [];
+            $kdp = [];
+            $pop = [];
+            $cop = [];
+            $timePosition = [];
+            $opa = [];
+            
+            $longitude_array = [];
+            $latitude_array = [];
+
             $prefecture_num = $prefecture_arr_num + 1;
             $path = 'park_data/P13-11_0'.$prefecture_num.'_GML/P13-11_0'.$prefecture_num.'.xml';
-
+            
             $park_path = storage_path($path);
             $word = file_get_contents($park_path);
             $xml = simplexml_load_string($word, 'SimpleXMLElement', LIBXML_NOCDATA);
-
+            
             $count_adm = $xml->xpath('/ksj:Dataset/ksj:Park/ksj:adm/text()');
             
             
@@ -101,8 +98,7 @@ class DatabaseSeeder extends Seeder
                     $opa_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:opa/text()');
                     $opa[] = $opa_part[0];
                 }
-
-                
+            }
                 
                 
                 //緯度と経度を足したもの(例:緯度 経度)
@@ -139,18 +135,16 @@ class DatabaseSeeder extends Seeder
                         ];
                     } 
                 }
-            }
+                DB::table('parks')->insert(
+                    $list
+                    );
         }
 
 
 
         
-        for($i = 0; $i < 47; $i++){
-            DB::table('parks')->insert(
-                $list[$i]
-                );
-        }
         
+    
         
         // \Log::debug($path);
     }
