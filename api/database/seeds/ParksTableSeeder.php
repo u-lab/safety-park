@@ -13,102 +13,110 @@ class DatabaseSeeder extends Seeder
     {
         $path = [];
 
-        $adm = [[]];
-        $lgn = [[]];
-        $nop = [[]];
-        $kdp = [[]];
-        $pop = [[]];
-        $cop = [[]];
-        $timePosition = [[]];
-        $opa = [[]];
+        $adm = [];
+        $lgn = [];
+        $nop = [];
+        $kdp = [];
+        $pop = [];
+        $cop = [];
+        $timePosition = [];
+        $opa = [];
+        
+        $longitude_array = [];
+        $latitude_array = [];
+
+        //各公園データのデフォルト値
+        $DEFAULT_EMPTY_STR = "empty";
+        $DEFAULT_EMPTY_NUMBER = 0;
 
 
+        for($prefecture_arr_num = 0; $prefecture_arr_num < 47; $prefecture_arr_num++){
 
-        for($j = 0; $j < 48; $j++){
-            $em = $j + 1;
-            $path[] = 'park_data/P13-11_0'.$em.'_GML/P13-11_0'.$em.'.xml';
+            
+            $prefecture_num = $prefecture_arr_num + 1;
+            $path = 'park_data/P13-11_0'.$prefecture_num.'_GML/P13-11_0'.$prefecture_num.'.xml';
 
-            $park_path = storage_path($path[$j]);
+            $park_path = storage_path($path);
             $word = file_get_contents($park_path);
             $xml = simplexml_load_string($word, 'SimpleXMLElement', LIBXML_NOCDATA);
+
+            $count_adm = $xml->xpath('/ksj:Dataset/ksj:Park/ksj:adm/text()');
             
             
             
-            for($i=1; $i<7161; $i++){
+            for($i=1; $i<count($count_adm); $i++){
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:adm/text()'))) {
-                    $adm[$j][$i-1] = "empty";
+                    $adm[] = $DEFAULT_EMPTY_STR;
                 }
                 else{
                     $adm_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:adm/text()');
-                    $adm[$j][] = $adm_part[0];
+                    $adm[] = $adm_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:lgn/text()'))) {
-                    $lgn[$j][$i-1] = "empty";
+                    $lgn[] = $DEFAULT_EMPTY_STR;
                 }
                 else{
                     $lgn_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:lgn/text()');
-                    $lgn[$j][] = $lgn_part[0];
+                    $lgn[] = $lgn_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:nop/text()'))) {
-                    $nop[$j][$i-1] = "empty";
+                    $nop[] = $DEFAULT_EMPTY_STR;
                 }
                 else{
                     $nop_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:nop/text()');
-                    $nop[$j][] = $nop_part[0];
+                    $nop[] = $nop_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:kdp/text()'))) {
-                    $kdp[$j][$i-1] = "empty";
+                    $kdp[] = $DEFAULT_EMPTY_STR;
                 }
                 else{
                     $kdp_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:kdp/text()');
-                    $kdp[$j][] = $kdp_part[0];
+                    $kdp[] = $kdp_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:pop/text()'))) {
-                    $pop[$j][$i-1] = "empty";
+                    $pop[] = $DEFAULT_EMPTY_STR;
                 }
                 else{
                     $pop_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:pop/text()');
-                    $pop[$j][] = $pop_part[0];
+                    $pop[] = $pop_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:cop/text()'))) {
-                    $cop[$j][$i-1] = "empty";
+                    $cop[] = $DEFAULT_EMPTY_STR;
                 }
                 else{
                     $cop_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:cop/text()');
-                    $cop[$j][] = $cop_part[0];
+                    $cop[] = $cop_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset[@gml:id="pk'.$i.'"]/ksj:Park/ksj:opd/gml:TimeInstant/gml:timePosition/text()'))) {
-                    $timePosition[$j][$i-1] = 0;
+                    $timePosition[] = $DEFAULT_EMPTY_NUMBER;
                 }
                 else{
                     $timePosition_part = $xml->xpath('/ksj:Dataset[@gml:id="pk'.$i.'"]/ksj:Park/ksj:opd/gml:TimeInstant/gml:timePosition/text()');
-                    $timePosition[$j][] = $timePosition_part[0];
+                    $timePosition[] = $timePosition_part[0];
                 }
                 if (empty($xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:opa/text()'))) {
-                    $opa[$j][$i-1] = 0;
+                    $opa[] = $DEFAULT_EMPTY_NUMBER;
                 }
                 else{
                     $opa_part = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:opa/text()');
-                    $opa[$j][] = $opa_part[0];
+                    $opa[] = $opa_part[0];
                 }
 
                 
-                $longitude_array = [[]];
-                $latitude_array = [[]];
+                
                 
                 //緯度と経度を足したもの(例:緯度 経度)
                 $geometries = $xml->xpath('/ksj:Dataset/gml:Point/gml:pos/text()');
                 
-                // 6550より少し上にするとエラー
                 
                 foreach($geometries as $geometry) {
                     [ $latitude, $longitude ] = explode(" ",$geometry);
-                    $latitude_array[$j][] = $latitude;
-                    $longitude_array[$j][] = $longitude;
+                    $latitude_array[] = $latitude;
+                    $longitude_array[] = $longitude;
                 }
                 
                 
-                $max = count($adm[$j]);
+                $max = count($adm);
                 $max_loop = $max/5000;
                 $max_count = (int)$max_loop + 1;
                 for($loop = 0; $loop < $max_count; $loop++){
@@ -117,17 +125,17 @@ class DatabaseSeeder extends Seeder
                     $array_count = $loop * 5000 + $add;
         
                     for($k = $loop * 5000; $k < $array_count; $k++){
-                        $list[$j][] = [
-                            'adm'=>$adm[$j][$k],
-                            'lgn'=>$lgn[$j][$k],
-                            'nop'=>$nop[$j][$k],
-                            'kdp'=>$kdp[$j][$k],
-                            'pop'=>$pop[$j][$k],
-                            'cop'=>$cop[$j][$k],
-                            'timePosition'=>$timePosition[$j][$k],
-                            'opa'=>$opa[$j][$k],
-                            'latitude'=>$latitude_array[$j][$k],
-                            'longitude'=>$longitude_array[$j][$k],
+                        $list[] = [
+                            'adm'=>$adm[$k],
+                            'lgn'=>$lgn[$k],
+                            'nop'=>$nop[$k],
+                            'kdp'=>$kdp[$k],
+                            'pop'=>$pop[$k],
+                            'cop'=>$cop[$k],
+                            'timePosition'=>$timePosition[$k],
+                            'opa'=>$opa[$k],
+                            'latitude'=>$latitude_array[$k],
+                            'longitude'=>$longitude_array[$k],
                         ];
                     } 
                 }
@@ -137,7 +145,7 @@ class DatabaseSeeder extends Seeder
 
 
         
-        for($i = 0; $i < 48; $i++){
+        for($i = 0; $i < 47; $i++){
             DB::table('parks')->insert(
                 $list[$i]
                 );
