@@ -28,9 +28,7 @@ class DatabaseSeeder extends Seeder
             $latitude_array = [];
 
             $prefecture_num = $prefecture_arr_num + 1;
-            $path = 'park_data/P13-11_0'.$prefecture_num.'_GML/P13-11_0'.$prefecture_num.'.xml';
-
-            $park_path = storage_path($path);
+            $park_path = storage_path($this->get_xmlfile_path($prefecture_num));
             $word = file_get_contents($park_path);
             $xml = simplexml_load_string($word, 'SimpleXMLElement', LIBXML_NOCDATA);
 
@@ -81,5 +79,17 @@ class DatabaseSeeder extends Seeder
 
             DB::table('parks')->insert($list);
         }
+    }
+
+    /**
+     * xmlファイルのパスを取得
+     *
+     * @param string $prefecture_num
+     * @return void
+     */
+    public function get_xmlfile_path($prefecture_num) {
+        $display_num_str = $prefecture_num < 10 ? "0{$prefecture_num}" : (string)$prefecture_num;
+
+        return "park_data/P13-11_{$display_num_str}_GML/P13-11_{$display_num_str}.xml"
     }
 }
