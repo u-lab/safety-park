@@ -37,6 +37,6 @@ class User extends Model
      * @var array
      */
     protected $fillable = [
-        'name', 'token'
+        'name', 'token','default_number'
     ];
 }
