@@ -28,11 +28,11 @@ class UserLocationController extends Controller
         */
         $token = $request->header('X-API-TOKEN');
         $user = User::where('token', '=', $token)->first();//userの照合 データベースから一致するもの取り出す
-        $user_location = UserLocation::where('user_id', '=', $user->id)->first();//User_locationsとidを照合
         /*** 
          * requestから来た連想配列から取り出していく
         */
-        $user_location = UserLocation::create($request->all());
+        //idはusersテーブルから、他はリクエストからなのでarrayで連想配列に追加
+        $user_location = UserLocation::create($request->all() +array('user_id'=>$user->id));
         return [
             "data" => $user_location
         ];
