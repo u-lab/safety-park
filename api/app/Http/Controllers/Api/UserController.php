@@ -10,6 +10,7 @@ class UserController extends Controller
 {
     public function show(Request $request)
     {
+        $token = $request->header('X-API-TOKEN'); //tokenを取ってくる
 
         $user = User::where('token', '=', $token)->first();
 
@@ -19,9 +20,11 @@ class UserController extends Controller
             ]
         ];
     }
-      public function update(Request $request)
+
+    public function update(Request $request)
     {
-    
+        $token = $request->header('X-API-TOKEN'); //tokenを取ってくる
+
         // 取得
         $name = $request->name;
 
