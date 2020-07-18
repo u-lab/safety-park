@@ -3,7 +3,10 @@
     <div class="body">
       <ConceptMsg />
       <Map />
+<<<<<<< HEAD
       <Contact />
+=======
+>>>>>>> fc4c0ef239a8c596183c41234f017111e6a3e255
     </div>
     <!--<BackgroundAnim />-->
   </div>
