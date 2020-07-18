@@ -13,6 +13,11 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+
+Route::get('/v1/user', 'Api\UserController@show'); //ユーザー情報取得
+
+Route::patch('/v1/user', 'Api\UserController@update'); //ユーザー情報更新
+
 //->middlewareによってtokenない場合は先にエラー返すようになっている
 // ユーザー位置情報取得 API仕様書の114行目
 Route::get('/v1/user/location', 'Api\UserLocationController@index')->middleware('exsit.token');//利用するmiddlewareを呼び出す処理 青本p111
