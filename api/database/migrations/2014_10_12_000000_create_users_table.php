@@ -17,6 +17,7 @@ class CreateUsersTable extends Migration
             $table->id();           // id
             $table->string('name'); // name
             $table->uuid('token');  // token
+            $table->integer('default_number');// default_number
             $table->timestamps();   // created_at, updated_at
         });
     }
