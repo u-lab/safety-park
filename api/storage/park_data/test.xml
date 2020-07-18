@@ -1,0 +1,39 @@
+<!-- <?xml version="1.0" encoding="UTF-8" ?> -->
+<Dataset gml:id="P13Dataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+ <gml:description>国土数値情報（都市公園）データ P13-11_01.xml</gml:description>
+ <gml:boundedBy>
+  <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+   <gml:lowerCorner>41.43068787 140.00850546</gml:lowerCorner>
+   <gml:upperCorner>45.48592294 145.81091384</gml:upperCorner>
+   <gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+   <gml:endPosition indeterminatePosition="unknown"/>
+  </gml:EnvelopeWithTimePeriod>
+ </gml:boundedBy>
+  <gml:Point gml:id="pt1">
+  <gml:pos>42.93256721 143.31486359</gml:pos>
+  </gml:Point>
+
+ <ksj:Park gml:id="pk1">
+  <ksj:loc xlink:href="#pt1"/>
+   <ksj:adm>山梨県</ksj:adm>
+   <ksj:lgn></ksj:lgn>
+   <ksj:nop>笛吹川フルーツ公園</ksj:nop>
+   <ksj:kdp>4</ksj:kdp>
+   <ksj:pop>山梨県</ksj:pop>
+   <ksj:cop>山梨市</ksj:cop>
+   <ksj:opd>
+    <gml:TimeInstant gml:id="pk1_TI1">
+      <gml:timePosition>1995</gml:timePosition>
+    </gml:TimeInstant>
+   </ksj:opd>
+   <ksj:opa>195000</ksj:opa>
+   <ksj:cpd>1</ksj:cpd>
+   <ksj:rmk></ksj:rmk>
+ </ksj:Park>
+
+</Dataset>

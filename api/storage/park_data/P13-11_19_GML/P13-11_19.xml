@@ -3,8 +3,8 @@
  xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
  xmlns:gml="http://www.opengis.net/gml/3.2"
  xmlns:xlink="http://www.w3.org/1999/xlink"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd">
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <!-- xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-P13-v1_1.xsd" -->
 <gml:description>国土数値情報（都市公園）データ P13-11_19.xml</gml:description>
 <gml:boundedBy>
   <gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
