@@ -1,8 +1,6 @@
 <template>
   <div class="main__container">
     <div class="body">
-      <ConceptMsg />
-      <Map />
     </div>
     <!--<BackgroundAnim />-->
   </div>
@@ -10,9 +8,6 @@
 
 <script>
 export default {
-  components: {
-    ConceptMsg: () => import('~/components/ConceptMsg')
-  },
   head () {
     return {
       buttonText: 'TOPページ'
