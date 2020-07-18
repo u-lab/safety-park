@@ -16,7 +16,8 @@ class UserController extends Controller
 
         return [
             "data" => [
-                "name" => $user->name
+                "name" => $user->name,
+                "default_number" => $user->default_number
             ]
         ];
     }
@@ -27,16 +28,19 @@ class UserController extends Controller
 
         // 取得
         $name = $request->name;
+        $default_number = $request->default_number;
 
         $user = User::where('token', '=', $token)->first();
         // 更新
         $user->update([
-            'name' => $name
+            'name' => $name,
+            'default_number' => $default_number
         ]);
 
         return [
             "data" => [
-                "name" => $user->name
+                "name" => $user->name,
+                "default_number" => $user->default_number
             ]
         ];
     }
