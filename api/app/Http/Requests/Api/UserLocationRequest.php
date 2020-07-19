@@ -56,8 +56,7 @@ class UserLocationRequest extends FormRequest
          * リクエストからの値はstring型であり、new Carbonを使うことでobject型に変換している。
          * なぜ上でnew Carbonせず、この下でやっているか→→上でnew Carbonすると addHours(1)がちゃんと加算されないバグが起こるためである。
         */
-        $time_diff = $this->time_diff ?? (new Carbon($start_time))->diffInMinutes(new Carbon($end_time));//時間幅、デフォルト値は終わりの時刻-始まりの時刻(
-        \Log::debug($time_diff);
+        $time_diff = $this->time_diff ?? (new Carbon($start_time))->diffInMinutes(new Carbon($end_time));//時間幅、デフォルト値は終わりの時刻-始まりの時刻
         $this->merge([
             'number_of_people'=>$number_of_people,
             'time_diff'=>$time_diff,
