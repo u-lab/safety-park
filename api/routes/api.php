@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+Route::post('/v1/key', 'Api\KeyController@generate');// 端末 API KEY 生成
 
 Route::get('/v1/user', 'Api\UserController@show'); //ユーザー情報取得
 

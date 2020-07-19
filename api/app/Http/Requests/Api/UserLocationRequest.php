@@ -49,12 +49,14 @@ class UserLocationRequest extends FormRequest
                     
         $for_plus_one_hour =new Carbon();
         $end_time = $this->end_time ?? $for_plus_one_hour->addHours(1);//終了時刻 デフォルト値は開始時刻の1時間後
+
         /** 
          * はじめは$end_time = $start_time->addHours(1);としていたがこうすると
          * start_timeまで1時間たされてしまうので別途変数に入れてから操作することにした。
+         * リクエストからの値はstring型であり、new Carbonを使うことでobject型に変換している。
+         * なぜ上でnew Carbonせず、この下でやっているか→→上でnew Carbonすると addHours(1)がちゃんと加算されないバグが起こるためである。
         */
-        $time_diff = $this->time_diff ?? $start_time->diffInMinutes($end_time);//時間幅、デフォルト値は終わりの時刻-始まりの時刻(60)
-
+        $time_diff = $this->time_diff ?? (new Carbon($start_time))->diffInMinutes(new Carbon($end_time));//時間幅、デフォルト値は終わりの時刻-始まりの時刻
         $this->merge([
             'number_of_people'=>$number_of_people,
             'time_diff'=>$time_diff,
