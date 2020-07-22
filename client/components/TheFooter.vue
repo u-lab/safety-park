@@ -14,7 +14,7 @@
   </div>
 </template>
 
-<style>
+<style lang="scss" scoped>
   .footer{
     z-index: -1;
     font-family: 'Noto Sans JP', sans-serif;

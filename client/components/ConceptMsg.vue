@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<style>
+<style lang="scss" scoped>
   .message{
     padding:0;
     border: 0;
