@@ -11,9 +11,6 @@
 
 <script>
 export default {
-  components: {
-    ConceptMsg: () => import('~/components/ConceptMsg')
-  },
   head () {
     return {
       buttonText: 'TOPページ'
@@ -22,7 +19,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
   .main__container{
     width:89.3333333333vw;
     height: 841px;
