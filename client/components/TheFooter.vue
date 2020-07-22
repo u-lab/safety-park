@@ -10,7 +10,10 @@
         </li>
       </ul>
     </div>
-    <p class="footer__text">©2020 synschismo</p>
+
+    <p class="footer__text">
+      <small class="footer__copylight">&copy;2020 synschismo</small>
+    </p>
   </div>
 </template>
 
@@ -55,6 +58,10 @@
     margin: 0 5px;
     padding:0;
     border: 0;
+  }
+
+  .footer__copylight {
+    font-size: 100%;
   }
 
   .footer__text{
