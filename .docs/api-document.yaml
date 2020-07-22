@@ -374,6 +374,9 @@ components:
         park_id:
           type: integer
           description: 公園ID
+        number_of_people:
+          type: integer
+          description: 人数
         longitude:
           type: number
           format: float
@@ -382,12 +385,26 @@ components:
           type: number
           format: float
           description: 経度
+        time_diff:
+          type: integer
+          description: 時間幅(分)
+        start_time:
+          type: string
+          format: 'date-time'
+          description: 始まりの時間
+        end_time:
+          type: string
+          format: 'date-time'
+          description: 終わりの時間
     UserLocationUpdateRequest:
       type: object
       properties:
         park_id:
           type: integer
           description: 公園ID
+        number_of_people:
+          type: integer
+          description: 人数
         longitude:
           type: number
           format: float
@@ -396,6 +413,17 @@ components:
           type: number
           format: float
           description: 経度
+        time_diff:
+          type: integer
+          description: 時間幅(分)
+        start_time:
+          type: string
+          format: 'date-time'
+          description: 始まりの時間
+        end_time:
+          type: string
+          format: 'date-time'
+          description: 終わりの時間
     UserLocationResponse:
         type: object
         properties:
@@ -408,6 +436,9 @@ components:
           park_id:
             type: integer
             description: 公園ID
+          number_of_people:
+            type: integer
+            description: 人数
           longitude:
             type: number
             format: float
@@ -416,6 +447,18 @@ components:
             type: number
             format: float
             description: 経度
+          time_diff:
+            type: integer
+            description: 時間幅(分)
+          start_time:
+            type: string
+            format: 'date-time'
+            description: 始まりの時間
+          end_time:
+            type: string
+            format: 'date-time'
+            description: 終わりの時間
+  
 
 
     ParkIndexResponse:

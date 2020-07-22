@@ -44,8 +44,7 @@ Composerに関しては、動けばいいので、参考記事の方法以外で
 
 ### 手順 3 
 
-1. [本リポジトリ](https://github.com/u-lab/u-lab-laravel-hands-on) をForkする
-2. Forkしたプロジェクトをcloneする
+1. [本リポジトリ](https://github.com/u-lab/u-lab-laravel-hands-on) をCloneする
 
 ### 手順 4
 
