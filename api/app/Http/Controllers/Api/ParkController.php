@@ -7,5 +7,9 @@ use Illuminate\Http\Request;
 
 class ParkController extends Controller
 {
-    //
+    public function look(Request $request){
+        $pre_number = $request->pre_number;
+
+        return $pre_number;
+    }
 }

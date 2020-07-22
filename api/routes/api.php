@@ -32,3 +32,5 @@ Route::patch('/v1/user/location', 'Api\UserLocationController@update')->middlewa
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::get('/v1/park', 'Api\ParkLocationController@look');
