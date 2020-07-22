@@ -1,18 +1,17 @@
 <template>
-  <div> <!--id='page-top'部分-->
-    <Header buttonText="text" /> <!--id='page-top'部分-->
+  <div>
+    <TheHeader button-text="text" /> <!--id='page-top'部分-->
+
     <main>
       <Nuxt />
     </main>
-    <Footer />
+
+    <TheFooter />
   </div>
 </template>
 
 <script>
 export default {
-  components: {
-    Header: () => import('~/components/Header')
-  },
   computed: {
     buttonText () {
       const matchedRoute = this.$route.matched[0]
@@ -23,31 +22,3 @@ export default {
 
 }
 </script>
-
-<style>
-* {
-    margin: 0px;
-    padding: 0px;
-}
-
-body{
-  color: #424242;
-}
-
-a{
-  text-decoration: none;
-  color: #424242;
-}
-
-ul, li{
-  list-style: none;
-  font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 300;
-  color: #424242;
-  font-size: 10px;
-  padding:0;
-  border: 0;
-  margin: 0;
-  display: inline;
-}
-</style>
