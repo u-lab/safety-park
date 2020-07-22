@@ -28,13 +28,17 @@ class ParksTableSeeder extends Seeder
             $longitude_array = [];
             $latitude_array = [];
 
+            \Log::debug('start');
             $prefecture_num = $prefecture_arr_num + 1;
             $park_path = storage_path($this->get_xmlfile_path($prefecture_num));
             $word = file_get_contents($park_path);
             $xml = simplexml_load_string($word, 'SimpleXMLElement', LIBXML_NOCDATA);
+            \Log::debug('good xml');
 
-            $count_adm = $xml->xpath('/ksj:Dataset/ksj:Park/ksj:adm/text()');
-            for($i = 1; $i <= count($count_adm); $i++){
+            $count_xmlpath = $xml->xpath('/ksj:Dataset/ksj:Park');
+            \Log::debug(count($count_xmlpath));
+            for($i = 1; $i <= count($count_xmlpath); $i++){
+                \Log::debug($i);
                 $adm[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:adm/text()')[0] ?? $DEFAULT_EMPTY_STR;
                 $lgn[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:lgn/text()')[0] ?? $DEFAULT_EMPTY_STR;
                 $nop[] = $xml->xpath('/ksj:Dataset/ksj:Park[@gml:id="pk'.$i.'"]/ksj:nop/text()')[0] ?? $DEFAULT_EMPTY_STR;
