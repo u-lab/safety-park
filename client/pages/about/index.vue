@@ -1,8 +1,12 @@
 <template>
   <div class="main__container">
     <div class="body">
+      <Statement />
+      <Background />
+      <Support />
+      <Member />
     </div>
-    <!--<BackgroundAnim />-->
+    <BackgroundAnim />
   </div>
 </template>
 
@@ -18,11 +22,10 @@ export default {
 
 <style lang="scss" scoped>
   .main__container{
-    width:89.3333333333vw;
-    height: 841px;
-    margin-left:auto;
-    margin-right:auto;
-    padding:0;
+    width: 89.3vw;
+    height: 1500px;
+    margin: 0 auto;
+    padding: 0;
   }
 
   .body{
