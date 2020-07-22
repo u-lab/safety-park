@@ -238,7 +238,7 @@ paths:
           schema:
             type: string
             format: 'date-time'
-         - name: pre_numper
+         - name: pre_number
           in: query
           description: 県ナンバー
           schema:
