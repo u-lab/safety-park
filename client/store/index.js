@@ -26,7 +26,7 @@ export const actions = {
     // 2回目以降のアクセスでは、TokenをLocal Storageから取得する
     const token = localStorage.getItem(LS_TOKEN_KEY)
     if (token && token !== 'undefined') {
-      commit('setToken', token)
+      commit('setToken', { token })
       return
     }
 

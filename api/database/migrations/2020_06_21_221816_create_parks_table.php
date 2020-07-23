@@ -13,8 +13,8 @@ class CreateParksTable extends Migration
      */
     public function up()
     {
-        Schema::create('parks', function (Blueprint $table) {
-
+        Schema::create('parks', function (Blueprint $table)
+        {
             $table->id();
             $table->string('adm')->comment('管轄団体名（都道府県・地方整備局）');
             $table->string('lgn')->comment('管理団体名（市区町村)');
@@ -27,7 +27,6 @@ class CreateParksTable extends Migration
             $table->double('latitude', 15, 12)->comment('緯度');
             $table->double('longitude', 15, 12)->comment('経度');
             $table->timestamps();
-
         });
     }
 
