@@ -2,6 +2,7 @@
 
 namespace App\Console\Commands;
 
+use App\Services\GeoJson\CreateGeoJsonService;
 use Illuminate\Console\Command;
 
 class CreateGeoJsonCommand extends Command
@@ -20,13 +21,16 @@ class CreateGeoJsonCommand extends Command
      */
     protected $description = 'Geo Jsonを生成する';
 
+    protected CreateGeoJsonService $_service;
+
     /**
      * Create a new command instance.
      *
      * @return void
      */
-    public function __construct()
+    public function __construct(CreateGeoJsonService $service)
     {
+        $this->_service = $service;
         parent::__construct();
     }
 
@@ -37,6 +41,6 @@ class CreateGeoJsonCommand extends Command
      */
     public function handle()
     {
-        //
+        $this->_service->handler('tokyo');
     }
 }
