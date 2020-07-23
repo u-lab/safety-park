@@ -11,14 +11,33 @@ class ParksTableSeeder extends Seeder
      */
     public function run()
     {
+        $DEFAULT_EMPTY_STR = "empty";
+        $DEFAULT_EMPTY_NUMBER = 0;
+
         for($prefecture_arr_num = 0; $prefecture_arr_num < 47; $prefecture_arr_num++){
             $prefecture_num = $prefecture_arr_num + 1;
 
-            $fp = File::get(storage_path($this->get_cachefile_path($prefecture_num)));
-            $list = json_decode($fp);
+            $fp = \File::get(storage_path($this->get_cachefile_path($prefecture_num)));
+            $list = json_decode($fp, true);
+
+            $parks = [];
+            foreach ($list as $obj) {
+                $parks[] = [
+                    'adm' => $obj['adm'][0] ?? $DEFAULT_EMPTY_STR,
+                    'lgn' => $obj['lgn'][0] ?? $DEFAULT_EMPTY_STR,
+                    'nop' => $obj['nop'][0] ?? $DEFAULT_EMPTY_STR,
+                    'kdp' => $obj['kdp'][0] ?? $DEFAULT_EMPTY_STR,
+                    'pop' => $obj['pop'][0] ?? $DEFAULT_EMPTY_STR,
+                    'cop' => $obj['cop'][0] ?? $DEFAULT_EMPTY_STR,
+                    'opa' => $obj['opa'][0] ?? $DEFAULT_EMPTY_NUMBER,
+                    'timePosition' => $obj['timePosition'],
+                    'latitude' => $obj['latitude'],
+                    'longitude' => $obj['longitude'],
+                ];
+            }
 
             \Log::debug($prefecture_num.'件目 start');
-            DB::table('parks')->insert($list);
+            DB::table('parks')->insert($parks);
             \Log::debug($prefecture_num.'件 end');
         }
     }
