@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
+use App\Models\UserLocation;
 use Illuminate\Http\Request;
 use App\Park;
 
@@ -165,6 +166,13 @@ class ParkController extends Controller
     }
 
     public function coLook(Request $request){
+        $id = $request->id;
+
+        $tale = UserLocation::where('id',$id)->get();
+
+        return $tale;
+
+
 
 
     }
