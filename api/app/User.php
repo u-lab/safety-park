@@ -11,6 +11,7 @@ use Illuminate\Notifications\Notifiable;
  * @property int $id
  * @property string $name
  * @property string $token
+ * @property int $default_number
  * @property \Illuminate\Support\Carbon|null $created_at
  * @property \Illuminate\Support\Carbon|null $updated_at
  * @property-read \Illuminate\Notifications\DatabaseNotificationCollection|\Illuminate\Notifications\DatabaseNotification[] $notifications
@@ -23,6 +24,7 @@ use Illuminate\Notifications\Notifiable;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\User whereName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\User whereToken($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\User whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|\App\User whereDefaultNumber($value)
  * @mixin \Eloquent
  */
 class User extends Model
