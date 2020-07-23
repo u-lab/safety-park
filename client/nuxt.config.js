@@ -10,6 +10,10 @@ export default {
    ** See https://nuxtjs.org/api/configuration-target
    */
   target: 'static',
+
+  publicRuntimeConfig: {
+    clientUrl: process.env.CLIENT_URL || 'http://localhost:3000'
+  },
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
