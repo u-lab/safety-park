@@ -25,7 +25,9 @@ class CreateGeoJsonService
         $contents = $this->parks_to_file_contents($parks);
 
         // ファイルへと書き込む
-        $this->put_to_file("{$prefecture_en}.json", $this->geojson_path(), json_encode($contents, JSON_PRETTY_PRINT));
+        $json =json_encode($contents, JSON_PRETTY_PRINT);
+        $this->put_to_file("{$prefecture_en}.json", $this->geojson_path(), $json);
+        $this->put_to_file("{$prefecture_en}.geojson", $this->geojson_path(), $json);
     }
 
     /**
