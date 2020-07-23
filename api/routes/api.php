@@ -33,7 +33,9 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('/v1/park', 'Api\ParkController@look');
+// 都道府県ごとの公園一覧を取得
+Route::get('/v1/park', 'Api\ParkController@catalog');
 
-Route::get('/v1/park', 'Api\ParkController@coLook');
+// 公園個別の混雑状況を確認
+Route::get('/v1/park/{id}', 'Api\ParkController@research');
 
