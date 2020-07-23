@@ -21,11 +21,11 @@ class CreateGeoJsonService
         // 公園データの取得
         $parks = $this->fetch_park($prefecture_ja);
 
-        // 公園データをファイル用の文字列に変換
+        // 公園データをファイル用のデータに変換
         $contents = $this->parks_to_file_contents($parks);
 
         // ファイルへと書き込む
-        $json =json_encode($contents, JSON_PRETTY_PRINT);
+        $json = json_encode($contents, JSON_PRETTY_PRINT);
         $this->put_to_file("{$prefecture_en}.json", $this->geojson_path(), $json);
         $this->put_to_file("{$prefecture_en}.geojson", $this->geojson_path(), $json);
     }
@@ -77,6 +77,7 @@ class CreateGeoJsonService
                     "id" => $park->id,
                     "pop" => $park->pop,
                     "cop" => $park->cop,
+                    "name" => $park->nop,
                     "address" => $park->pop.$park->cop
                 ],
                 "geometry" => [
