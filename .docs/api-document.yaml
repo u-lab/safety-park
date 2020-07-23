@@ -347,12 +347,45 @@ components:
         data:
           type: object
           properties:
-            name:
-              type: string
-              description: ユーザー名
-            default_number:
+            id:
+              type: integer
+              description: ID
+            user_id:
+              type: integer
+              description: ユーザーID
+            park_id:
+              type: integer
+              description: パークID
+            latitude:
               type: number
-              description: デフォルト人数
+              description: 緯度
+            longitude:
+              type: number
+              description: 経度
+            number_of_people:
+              type: integer
+              description: 人数
+            time_diff:
+              type: integer
+              description: 時間幅
+            start_time:
+              type: string
+              format: 'date-time'
+              description: 始まりの時間
+            end_time:
+              type: string
+              format: 'date-time'
+              description: 終わりの時間
+            created_at:
+              type: string
+              format: 'date-time'
+              description: 生成時刻
+            updated_at:
+              type: string
+              format: 'date-time'
+              description: 更新時刻
+          
+            
     UserUpdateRequest:
       type: object
       properties:
