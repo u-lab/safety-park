@@ -10,9 +10,9 @@
       </p>
 
       <p class="header__button">
-        <a href="https://www.notion.so/About-8de8a0af53444c82a0a49a58701dd4c7">
+        <nuxt-link to="/about">
           <span class="header__button__text">{{ buttonText }}</span>
-        </a>
+        </nuxt-link>
       </p>
     </div>
   </header>
