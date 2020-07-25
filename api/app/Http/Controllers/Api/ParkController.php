@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\UserLocation;
 use Illuminate\Http\Request;
 use App\Park;
+use Illuminate\Support\Carbon;
 
 class ParkController extends Controller
 {
@@ -166,32 +167,48 @@ class ParkController extends Controller
 
         // 与えられた県コードから公園を取得
         // park_list 公園一覧リスト
-        $park_list = Park::where('adm', '=', $pre_word)->take(10)->get();
+        $park_list = Park::where('adm', '=', $pre_word)->pagenation(10);
 
         return $park_list;
     }
 
     public function research(Request $request){
 
+        $datatime = new Carbon('now');
+        // $now = $datatime;
+
+        // $datatime->addHours(1);
+        // $addnow = $datatime;
+
+        $time_now = date('Y-m-d H:i:s',strtotime($datatime));
+        $time_end = date('Y-m-d H:i:s',strtotime('+1 hour'));
+
+
         // 確認したい公園の個別idを取得
         $park_id = $request->id;
 
         // location_log 個別idの公園に行った人の取得
         // AND検索を行って細かく検索するようにしたい
-        $location_log = UserLocation::where('park_id',$park_id)->get();
+        $location_log = UserLocation::where('park_id',$park_id)
+        ->where('start_time','<',$time_now)
+        // ->where('end_time','>',$time_end)
+        ->get();
 
         $sum_people = 0;
-
-        // 現在時刻を確認する
-        $time_now = date('Y-m-d H:i:s');
 
 
         // 目的に合ったlocation_userをまとめたら人数を足し合わせていく
         for($i=0; $i<count($location_log); $i++){
-            $sum_people = $location_log[$i]->number_of_people + $sum_people;
+            $sum_people += $location_log[$i]->number_of_people;
         }
-        
-        return $time_now;
+
+        $park_info = Park::where('id','=',$park_id)->first();
+
+        $park_info['people_num'] = $sum_people;
+
+        return [
+            "data" => $park_info
+        ];
 
 
     }
