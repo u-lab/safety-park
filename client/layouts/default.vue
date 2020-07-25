@@ -1,11 +1,9 @@
 <template>
   <div>
     <TheHeader button-text="text" /> <!--id='page-top'部分-->
-
     <main>
       <Nuxt />
     </main>
-
     <TheFooter />
   </div>
 </template>

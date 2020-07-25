@@ -7,13 +7,13 @@
   </div>
 </template>
 
-<script>
+<!--<script>
 const box = document.querySelector('.box')
 const box2 = document.querySelector('.box2')
 const box3 = document.querySelector('.box3')
 const box4 = document.querySelector('.box4')
 
-setInterval(setBorderRadius, 10000)
+setInterval(setBorderRadius.bind(this), 10000)
 
 function setBorderRadius () {
   box.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
@@ -29,11 +29,11 @@ function generateBorderRadiusValue () {
 function getRandomValue () {
   return Math.floor(Math.random() * 50) + 50
 }
-</script>
+</script>-->
 
-<style>
+<style lang="scss" scoped>
   .background{
-    height: calc(100vh + 17px + 80px + 44px + 5px);
+    min-height: calc(100vh + 17px + 80px + 44px + 5px);
     width: 100vw;
     z-index: -2;
     position: absolute;

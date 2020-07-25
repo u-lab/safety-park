@@ -19,7 +19,7 @@
   </svg>
 </template>
 
-<style>
+<style lang="scss" scoped>
   svg {
     display: none;
     position: absolute;

@@ -5,7 +5,7 @@
       <Map />
       <Contact />
     </div>
-    <!--<BackgroundAnim />-->
+    <BackgroundAnim />
   </div>
 </template>
 
@@ -21,7 +21,7 @@ export default {
 
 <style lang="scss" scoped>
   .main__container{
-    width:89.3333333333vw;
+    width: 89.3333333333vw;
     height: 841px;
     margin-left:auto;
     margin-right:auto;

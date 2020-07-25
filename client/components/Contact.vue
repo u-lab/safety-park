@@ -1,6 +1,6 @@
 <template>
   <div class="contact">
-    <a href="https://forms.gle/LCmGDe3uLfckFxKJ8" class='contact__text'>公園の追加はこちら</a>
+    <a href="https://forms.gle/LCmGDe3uLfckFxKJ8" class="contact__text">公園の追加はこちら</a>
     <a class="contact__subtext">その他お問い合わせ</a>
   </div>
 </template>
@@ -22,7 +22,7 @@
 }
 
 .contact__text{
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: 700;
   font-size: 14px;
   color: white;
@@ -36,7 +36,7 @@
 }
 
 .contact__subtext{
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: 400;
   font-size: 10px;
   color: #424242;
