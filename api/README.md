@@ -4,6 +4,13 @@
 
 [インストール手順](../.docs/Installation.md)を見ること。
 
+### サーバ起動
+
+``` shell
+# サーバー起動
+$ php artisan serve
+```
+
 ### 簡易的なセットアップ手順
 
 1. `composer install`
