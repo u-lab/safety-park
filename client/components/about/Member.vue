@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <h1>Member
-      <h2>メンバー</h2>
-    </h1>
+  <div class="paragraph">
+    <h1>Member</h1>
+    <h2>メンバー</h2>
     <div class="list_area" v-for="member of members" v-bind:key="member">
       <div class="memberImage"></div>
       <div class="memberName">{{ member.name }}</div>
@@ -26,72 +25,50 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-div{
-  width: 310px;
-  padding:0;
-  border: 0;
-  margin: 0 auto 50px;
+@import "~assets/sass/paragraph.scss";
 
-  h1{
-    font-family: 'Noto Sans JP', sans-serif;
-    font-weight: 700;
-    font-size: 24px;
-    text-align: center;
-    margin: 0 auto;
-    height:auto;
+.list_area{
+  width: 89.3333333333vw;
+  margin: 20px auto 35px;
 
-    h2{
-      font-family: 'Noto Sans JP', sans-serif;
-      font-weight: 700;
-      font-size: 10px;
-      text-align: center;
-      margin: -4px auto;
-    }
+  .memberImage{
+    height: 80px;
+    width: 80px;
+    background-color: gray;
+    border-radius: 60px;
+    margin: 0;
   }
 
-  .list_area{
-    width: 310px;
-    margin: 20px auto 35px;
+  .memberName{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: left;
+    margin: 0;
+  }
 
-    .memberImage{
-      height: 80px;
-      width: 80px;
-      background-color: gray;
-      border-radius: 60px;
-      margin: 0;
-    }
+  .memberNameEn{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    text-align: left;
+    margin: 0;
+  }
 
-    .memberName{
-      font-family: 'Noto Sans JP', sans-serif;
-      font-weight: 700;
-      font-size: 14px;
-      text-align: left;
-      margin: 0;
-    }
+  .memberCareer{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    text-align: left;
+    margin: 0;
+  }
 
-    .memberNameEn{
-      font-family: 'Noto Sans JP', sans-serif;
-      font-weight: 400;
-      font-size: 10px;
-      text-align: left;
-      margin: 0;
-    }
-
-    .memberCareer{
-      font-family: 'Noto Sans JP', sans-serif;
-      font-weight: 400;
-      font-size: 10px;
-      text-align: left;
-      margin: 0;
-    }
-
-    .memberText{
-      font-family: 'Noto Sans JP', sans-serif;
-      font-weight: 400;
-      font-size: 10px;
-      text-align: left;
-      margin: 10px 0 0 0;
-    }
+  .memberText{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    text-align: left;
+    margin: 10px 0 0 0;
   }
 }
 </style>

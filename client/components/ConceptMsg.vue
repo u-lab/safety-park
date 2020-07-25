@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <div class="message">
     <p>“ちょっと歩いてもっと安心な場所で”</p>
   </div>
 </template>
 
 <style lang="scss" scoped>
-div{
+.message{
     padding:0;
     border: 0;
     margin: 0;

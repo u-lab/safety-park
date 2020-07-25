@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <h1>Support
-      <h2>応援のお願い</h2>
-    </h1>
+  <div class="paragraph">
+    <h1>Support</h1>
+    <h2>応援のお願い</h2>
     <p>本サービスは、全て個人でデザイン・運営しています。新しい仕組みで、より過ごしやすい世の中を作れないかという思いで立ち上げました。この活動を応援したいと思ってくださった方54円から支援できますので、応援してくださると幸いです。</p>
     <div class="link-button">
       <a href="https://forms.gle/LCmGDe3uLfckFxKJ8" class='button-text'>応援する</a>
