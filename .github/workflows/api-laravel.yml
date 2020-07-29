@@ -58,4 +58,4 @@ jobs:
           HOST_NAME: ${{ secrets.XSERVER_HOST_NAME }}
         run: |
           echo "$PRIVATE_KEY" > private_key && chmod 600 private_key
-          ssh -o StrictHostKeyChecking=no -i private_key ${USER_NAME}@${HOST_NAME} 'cd /safety-park.xyz/public_html/api/safety-park && git pull origin master && composer update && php artisan config:cache && php artisan route:cache && php artisan view:cache'
+          ssh -p 10022 -o StrictHostKeyChecking=no -i private_key ${USER_NAME}@${HOST_NAME} 'cd /safety-park.xyz/public_html/api/safety-park && git pull origin master && composer update && php artisan config:cache && php artisan route:cache && php artisan view:cache'
