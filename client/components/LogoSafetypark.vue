@@ -6,7 +6,7 @@
   </div>
 </template>
 
-<style>
+<style lang="scss" scoped>
   svg{
     width: 137px;
     float: left;

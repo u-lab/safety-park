@@ -22,7 +22,7 @@
   </div>
 </template>
 
-<style>
+<style lang="scss" scoped>
   svg{
     width: 69px;
     padding:0;
