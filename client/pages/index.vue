@@ -22,7 +22,7 @@ export default {
 <style lang="scss" scoped>
   .main__container{
     width: 89.3333333333vw;
-    height: 841px;
+    height: calc(100vh + 31px);
     margin-left:auto;
     margin-right:auto;
     padding:0;
