@@ -1,45 +1,30 @@
 <template>
   <div class="map">
-    <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='defaultCoordinates' :zoom='zoom'>
+    <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='center' :minZoom='minzoom'>
       <MglGeolocateControl position="bottom-right" />
-      <MglGeojsonLayer
-        :sourceId="geoJsonSource.id"
-        :source="geoJsonSource"
-        layerId="myLayer"
-        :layer="geoJsonlayer"
-      />
     </MglMap>
   </div>
 </template>
 
 <script>
-//Mapboxのラッパーライブラリをインポート
+// Mapboxのラッパーライブラリをインポート
 import Mapbox from 'mapbox-gl'
-import { MglMap, MglGeolocateControl, MglGeojsonLayer } from 'vue-mapbox'
+import { MglMap, MglGeolocateControl } from 'vue-mapbox'
 
 export default {
   components: {
     MglMap,
-    MglGeolocateControl,
-    MglGeojsonLayer
+    MglGeolocateControl
   },
   data () {
     return {
       accessToken: 'pk.eyJ1Ijoic3luc2NoaXNtbyIsImEiOiJja2E5eHEwbXAweHdyMnlxcjlzMDVjMm56In0.lOPjbTfTjop6jTk58sOhTQ',
       mapStyle: 'mapbox://styles/synschismo/cka9xvauz00w31ilcr6ganv88',
-      zoom: 11,
-      defaultCoordinates: [139.540667, 35.650614],
-      coordinates: [139.540667, 35.650614],
-      geoJsonSource: {
-        // GeoJSON をURLから読み込む方法がわからない
-      },
-      geoJsonLayer: {
-        //...some GeoJSON layer configuration object
-      }
+      minzoom: 11,
+      center: [139.540667, 35.650614]
     }
   },
   created () {
-    // We need to set mapbox-gl library here in order to use it in template
     this.mapbox = Mapbox
   }
 }
