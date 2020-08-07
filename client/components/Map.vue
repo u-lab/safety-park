@@ -1,13 +1,8 @@
 <template>
   <div class="map">
-    <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='center' :minZoom='minzoom'>
+    <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='center' :zoom='zoom' :minZoom='minzoom'>
       <MglGeolocateControl position="bottom-right" />
-      <MglGeojsonLayer
-        :sourceId="geoJsonSource.features.id"
-        :source="geoJsonSource"
-        layerId="myLayer"
-        :layer="geoJsonlayer"
-      />
+      <MglMarker :coordinates="geojson" color="blue" />
     </MglMap>
   </div>
 </template>
@@ -15,22 +10,22 @@
 <script>
 // Mapboxのラッパーライブラリをインポート
 import Mapbox from 'mapbox-gl'
-import { MglMap, MglGeolocateControl, MglGeojsonLayer } from 'vue-mapbox'
+import { MglMap, MglGeolocateControl, MglMarker } from 'vue-mapbox'
 
 export default {
   components: {
     MglMap,
     MglGeolocateControl,
-    MglGeojsonLayer
+    MglMarker
   },
   data () {
     return {
       accessToken: 'pk.eyJ1Ijoic3luc2NoaXNtbyIsImEiOiJja2E5eHEwbXAweHdyMnlxcjlzMDVjMm56In0.lOPjbTfTjop6jTk58sOhTQ',
       mapStyle: 'mapbox://styles/synschismo/cka9xvauz00w31ilcr6ganv88',
-      minzoom: 11,
+      zoom: 11,
+      minzoom: 4,
       center: [139.540667, 35.650614],
-      geoJsonSource: null,
-      geoJsonLayer: null
+      geojson: null
     }
   },
   async created () {
@@ -41,9 +36,9 @@ export default {
     // GeoJsonの取得
     async fetchGeoJson () {
       // geojsonを取得
-      const geoJsonSource = await this.$axios.$get(`${this.$config.clientUrl}/geojson/tokyo.geojson`)
+      const geojson = await this.$axios.$get(`${this.$config.clientUrl}/geojson/tokyo.geojson`)
       // vueインスタンス内のgeojsonを更新
-      this.geoJsonSource = geoJsonSource
+      this.geojson = geojson.features[0].geometry.coordinates
     }
   }
 }
