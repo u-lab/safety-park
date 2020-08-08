@@ -28,6 +28,7 @@ Route::post('/v1/user/location', 'Api\UserLocationController@create')->middlewar
 
 // ユーザー位置情報更新 API仕様書の177行目
 Route::patch('/v1/user/location', 'Api\UserLocationController@update')->middleware('exsit.token');
+<<<<<<< HEAD
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
@@ -39,3 +40,5 @@ Route::get('/v1/park', 'Api\ParkController@catalog');
 // 公園個別の混雑状況を確認
 Route::get('/v1/park/{id}', 'Api\ParkController@research');
 
+=======
+>>>>>>> master
