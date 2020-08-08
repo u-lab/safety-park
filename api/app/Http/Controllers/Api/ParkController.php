@@ -175,11 +175,7 @@ class ParkController extends Controller
     public function research(Request $request){
 
         $datatime = new Carbon('now');
-        // $now = $datatime;
-
-        // $datatime->addHours(1);
-        // $addnow = $datatime;
-
+        
         $time_now = date('Y-m-d H:i:s',strtotime($datatime));
         $time_end = date('Y-m-d H:i:s',strtotime('+1 hour'));
 
@@ -191,7 +187,7 @@ class ParkController extends Controller
         // AND検索を行って細かく検索するようにしたい
         $location_log = UserLocation::where('park_id',$park_id)
         ->where('start_time','<',$time_now)
-        // ->where('end_time','>',$time_end)
+        ->where('end_time','>',$time_end)
         ->get();
 
         $sum_people = 0;
