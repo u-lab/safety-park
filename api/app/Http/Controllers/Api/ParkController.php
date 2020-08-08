@@ -194,11 +194,11 @@ class ParkController extends Controller
 
 
         // 目的に合ったlocation_userをまとめたら人数を足し合わせていく
-        for($i=0; $i<count($location_log); $i++){
-            $sum_people += $location_log[$i]->number_of_people;
+        foreach($location_log as $value){
+            $sum_people += $value->number_of_people;
         }
 
-        $park_info = Park::where('id','=',$park_id)->first();
+        $park_info = Park::find($park_id);
 
         $park_info['people_num'] = $sum_people;
 
