@@ -1,46 +1,45 @@
 <template>
   <div class="map">
-    <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='defaultCoordinates' :zoom='zoom'>
+    <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='center' :zoom='zoom' :minZoom='minzoom'>
       <MglGeolocateControl position="bottom-right" />
-      <MglGeojsonLayer
-        :sourceId="geoJsonSource.id"
-        :source="geoJsonSource"
-        layerId="myLayer"
-        :layer="geoJsonlayer"
-      />
+      <MglMarker :coordinates="geojson" color="blue" />
     </MglMap>
   </div>
 </template>
 
 <script>
-//Mapboxのラッパーライブラリをインポート
+// Mapboxのラッパーライブラリをインポート
 import Mapbox from 'mapbox-gl'
-import { MglMap, MglGeolocateControl, MglGeojsonLayer } from 'vue-mapbox'
+import { MglMap, MglGeolocateControl, MglMarker } from 'vue-mapbox'
 
 export default {
   components: {
     MglMap,
     MglGeolocateControl,
-    MglGeojsonLayer
+    MglMarker
   },
   data () {
     return {
       accessToken: 'pk.eyJ1Ijoic3luc2NoaXNtbyIsImEiOiJja2E5eHEwbXAweHdyMnlxcjlzMDVjMm56In0.lOPjbTfTjop6jTk58sOhTQ',
       mapStyle: 'mapbox://styles/synschismo/cka9xvauz00w31ilcr6ganv88',
       zoom: 11,
-      defaultCoordinates: [139.540667, 35.650614],
-      coordinates: [139.540667, 35.650614],
-      geoJsonSource: {
-        // GeoJSON をURLから読み込む方法がわからない
-      },
-      geoJsonLayer: {
-        //...some GeoJSON layer configuration object
-      }
+      minzoom: 4,
+      center: [139.540667, 35.650614],
+      geojson: null
     }
   },
-  created () {
-    // We need to set mapbox-gl library here in order to use it in template
+  async created () {
+    await this.fetchGeoJson()
     this.mapbox = Mapbox
+  },
+  methods: {
+    // GeoJsonの取得
+    async fetchGeoJson () {
+      // geojsonを取得
+      const geojson = await this.$axios.$get(`${this.$config.clientUrl}/geojson/tokyo.geojson`)
+      // vueインスタンス内のgeojsonを更新
+      this.geojson = geojson.features[0].geometry.coordinates
+    }
   }
 }
 </script>
