@@ -1,7 +1,5 @@
 <template>
   <div>
-    {{ json.features[0].properties.name }}
-    {{ json.features[1].properties.name }}
   </div>
 </template>
 

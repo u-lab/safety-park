@@ -23,8 +23,7 @@ export default {
   .main__container{
     width: 89.3333333333vw;
     height: calc(100vh + 31px);
-    margin-left:auto;
-    margin-right:auto;
+    margin: 0 auto;
     padding:0;
   }
 

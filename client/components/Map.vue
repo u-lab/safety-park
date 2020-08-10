@@ -1,8 +1,15 @@
 <template>
-  <div class="map">
+  <div class='map'>
     <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='center' :zoom='zoom' :minZoom='minzoom'>
-      <MglGeolocateControl position="bottom-right" />
-      <MglMarker :coordinates="geojson" color="blue" />
+      <MglGeolocateControl position='bottom-right' />
+      <MglMarker v-for="(l, key) in geojson" :key="key" :coordinates="l.geometry.coordinates" color='red'>
+        <MglPopup>
+          <VCard>
+            <div>{{ l.properties.id }}</div>
+            <div>{{ l.properties.name }}</div>
+          </VCard>
+        </MglPopup>
+      </MglMarker>
     </MglMap>
   </div>
 </template>
@@ -10,13 +17,14 @@
 <script>
 // Mapboxのラッパーライブラリをインポート
 import Mapbox from 'mapbox-gl'
-import { MglMap, MglGeolocateControl, MglMarker } from 'vue-mapbox'
+import { MglMap, MglGeolocateControl, MglMarker, MglPopup } from 'vue-mapbox'
 
 export default {
   components: {
     MglMap,
     MglGeolocateControl,
-    MglMarker
+    MglMarker,
+    MglPopup
   },
   data () {
     return {
@@ -38,7 +46,7 @@ export default {
       // geojsonを取得
       const geojson = await this.$axios.$get(`${this.$config.clientUrl}/geojson/tokyo.geojson`)
       // vueインスタンス内のgeojsonを更新
-      this.geojson = geojson.features[0].geometry.coordinates
+      this.geojson = geojson.features
     }
   }
 }
