@@ -13,6 +13,9 @@ tags:
     description: "ユーザー関連API"
   - name: "park"
     description: "公園関連API"
+  - name: "graph"
+    description: "グラフ描写API"
+
 
 paths:
   /key:
@@ -311,6 +314,40 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ErrorResponse'
+  
+  /graph/{id}:
+    get:
+      tags:
+        - graph
+      summary: 前日の各公園の1時間ごとの利用者取得API
+      description: |-
+        idは公園IDである。<br>
+        受け取ったidに該当する公園の前日の参加人数を1時間ごとに0~23時の順に配列として返す<br>
+      parameters:
+        - name: id
+          in: path
+          schema:
+            type: integer
+          required: true
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GraphShowResponse'
+        400:
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        500:
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
 
 components:
   schemas:
@@ -539,6 +576,12 @@ components:
                 description: 終わりの時間
                 type: string
                 format: 'date-time'
+    GraphShowResponse:
+      type: object
+      properties:
+        data:
+          type: object
+
 
     ErrorResponse:
       type: object

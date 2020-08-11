@@ -28,5 +28,5 @@ Route::post('/v1/user/location', 'Api\UserLocationController@create')->middlewar
 
 // ユーザー位置情報更新 API仕様書の177行目
 Route::patch('/v1/user/location', 'Api\UserLocationController@update')->middleware('exsit.token');
-
-Route::get('/v1/graph','Api\GraphController@show');
+//グラフ生成のためのか
+Route::get('/v1/graph/{id}','Api\GraphController@show');
