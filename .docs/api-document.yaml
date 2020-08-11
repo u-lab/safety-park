@@ -14,7 +14,7 @@ tags:
   - name: "park"
     description: "公園関連API"
   - name: "graph"
-    description: "グラフ描写API"
+    description: "グラフ描写関連API"
 
 
 paths:
