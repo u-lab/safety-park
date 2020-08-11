@@ -10,12 +10,23 @@ use Carbon\Carbon;
 
 class GraphController extends Controller
 {
+    //前日の各公園の1時間ごとの利用者取得API
     public function show(Request $request){
         $yesterday = Carbon::yesterday();; //前日を取得
         \Log::debug($yesterday);
-        $user_location = UserLocation::whereDate('start_time','=', $yesterday)->where('park_id', '=', $request->id)->get();//requestから送られてくるidがpark_id
-        $hours=[];//return用の配列を初期化
-        \Log::debug($user_location);
+        $user_locations = UserLocation::whereDate('start_time','=', $yesterday)->where('park_id', '=', $request->id)->get();//requestから送られてくるidがpark_id
+        $hours=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];//return用の配列を初期化→最初は全時間0で足していく方式
+
+        //foreachで多次元配列から一つずつ配列取り出す。
+        foreach($user_locations as $user_location){
+            //取り出した配列から必要なもの抜き取る
+            $start_time = new Carbon($user_location->start_time);//start_timeをcarbon型にする
+            $start_time = $start_time->hour;//start_timeから時間だけ取り出す
+            $number_of_people = $user_location->number_of_people;//人数取り出す
+            $hours[$start_time] += $number_of_people;//時間に該当する配列の要素に人数を足す
+
+        }
+
         
         return $hours;
 

@@ -28,5 +28,6 @@ Route::post('/v1/user/location', 'Api\UserLocationController@create')->middlewar
 
 // ユーザー位置情報更新 API仕様書の177行目
 Route::patch('/v1/user/location', 'Api\UserLocationController@update')->middleware('exsit.token');
-//グラフ生成のためのか
+
+//前日の各公園の1時間ごとの利用者取得API
 Route::get('/v1/graph/{id}','Api\GraphController@show');
