@@ -22,8 +22,26 @@ class GraphController extends Controller
             //取り出した配列から必要なもの抜き取る
             $start_time = new Carbon($user_location->start_time);//start_timeをcarbon型にする
             $start_time = $start_time->hour;//start_timeから時間だけ取り出す
-            $number_of_people = $user_location->number_of_people;//人数取り出す
-            $hours[$start_time] += $number_of_people;//時間に該当する配列の要素に人数を足す
+            $end_time = new Carbon($user_location->end_time);//end_timeをcarbon型にする
+            $end_time = $end_time->hour;//end_timeから時間だけ取り出す
+            $diff =$end_time -$start_time;//時間差計算
+            if ($start_time <=$end_time){
+                //日付越さないとき→start_timeの時間からend_timeの時間まで加算
+                foreach(range($start_time,$end_time) as $i){
+                    $number_of_people = $user_location->number_of_people;//人数取り出す
+                    $hours[$i] += $number_of_people;//時間に該当する配列の要素に人数を足す
+                  }
+            }
+            else{
+                //日付超す時→start_timeの時間から23時まで加算
+                foreach(range($start_time,23) as $i){
+                    $number_of_people = $user_location->number_of_people;//人数取り出す
+                    $hours[$i] += $number_of_people;//時間に該当する配列の要素に人数を足す
+                  }
+
+            }
+            
+
 
         }
 
