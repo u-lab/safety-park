@@ -14,7 +14,7 @@ class GraphController extends Controller
     public function show(Request $request){
         $yesterday = Carbon::yesterday();; //前日を取得
         \Log::debug($yesterday);
-        $user_locations = UserLocation::whereDate('start_time','=', $yesterday)->where('park_id', '=', $request->id)->get();//requestから送られてくるidがpark_id
+        $user_locations = UserLocation::whereDate('start_time','=', $yesterday)->where('park_id', '=', $request->park_id)->get();//requestから送られてくるidがpark_id
         $hours=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];//return用の配列を初期化→最初は全時間0で足していく方式
 
         //foreachで多次元配列から一つずつ配列取り出す。

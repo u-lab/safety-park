@@ -30,4 +30,4 @@ Route::post('/v1/user/location', 'Api\UserLocationController@create')->middlewar
 Route::patch('/v1/user/location', 'Api\UserLocationController@update')->middleware('exsit.token');
 
 //前日の各公園の1時間ごとの利用者取得API
-Route::get('/v1/graph/{id}','Api\GraphController@show');
+Route::get('/v1/graph/{park_id}','Api\GraphController@show');

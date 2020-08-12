@@ -315,17 +315,17 @@ paths:
               schema:
                 $ref: '#/components/schemas/ErrorResponse'
   
-  /graph/{id}:
+  /graph/{park_id}:
     get:
       tags:
         - graph
       summary: 前日の各公園の1時間ごとの利用者取得API
       description: |-
-        idは公園IDである。<br>
+        park_idは公園IDである。<br>
         受け取ったidに該当する公園の前日の参加人数を1時間ごとに0~23時の順に配列として返す。<br>
         例えばstart_timeが7:40,end_timeが11:20だった場合7,8,9,10,11時に該当する配列の要素にそれぞれnumber_of_peopleが代入される<br>
       parameters:
-        - name: id
+        - name: park_id
           in: path
           schema:
             type: integer
