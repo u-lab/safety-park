@@ -13,7 +13,6 @@ class GraphController extends Controller
     //前日の各公園の1時間ごとの利用者取得API
     public function show(Request $request){
         $yesterday = Carbon::yesterday();; //前日を取得
-        \Log::debug($yesterday);
         $user_locations = UserLocation::whereDate('start_time','=', $yesterday)->where('park_id', '=', $request->park_id)->get();//requestから送られてくるidがpark_id
         $hours=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];//return用の配列を初期化→最初は全時間0で足していく方式
 
@@ -33,7 +32,10 @@ class GraphController extends Controller
             }
 
         }
-        return $hours;
+        return [
+            "data" => $hours
+        ];
+
 
     }
 }
