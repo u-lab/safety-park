@@ -25,27 +25,14 @@ class GraphController extends Controller
             $end_time = new Carbon($user_location->end_time);//end_timeをcarbon型にする
             $end_time = $end_time->hour;//end_timeから時間だけ取り出す
             $diff =$end_time -$start_time;//時間差計算
-            if ($start_time <=$end_time){
-                //日付越さないとき→start_timeの時間からend_timeの時間まで加算
-                foreach(range($start_time,$end_time) as $hour){
-                    $number_of_people = $user_location->number_of_people;//人数取り出す
-                    $hours[$hour] += $number_of_people;//時間に該当する配列の要素に人数を足す
-                  }
+            //日付越さないとき→start_timeの時間からend_timeの時間まで加算
+            //日付超す時→start_timeの時間から23時まで加算
+            $end_time_for_count = $start_time <=$end_time ? $end_time : 23;//三項演算子でif文のコードだったものが1行に
+            foreach(range($start_time,$end_time_for_count) as $hour){
+                    $hours[$hour] += $user_location->number_of_people;// 時間に該当する配列の要素に人数を足す
             }
-            else{
-                //日付超す時→start_timeの時間から23時まで加算
-                foreach(range($start_time,23) as $hour){
-                    $number_of_people = $user_location->number_of_people;//人数取り出す
-                    $hours[$hour] += $number_of_people;//時間に該当する配列の要素に人数を足す
-                  }
-
-            }
-            
-
 
         }
-
-        
         return $hours;
 
     }
