@@ -241,6 +241,12 @@ paths:
           schema:
             type: string
             format: 'date-time'
+         - name: pre_number
+          in: query
+          description: 県ナンバー
+          schema:
+            type: integer
+
       responses:
         200:
           description: OK
