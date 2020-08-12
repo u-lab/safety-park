@@ -27,3 +27,7 @@ Route::post('/v1/user/location', 'Api\UserLocationController@create')->middlewar
 
  // 公園個別の混雑状況を確認
  Route::get('/v1/park/{id}', 'Api\ParkController@research');
+
+//前日の各公園の1時間ごとの利用者取得API
+Route::get('/v1/graph/{park_id}','Api\GraphController@show');
+
