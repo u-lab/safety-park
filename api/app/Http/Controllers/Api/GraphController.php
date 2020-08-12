@@ -27,16 +27,16 @@ class GraphController extends Controller
             $diff =$end_time -$start_time;//時間差計算
             if ($start_time <=$end_time){
                 //日付越さないとき→start_timeの時間からend_timeの時間まで加算
-                foreach(range($start_time,$end_time) as $i){
+                foreach(range($start_time,$end_time) as $hour){
                     $number_of_people = $user_location->number_of_people;//人数取り出す
-                    $hours[$i] += $number_of_people;//時間に該当する配列の要素に人数を足す
+                    $hours[$hour] += $number_of_people;//時間に該当する配列の要素に人数を足す
                   }
             }
             else{
                 //日付超す時→start_timeの時間から23時まで加算
-                foreach(range($start_time,23) as $i){
+                foreach(range($start_time,23) as $hour){
                     $number_of_people = $user_location->number_of_people;//人数取り出す
-                    $hours[$i] += $number_of_people;//時間に該当する配列の要素に人数を足す
+                    $hours[$hour] += $number_of_people;//時間に該当する配列の要素に人数を足す
                   }
 
             }
