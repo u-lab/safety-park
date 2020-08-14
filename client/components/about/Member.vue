@@ -28,10 +28,11 @@ export default {
 @import "~assets/sass/paragraph.scss";
 
 .list_area{
-  width: 89.3333333333vw;
+  width: 89.3vw;
   margin: 20px auto 35px;
 
   .memberImage{
+    float: left;
     height: 80px;
     width: 80px;
     background-color: gray;
@@ -40,11 +41,12 @@ export default {
   }
 
   .memberName{
+    float: left;
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 700;
     font-size: 14px;
     text-align: left;
-    margin: 0;
+    margin: 0 0 0 10px;
   }
 
   .memberNameEn{
@@ -52,7 +54,7 @@ export default {
     font-weight: 400;
     font-size: 10px;
     text-align: left;
-    margin: 0;
+    padding: 4px 0 0 160px;
   }
 
   .memberCareer{
@@ -60,7 +62,7 @@ export default {
     font-weight: 400;
     font-size: 10px;
     text-align: left;
-    margin: 0;
+    margin: 5px 0 0 90px;
   }
 
   .memberText{
@@ -68,7 +70,7 @@ export default {
     font-weight: 400;
     font-size: 10px;
     text-align: left;
-    margin: 10px 0 0 0;
+    margin: 5px 0 0 90px;
   }
 }
 </style>

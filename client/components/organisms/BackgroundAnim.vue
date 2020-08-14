@@ -7,29 +7,33 @@
   </div>
 </template>
 
-<!--<script>
-const box = document.querySelector('.box')
-const box2 = document.querySelector('.box2')
-const box3 = document.querySelector('.box3')
-const box4 = document.querySelector('.box4')
+<script>
+export default {
+  mounted () {
+    const box = document.querySelector('.box')
+    const box2 = document.querySelector('.box2')
+    const box3 = document.querySelector('.box3')
+    const box4 = document.querySelector('.box4')
 
-setInterval(setBorderRadius.bind(this), 10000)
+    setInterval(setBorderRadius.bind(this), 10000)
 
-function setBorderRadius () {
-  box.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
-  box2.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
-  box3.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
-  box4.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
+    function setBorderRadius () {
+      box.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
+      box2.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
+      box3.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
+      box4.style.setProperty('--br-blobby-before', generateBorderRadiusValue())
+    }
+
+    function generateBorderRadiusValue () {
+      return `${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}% / ${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}%`
+    }
+
+    function getRandomValue () {
+      return Math.floor(Math.random() * 50) + 50
+    }
+  }
 }
-
-function generateBorderRadiusValue () {
-  return `${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}% / ${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}%`
-}
-
-function getRandomValue () {
-  return Math.floor(Math.random() * 50) + 50
-}
-</script>-->
+</script>
 
 <style lang="scss" scoped>
   .background{

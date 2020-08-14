@@ -6,7 +6,9 @@
       </p>
 
       <p class="header__logo__safetypark">
-        <img :src="SafetyParkTypography" alt="Safety Park Logo">
+        <nuxt-link to='/'>
+          <img :src="SafetyParkTypography" alt="Safety Park Logo">
+        </nuxt-link>
       </p>
 
       <p class="header__button">

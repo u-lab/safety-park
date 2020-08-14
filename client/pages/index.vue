@@ -3,6 +3,7 @@
     <div class="body">
       <ConceptMsg />
       <Map />
+      <chart />
       <Contact />
     </div>
     <BackgroundAnim />
@@ -11,9 +12,19 @@
 
 <script>
 export default {
-  head () {
+  data () {
     return {
-      buttonText: 'TOPページ'
+      header: {
+        buttonText: 'about'
+      }
+    }
+  },
+  mounted () {
+    this.updateHeader()
+  },
+  methods: {
+    updateHeader () {
+      this.$nuxt.$emit('updateHeader', this.header.buttonText)
     }
   }
 }
@@ -21,7 +32,7 @@ export default {
 
 <style lang="scss" scoped>
   .main__container{
-    width: 89.3333333333vw;
+    width: 89.3vw;
     height: calc(100vh + 31px);
     margin: 0 auto;
     padding:0;
@@ -30,7 +41,7 @@ export default {
   .body{
     margin-left:auto;
     margin-right:auto;
-    width:89.3333333333vw;
+    width:89.3vw;
     height: 548px;
     padding:41px 0 0 0;
   }
