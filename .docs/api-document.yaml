@@ -241,7 +241,7 @@ paths:
           schema:
             type: string
             format: 'date-time'
-         - name: pre_number
+        - name: pre_number
           in: query
           description: 県ナンバー
           schema:
@@ -590,6 +590,7 @@ components:
       properties:
         data:
           type: object
+          example: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 
 
     ErrorResponse:
