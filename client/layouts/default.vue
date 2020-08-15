@@ -1,6 +1,6 @@
 <template>
   <div>
-    <TheHeader button-text="text" /> <!--id='page-top'部分-->
+    <TheHeader :buttonText='title' /> <!--id='page-top'部分-->
     <main>
       <Nuxt />
     </main>
@@ -9,14 +9,27 @@
 </template>
 
 <script>
+import TheHeader from '@/components/organisms/TheHeader'
+
 export default {
-  computed: {
-    buttonText () {
-      const matchedRoute = this.$route.matched[0]
-      const headInfo = matchedRoute.components.default.options.head()
-      return headInfo ? headInfo.buttonText : ''
+  components: {
+    TheHeader
+  },
+  data () {
+    return {
+      title: ''
+    }
+  },
+  created () {
+    this.setListener()
+  },
+  methods: {
+    setListener () {
+      this.$nuxt.$on('updateHeader', this.setHeader)
+    },
+    setHeader (buttonText) {
+      this.title = buttonText || ''
     }
   }
-
 }
 </script>

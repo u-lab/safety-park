@@ -44,7 +44,7 @@ export default {
     // GeoJsonの取得
     async fetchGeoJson () {
       // geojsonを取得
-      const geojson = await this.$axios.$get(`${this.$config.clientUrl}/geojson/tokyo.geojson`)
+      const geojson = await this.$axios.$get(`${this.$config.clientUrl}/geojson/t.geojson`)
       // vueインスタンス内のgeojsonを更新
       this.geojson = geojson.features
     }
@@ -62,4 +62,14 @@ export default {
   margin-top: 30px;
   overflow: hidden;
 }
+
+.mapboxgl-popup-content {
+    position: relative;
+    background: #000 !important;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.1);
+    padding: 10px 10px 15px;
+    pointer-events: auto;
+}
+
 </style>

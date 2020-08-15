@@ -16,8 +16,10 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/device": "^1.2.7",
+    "chart.js": "^2.9.3",
     "mapbox-gl": "^1.11.1",
     "nuxt": "^2.13.0",
+    "vue-chartjs": "^3.5.0",
     "vue-mapbox": "^0.4.1"
   },
   "devDependencies": {

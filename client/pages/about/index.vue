@@ -12,9 +12,19 @@
 
 <script>
 export default {
-  head () {
+  data () {
     return {
-      buttonText: 'TOPページ'
+      header: {
+        buttonText: 'top'
+      }
+    }
+  },
+  mounted () {
+    this.updateHeader()
+  },
+  methods: {
+    updateHeader () {
+      this.$nuxt.$emit('updateHeader', this.header.buttonText)
     }
   }
 }
@@ -23,7 +33,7 @@ export default {
 <style lang="scss" scoped>
   .main__container{
     width: 89.3vw;
-    height: 1500px;
+    height: 1200px;
     margin: 0 auto;
     padding: 0;
   }
