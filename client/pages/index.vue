@@ -12,21 +12,6 @@
 
 <script>
 export default {
-  data () {
-    return {
-      header: {
-        buttonText: 'about'
-      }
-    }
-  },
-  mounted () {
-    this.updateHeader()
-  },
-  methods: {
-    updateHeader () {
-      this.$nuxt.$emit('updateHeader', this.header.buttonText)
-    }
-  }
 }
 </script>
 

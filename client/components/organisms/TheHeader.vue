@@ -6,14 +6,14 @@
       </p>
 
       <p class="header__logo__safetypark">
-        <nuxt-link to='/'>
+        <nuxt-link to="/">
           <img :src="SafetyParkTypography" alt="Safety Park Logo">
         </nuxt-link>
       </p>
 
       <p class="header__button">
-        <nuxt-link to="/about">
-          <span class="header__button__text">{{ buttonText }}</span>
+        <nuxt-link :to="buttonObj.to">
+          <span class="header__button__text">{{ buttonObj.text }}</span>
         </nuxt-link>
       </p>
     </div>
@@ -25,16 +25,23 @@ import SynschismoTypography from '@/assets/image/svg/synschismo-typography.svg'
 import SafetyParkTypography from '@/assets/image/svg/safety-park-typography.svg'
 
 export default {
-  props: {
-    buttonText: {
-      type: String,
-      default: ''
-    }
-  },
-
   computed: {
     SynschismoTypography: () => SynschismoTypography,
-    SafetyParkTypography: () => SafetyParkTypography
+    SafetyParkTypography: () => SafetyParkTypography,
+
+    buttonObj () {
+      if (this.$route.path === '/') {
+        return {
+          to: '/about',
+          text: 'about'
+        }
+      }
+
+      return {
+        to: '/',
+        text: 'top'
+      }
+    }
   }
 }
 </script>
