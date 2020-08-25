@@ -4,10 +4,10 @@
       <MglGeolocateControl position='bottom-right' />
       <MglMarker v-for="(l, key) in geojson" :key="key" :coordinates="l.geometry.coordinates" color='red'>
         <MglPopup>
-          <VCard>
+          <div>
             <div>{{ l.properties.id }}</div>
             <div>{{ l.properties.name }}</div>
-          </VCard>
+          </div>
         </MglPopup>
       </MglMarker>
     </MglMap>
@@ -62,14 +62,4 @@ export default {
   margin-top: 30px;
   overflow: hidden;
 }
-
-.mapboxgl-popup-content {
-    position: relative;
-    background: #000 !important;
-    border-radius: 3px;
-    box-shadow: 0 1px 2px rgba(0,0,0,.1);
-    padding: 10px 10px 15px;
-    pointer-events: auto;
-}
-
 </style>
