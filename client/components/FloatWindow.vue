@@ -1,85 +1,270 @@
 <template>
   <div id="floatWindow">
-    <div id="closeBtnArea">
-      <svg id="closeBtn" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <rect width="17" height="17" fill=" url(#pattern0)"/>
-        <defs>
-          <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-            <use xlink:href="#image0" transform="scale(0.0208333)"/>
-          </pattern>
-          <image id="image0" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAAEgBckRAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAAD4/042AAACJ0lEQVRoBe1aW04EIRDc6I/xT89movfxYJ5CD+K3UalxawJMQzN0s06ykIwM0F1VzaOXjXs6KeW1Nv5zHmSd2FY7xcHEvbnxJFk+2zolb3ufFDSESv0JGwyaDOEVG1aRMXElg1I/CI5UPitivqWxr9CJJy+c4rx/aedOVWMi0KnJmE4wluSdbmgR1TB+ObdFp8h2Wen4VFBebLO+lzQXne5W1+3Lw7brqnuwZ4vrXJgZHmr41eY6ccdqaUQxcLw9EiCtIRG5AOfEJEJUeLoV58Box4pJhNpcYuBcsYmoBpyr3k2E9NkzxySaxz5fgtk2zsCt4I9t+h6eD2Gs1oUsfB+et5oRUm1PruEZqF1PVt49pxhOBEfdXFpJusCpQiMxgWskLuAlEldwiQS7DCTuhcp7UrkqhuCsXUkIihpF211/Vo1/c3C6uZCUwF1INHATSSu4RCJ+Each6sfw9Oxzron4hS4mwHvvtaP5Vp0TzvacgTkDl5gBHO1LHlNw9aaTZD4AgsTHB1kWSW1UATYzOTiROM2BIL3HoMzknoHkwsmhfrQEbc2lRGIJZASmGpAHqQeGKlQz6BHR46PpMI+3iGqxMQuxApREjk4AVt0bfykQZhWMHbqUxCOAQwchCeeHXm3s31djj7g9tsMDs4ix+JoD8yT3xFIDG0k2Enu5QvN/UKMziRQIuM3XePwuAddagLneDgOeVMABLnBWfxMhOc++OQPXNgO/pftIAciX+H0AAAAASUVORK5CYII="/>
-        </defs>
-      </svg>
+    <div class="closeBtnArea">
     </div>
-    <div id="fw__parkName"></div>
-    <div id="fw__parkAddress"></div>
-    <div id="fw__status">
-      <p id="fw__status__h1">ただいまの利用人数</p>
-      <p id="fw__status__h1_num0" style="display:none;">一番のりで遊びにいこう！</p>
-      <p id="fw__status__numUser"></p>
-      <p id="fw__status__h2" style="display:block;">人</p>
+    <div class="fw__parkName">{{ parkName }}</div>
+    <div class="fw__parkAddress">Unknown</div>
+    <div class="fw__status">
+      <p class="fw__status__h1">ただいまの利用人数</p>
+      <p class="fw__status__h1_num0" style="display:none;">一番のりで遊びにいこう！</p>
+      <p class="fw__status__numUser"></p>
+      <p class="fw__status__h2" style="display:block;">人</p>
     </div>
-    <div id="fw__statistics">
+    <div class="fw__statistics">
       <p style="text-align:center; color: white; position:relative; top:45%; margin:0; font-size: 14px;">comming soon...</p>
     </div>
     <div class="fw__select">
-      <select id="fw__numUserSelect">
+      <select class="fw__numUserSelect">
         <option value='1' selected="selected">人数</option>
         <option value='1'>1人</option>
         <option value='2'>2人</option>
-        <option value='3'>3人</option>
-        <option value='4'>4人</option>
-        <option value='5'>5人</option>
-        <option value='6'>6人</option>
-        <option value='7'>7人</option>
-        <option value='8'>8人</option>
-        <option value='9'>9人</option>
-        <option value='10'>10人</option>
-        <option value='11'>11人</option>
-        <option value='12'>12人</option>
-        <option value='13'>13人</option>
-        <option value='14'>14人</option>
-        <option value='15'>15人</option>
-        <option value='16'>16人</option>
-        <option value='17'>17人</option>
-        <option value='18'>18人</option>
-        <option value='19'>19人</option>
-        <option value='20'>20人～</option>
         <optgroup label=""></optgroup>
       </select>
-      <select id="fw__durationSelect">
+      <select class="fw__durationSelect">
         <option value='1' selected="selected">滞在時間</option>
         <option value='10'>10分</option>
-        <option value='30'>30分</option>
-        <option value='60'>1時間</option>
-        <option value='90'>1時間30分</option>
-        <option value='120'>2時間</option>
-        <option value='150'>2時間30分</option>
-        <option value='180'>3時間</option>
-        <option value='210'>3時間30分</option>
         <optgroup label=""></optgroup>
       </select>
-      <select id="fw__sTimeSelect">
+      <select class="fw__sTimeSelect">
           <option value='0' selected="selected">すぐに遊びにいく</option>
           <option value='30'>30分後</option>
-          <option value='60'>1時間後</option>
-          <option value='90'>1時間30分後</option>
-          <option value='120'>2時間後</option>
-          <option value='150'>2時間30分後</option>
-          <option value='180'>3時間後</option>
-          <option value='210'>3時間30分後</option>
           <optgroup label=""></optgroup>
         </select>
       <div class="fw__pop__text">
-        <svg width="116" height="25" viewBox="0 0 116 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg wclassth="116" height="25" viewBox="0 0 116 25" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M38.8823 4.58H40.6023V3.49H38.8823V2C39.4923 1.85 40.0723 1.68 40.5723 1.48L39.7323 0.56C38.7623 1 37.1523 1.38 35.7123 1.59C35.8523 1.84 36.0023 2.26 36.0523 2.52C36.5923 2.45 37.1623 2.36 37.7323 2.25V3.49H35.8323V4.58H37.5023C37.0523 5.62 36.3223 6.76 35.6023 7.46C35.7923 7.76 36.0823 8.27 36.2023 8.62C36.7523 8.04 37.2823 7.18 37.7323 6.27V9.85H38.8823V6.4C39.2823 6.81 39.7023 7.26 39.9423 7.57L40.6323 6.55C40.3623 6.34 39.3723 5.49 38.8823 5.12V4.58ZM42.2323 1.74H41.0723V7.33H42.2323V1.74ZM43.4323 0.719999V8.41C43.4323 8.59 43.3523 8.65 43.1623 8.66C42.9523 8.66 42.3123 8.66 41.6623 8.63C41.8423 8.97 42.0223 9.52 42.0723 9.86C42.9823 9.87 43.6523 9.83 44.0623 9.63C44.4723 9.44 44.6123 9.11 44.6123 8.42V0.719999H43.4323ZM50.6543 5.83V4.6H52.7643V5.83H50.6543ZM47.5443 5.83C47.5643 5.46 47.5743 5.1 47.5743 4.78V4.6H49.4543V5.83H47.5443ZM49.4543 2.33V3.49H47.5743V2.33H49.4543ZM52.7643 3.49H50.6543V2.33H52.7643V3.49ZM53.9443 1.2H46.3943V4.77C46.3943 6.17 46.3043 7.95 45.2143 9.15C45.4843 9.29 45.9643 9.7 46.1543 9.92C46.8743 9.14 47.2343 8.04 47.4143 6.95H49.4543V9.74H50.6543V6.95H52.7643V8.45C52.7643 8.63 52.6943 8.69 52.5043 8.69C52.3243 8.69 51.6643 8.7 51.1043 8.67C51.2543 8.98 51.4443 9.49 51.4843 9.81C52.3843 9.82 52.9943 9.8 53.4043 9.6C53.8043 9.42 53.9443 9.1 53.9443 8.46V1.2ZM58.7163 0.759999C58.6463 2.08 58.7863 6.62 54.7963 8.83C55.1963 9.11 55.5863 9.47 55.7963 9.78C57.9063 8.49 58.9563 6.56 59.4963 4.76C60.0563 6.6 61.1763 8.66 63.4363 9.78C63.6263 9.46 63.9863 9.05 64.3563 8.77C60.6263 7.02 60.1263 2.71 60.0463 1.33C60.0563 1.12 60.0663 0.92 60.0763 0.759999H58.7163ZM69.4983 6.68V5.72C69.5583 5.78 69.5983 5.83 69.6383 5.87C69.7983 5.65 69.9583 5.41 70.0983 5.15C70.2783 5.87 70.4983 6.53 70.7783 7.12C70.3383 7.74 69.7583 8.24 69.0183 8.63C68.7883 8.46 68.4983 8.28 68.1883 8.1C68.4383 7.71 68.6083 7.24 68.7183 6.68H69.4983ZM66.6283 6.68H67.5983C67.5083 7.04 67.3783 7.34 67.2183 7.59C66.9283 7.45 66.6383 7.33 66.3383 7.21L66.6283 6.68ZM72.0083 3.43C71.8983 4.31 71.7183 5.1 71.4683 5.78C71.1983 5.06 70.9983 4.27 70.8583 3.43H72.0083ZM73.7983 3.43V2.33H71.1383C71.2683 1.8 71.3783 1.25 71.4583 0.69L70.2583 0.529999C70.0183 2.31 69.5383 4.01 68.6883 5.03C68.9083 5.18 69.2683 5.49 69.4983 5.72H67.1183L67.3583 5.24L66.9283 5.15H67.5683V3.94C67.9583 4.25 68.3783 4.6 68.5983 4.81L69.2283 3.99C69.0083 3.84 68.2983 3.42 67.8183 3.15H69.4583V2.21H68.5083C68.7483 1.9 69.0583 1.48 69.3683 1.05L68.3683 0.65C68.2083 1.03 67.9283 1.56 67.6983 1.92L68.3583 2.21H67.5683V0.529999H66.4783V2.21H65.6383L66.2783 1.93C66.1983 1.58 65.9383 1.07 65.6783 0.69L64.8183 1.05C65.0283 1.41 65.2483 1.87 65.3383 2.21H64.5783V3.15H66.1383C65.6583 3.67 64.9883 4.15 64.3783 4.4C64.5983 4.61 64.8483 5 64.9783 5.26C65.4783 4.98 66.0183 4.56 66.4783 4.1V5.06L66.2583 5.01C66.1583 5.23 66.0383 5.47 65.9183 5.72H64.4683V6.68H65.4183C65.1683 7.16 64.9183 7.61 64.6983 7.96L65.7383 8.28L65.8483 8.09C66.0383 8.17 66.2283 8.26 66.4083 8.36C65.9383 8.63 65.3183 8.79 64.5083 8.9C64.6983 9.14 64.9083 9.54 64.9783 9.88C66.0483 9.66 66.8483 9.37 67.4383 8.93C67.8483 9.19 68.2083 9.45 68.4783 9.68L68.9283 9.22C69.0883 9.46 69.2383 9.73 69.3083 9.9C70.1783 9.46 70.8683 8.92 71.4183 8.26C71.8683 8.91 72.4183 9.44 73.0983 9.85C73.2783 9.52 73.6483 9.06 73.9183 8.82C73.1883 8.44 72.6083 7.87 72.1483 7.16C72.6883 6.15 73.0283 4.91 73.2383 3.43H73.7983ZM78.2803 1.17L76.7903 1.02C76.8103 1.65 76.7203 2.38 76.5803 3.13C76.0703 3.18 75.6003 3.21 75.2903 3.22C74.9203 3.23 74.5903 3.25 74.2203 3.22L74.3403 4.58C74.6503 4.53 75.1703 4.46 75.4603 4.41C75.6403 4.39 75.9603 4.35 76.3203 4.31C75.9503 5.68 75.2603 7.7 74.2903 9.01L75.5903 9.53C76.5103 8.06 77.2503 5.69 77.6303 4.17C77.9203 4.15 78.1703 4.13 78.3303 4.13C78.9503 4.13 79.3003 4.24 79.3003 5.04C79.3003 6.03 79.1603 7.24 78.8903 7.81C78.7303 8.14 78.4803 8.24 78.1403 8.24C77.8803 8.24 77.3003 8.14 76.9203 8.03L77.1303 9.35C77.4703 9.42 77.9503 9.49 78.3303 9.49C79.0903 9.49 79.6403 9.27 79.9703 8.57C80.4003 7.7 80.5403 6.08 80.5403 4.9C80.5403 3.46 79.7903 2.99 78.7303 2.99C78.5203 2.99 78.2303 3.01 77.8903 3.03C77.9603 2.67 78.0403 2.3 78.1003 2C78.1503 1.75 78.2203 1.43 78.2803 1.17ZM82.7303 0.339999L81.9303 0.659999C82.2103 1.04 82.5303 1.63 82.7403 2.04L83.5303 1.7C83.3603 1.35 82.9903 0.719999 82.7303 0.339999ZM81.5403 0.79L80.7503 1.12C80.9803 1.44 81.2303 1.92 81.4303 2.3L80.5303 2.69C81.2403 3.57 81.9503 5.33 82.2103 6.44L83.4803 5.86C83.2003 4.97 82.4503 3.3 81.8503 2.37L82.3403 2.16C82.1503 1.79 81.7903 1.16 81.5403 0.79ZM38.0463 15.48V16.35H35.4163V15.48H38.0463ZM38.4163 18.97V19.98H35.4163V18.97H38.4163ZM34.2563 20.96H39.5863V17.98H35.4163V17.32H39.1963V14.51H37.1763C37.2963 14.26 37.4263 13.97 37.5463 13.68L36.1363 13.52C36.0863 13.8 35.9963 14.18 35.9063 14.51H34.2563V20.96ZM33.5963 15.27C33.2563 14.8 32.5263 14.18 31.9263 13.76L31.0463 14.48C31.6363 14.92 32.3463 15.58 32.6563 16.06L33.5963 15.27ZM33.3463 17.41H31.0363V18.5H32.1863V20.61C31.7463 20.95 31.2463 21.28 30.8163 21.53L31.3963 22.77C31.9463 22.35 32.3863 21.96 32.8263 21.57C33.4763 22.35 34.2963 22.63 35.5263 22.68C36.7163 22.73 38.7263 22.71 39.9263 22.65C39.9863 22.31 40.1663 21.73 40.2963 21.45C38.9663 21.55 36.7163 21.58 35.5463 21.53C34.5063 21.49 33.7563 21.22 33.3463 20.55V17.41ZM43.0283 15.32C43.0383 14.78 43.0383 14.23 43.0383 13.67H41.8683C41.8683 14.24 41.8683 14.79 41.8583 15.32H40.6883V16.48H41.8483C41.7783 18.82 41.5083 20.73 40.3883 22C40.6883 22.18 41.0783 22.58 41.2583 22.87C42.5483 21.39 42.8983 19.15 42.9983 16.48H44.0083C43.9483 19.82 43.8683 21.06 43.6783 21.33C43.5783 21.47 43.4883 21.51 43.3383 21.51C43.1483 21.51 42.7883 21.5 42.3883 21.47C42.5983 21.81 42.7083 22.33 42.7283 22.66C43.1983 22.68 43.6483 22.68 43.9383 22.62C44.2683 22.55 44.4783 22.45 44.7083 22.11C45.0183 21.65 45.0883 20.12 45.1783 15.86C45.1883 15.71 45.1883 15.32 45.1883 15.32H43.0283ZM46.8883 20.82V15.81H48.1783V20.82H46.8883ZM45.7383 14.67V22.66H46.8883V21.97H48.1783V22.59H49.3683V14.67H45.7383ZM54.8203 14.9C54.8803 15.07 54.9403 15.28 55.0203 15.51C53.9603 15.58 52.6803 15.55 51.1803 15.37L51.2003 16.65C52.9103 16.79 54.2803 16.78 55.4703 16.69C55.7503 17.36 56.1103 18.02 56.4103 18.5C56.1003 18.48 55.4403 18.42 54.9503 18.38L54.8503 19.44C55.6903 19.51 56.9503 19.64 57.5103 19.75L58.1303 18.85C57.9503 18.65 57.7603 18.43 57.5903 18.18C57.3403 17.82 56.9903 17.2 56.7003 16.55C57.3303 16.46 57.9703 16.34 58.4803 16.19L58.3203 14.93C57.6903 15.12 56.9903 15.28 56.2703 15.39C56.1003 14.89 55.9503 14.35 55.8503 13.82L54.5003 13.98C54.6303 14.31 54.7403 14.67 54.8203 14.9ZM53.1803 18.78L51.9303 18.49C51.5903 19.17 51.4003 19.74 51.4003 20.35C51.4003 21.79 52.6903 22.58 54.7303 22.59C55.9503 22.59 56.8503 22.46 57.4203 22.35L57.4903 21.09C56.7803 21.23 55.9003 21.33 54.8103 21.33C53.4403 21.33 52.6903 20.97 52.6903 20.13C52.6903 19.69 52.8603 19.25 53.1803 18.78ZM62.0623 14.79C62.0623 14.9 62.0423 15.18 62.0223 15.56C61.5923 15.62 61.1523 15.67 60.8623 15.69C60.5123 15.71 60.2823 15.71 59.9923 15.7L60.1223 16.98C60.6823 16.9 61.4523 16.8 61.9423 16.74C61.9323 16.98 61.9123 17.22 61.8923 17.45C61.3223 18.29 60.3223 19.61 59.7523 20.31L60.5423 21.4C60.8923 20.93 61.3823 20.2 61.8023 19.57C61.7923 20.41 61.7823 20.99 61.7623 21.77C61.7623 21.93 61.7523 22.28 61.7323 22.51H63.1123C63.0823 22.28 63.0523 21.92 63.0423 21.74C62.9823 20.8 62.9823 19.96 62.9823 19.14C62.9823 18.88 62.9923 18.61 63.0023 18.33C63.8223 17.43 64.9023 16.51 65.6423 16.51C66.0623 16.51 66.3223 16.76 66.3223 17.25C66.3223 18.16 65.9623 19.63 65.9623 20.71C65.9623 21.68 66.4623 22.22 67.2123 22.22C68.0223 22.22 68.6323 21.91 69.0923 21.48L68.9323 20.07C68.4723 20.53 68.0023 20.79 67.6323 20.79C67.3823 20.79 67.2523 20.6 67.2523 20.34C67.2523 19.31 67.5823 17.84 67.5823 16.8C67.5823 15.96 67.0923 15.32 66.0123 15.32C65.0423 15.32 63.8923 16.13 63.1023 16.82C63.1123 16.74 63.1123 16.67 63.1223 16.6C63.2923 16.34 63.4923 16.01 63.6323 15.83L63.2623 15.35C63.3323 14.73 63.4223 14.22 63.4823 13.94L62.0223 13.89C62.0723 14.2 62.0623 14.5 62.0623 14.79ZM71.7743 20.87C71.7743 20.53 72.1643 20.25 72.8743 20.25C73.1543 20.25 73.4243 20.28 73.6943 20.32C73.7043 20.5 73.7043 20.64 73.7043 20.75C73.7043 21.33 73.3543 21.48 72.8243 21.48C72.1343 21.48 71.7743 21.25 71.7743 20.87ZM74.9043 13.91H73.5543C73.5943 14.1 73.6143 14.41 73.6143 14.6C73.6143 14.72 73.6143 14.88 73.6143 15.07C73.4843 15.07 73.3543 15.07 73.2243 15.07C72.6143 15.07 71.4743 14.97 70.7543 14.85L70.7843 15.99C71.4443 16.08 72.6043 16.17 73.2343 16.17C73.3543 16.17 73.4743 16.17 73.6043 16.17C73.5943 16.51 73.5943 16.87 73.5943 17.2C73.4343 17.2 73.2743 17.2 73.1143 17.2C72.5843 17.2 71.3543 17.13 70.7043 17.01L70.7143 18.19C71.3743 18.27 72.5143 18.32 73.0943 18.32C73.2743 18.32 73.4443 18.32 73.6143 18.32C73.6243 18.62 73.6343 18.94 73.6543 19.25C73.4543 19.23 73.2443 19.22 73.0343 19.22C71.4943 19.22 70.5643 19.93 70.5643 20.94C70.5643 22 71.4043 22.61 73.0043 22.61C74.3243 22.61 74.9743 21.95 74.9743 21.1C74.9743 20.99 74.9743 20.87 74.9643 20.73C75.7643 21.09 76.4443 21.62 76.9843 22.12L77.7043 21C77.1243 20.52 76.1643 19.85 74.9043 19.49C74.8743 19.09 74.8543 18.68 74.8343 18.3C75.7943 18.27 76.5743 18.2 77.4743 18.1L77.4843 16.92C76.6743 17.03 75.8243 17.11 74.8143 17.16C74.8143 16.85 74.8143 16.48 74.8143 16.13C75.7843 16.08 76.6943 15.99 77.3543 15.91L77.3643 14.76C76.4843 14.91 75.6543 14.99 74.8343 15.03C74.8343 14.87 74.8343 14.72 74.8443 14.62C74.8543 14.36 74.8743 14.11 74.9043 13.91ZM85.0563 13.94H83.6063C83.6363 14.06 83.6763 14.4 83.7063 14.81C83.7163 14.89 83.7163 14.99 83.7263 15.12C82.3663 15.14 80.5463 15.18 79.4063 15.18L79.4363 16.39C80.6663 16.32 82.2263 16.26 83.7363 16.24C83.7463 16.46 83.7463 16.69 83.7463 16.91C83.6163 16.89 83.4863 16.88 83.3463 16.88C82.2563 16.88 81.3463 17.62 81.3463 18.75C81.3463 19.97 82.2963 20.59 83.0663 20.59C83.2263 20.59 83.3763 20.57 83.5163 20.54C82.9663 21.14 82.0863 21.47 81.0763 21.68L82.1463 22.74C84.5863 22.06 85.3463 20.4 85.3463 19.1C85.3463 18.58 85.2263 18.11 84.9863 17.73C84.9863 17.29 84.9763 16.74 84.9763 16.23C86.3363 16.23 87.2663 16.25 87.8663 16.28L87.8763 15.1C87.3563 15.09 85.9863 15.11 84.9763 15.11C84.9863 14.99 84.9863 14.88 84.9863 14.8C84.9963 14.64 85.0363 14.1 85.0563 13.94ZM82.5463 18.73C82.5463 18.2 82.9263 17.93 83.3163 17.93C83.5863 17.93 83.8263 18.05 83.9663 18.28C84.1063 19.16 83.7363 19.48 83.3163 19.48C82.9163 19.48 82.5463 19.19 82.5463 18.73Z" fill="#424242"/>
           <path d="M1 1L14.4227 24.2487" stroke="#424242"/>
           <path d="M115.093 1L101.67 24.2487" stroke="#424242"/>
         </svg>
       </div>
-      <div id="fw__goParkSelect">
-        <span class="fw__goParkSelect__text">遊びにいく</span>
+      <div class="fw__goParkSelect">
+        <span @click='showPopup' class="fw__goParkSelect__text">遊びにいく</span>
       </div>
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  data () {
+    return {
+      parkName: null
+    }
+  },
+  methods: {
+    showPopup () {
+      this.parkName = 'aaa'
+    }
+  }
+}
+</script>
+
+<style lang='scss' scoped>
+.floatWindow{
+display: block;
+z-index: 10;
+background-color: #FFF;
+opacity: 100%;
+position: relative;
+width: auto;
+height: 338px;
+margin: 10px 10px 0 10px;
+border-radius: 30px;
+box-shadow: 0px 2px 2px 0 rgba(0, 0, 0, 0.30);
+}
+
+.fw__parkName{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 700;
+font-size: 16px;
+color: #424242;
+position: relative;
+width: fit-content;
+left: 18px;
+top: 16px;
+}
+
+.fw__parkAddress{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 400;
+font-size: 11px;
+color: #A9A9A9;
+position: relative;
+left: 18px;
+top: 16px;
+}
+
+.fw__status{
+z-index: 11;
+font-size: 0;
+position: relative;
+width: 180px;
+height: 33px;
+margin: 25px 18px 0 auto;
+}
+
+.fw__status__h1{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 700;
+font-size: 12px;
+color: #424242;
+margin: 0;
+}
+
+.fw__status__h1_num0 {
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 700;
+font-size: 12px;
+color: #424242;
+margin: 0;
+position: relative;
+right: 15px;
+}
+
+.fw__status__numUser{
+z-index: 11;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+font-size: 35px;
+text-align: right;
+color: #424242;
+position: absolute;
+right: 12px;
+margin: 0 8px 0 0;
+bottom: 6px;
+}
+
+.fw__status__h2{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 700;
+font-size: 16px;
+text-align: right;
+color: #424242;
+position: absolute;
+bottom: 0;
+right: 1px;
+margin: 0;
+}
+
+.fw__statistics{
+z-index: 11;
+width: auto;
+height: 120px;
+background: #424242;
+position: relative;
+margin: 15px 18px 0 18px;
+}
+
+.fw__select{
+z-index: 11;
+position: relative;
+width: auto;
+height: 68px;
+margin: 21px 18px 0 18px;
+}
+
+option {
+text-align: right;
+}
+
+.fw__numUserSelect{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 400;
+font-size: 11px;
+text-indent: 15px;
+color: #A8A8A8;
+position: absolute;
+width: calc(40vw / 2 - 2.5px);
+height: 29px;
+background-color: #FFF;
+border-color: #19C0F4 !important;
+border-style: solid;
+border-width: 1.5px;
+border-radius: 30px 0 0 30px;
+box-shadow: 0px 2px 2px 0 rgba(0, 0, 0, 0.30);
+margin: 0 0 0 auto;
+overflow: hidden;
+}
+
+.fw__durationSelect{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 400;
+font-size: 11px;
+text-indent: 3px;
+color: #A8A8A8;
+position: absolute;
+width: calc(40vw / 2 - 2.5px);
+height: 29px;
+background-color: #FFF;
+border-color: #19C0F4 !important;
+border-style: solid;
+border-width: 1.5px;
+border-radius: 0 30px 30px 0;
+box-shadow: 0px 2px 2px 0 rgba(0, 0, 0, 0.30);
+margin: 0 0 0 calc(40vw / 2 - 2.5px + 5px);
+overflow: hidden;
+}
+
+.fw__sTimeSelect{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 400;
+font-size: 11px;
+text-indent: 21px;
+color: #A8A8A8;
+position: absolute;
+width: 40vw;
+height: 29px;
+background-color: #FFF;
+border-color: #19C0F4 !important;
+border-style: solid;
+border-width: 1.5px;
+border-radius: 30px;
+box-shadow: 0px 2px 2px 0 rgba(0, 0, 0, 0.30);
+margin: 39px 0 0 auto;
+overflow: hidden;
+}
+
+.fw__goParkSelect{
+z-index: 11;
+position: absolute;
+right: 0;
+width: 100px; /*28vw*/
+height: 29px;
+background-color: #19C0F4;
+border-radius: 30px;
+box-shadow: 0px 2px 2px 0 rgba(0, 0, 0, 0.30);
+margin: 39px 0 0 auto;
+}
+
+.fw__goParkSelect__text{
+z-index: 11;
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 700;
+font-size: 14px;
+color: white;
+text-align: center;
+position: absolute;
+top: 4px;
+right: 0;
+bottom: 0;
+left: 0;
+line-height: 20px
+}
+
+.fw__pop__text{
+z-index: 11;
+position: absolute;
+right: 5px;
+wclassth: 102px;
+height: 29px;
+margin: 0 0 0 auto;
+}
+</style>

@@ -3,6 +3,7 @@
     <div class="body">
       <ConceptMsg />
       <Map />
+      <FloatWindow />
       <chart />
       <Contact />
     </div>

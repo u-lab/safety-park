@@ -2,7 +2,7 @@
   <div class='map'>
     <MglMap :accessToken='accessToken' :mapStyle='mapStyle' :center='center' :zoom='zoom' :minZoom='minzoom'>
       <MglGeolocateControl position='bottom-right' />
-      <MglMarker v-for="(l, key) in geojson" :key="key" :coordinates="l.geometry.coordinates" color='red'>
+      <MglMarker @click='showPopup' v-for="(l, key) in geojson" :key="key" :coordinates="l.geometry.coordinates" color='red'>
         <MglPopup>
           <div>
             <div>{{ l.properties.id }}</div>
@@ -41,6 +41,16 @@ export default {
     this.mapbox = Mapbox
   },
   methods: {
+    // popupウィンドウの表示
+    showPopup () {
+      const el = document.createElement('div')
+      el.className = 'marker'
+      el.style.backgroundImage = 'url(/mapbox-icon.png)'
+      el.style.width = '36px'
+      el.style.height = '48px'
+      el.style.backgroundSize = '36px 48px'
+      el.style.cursor = 'pointer'
+    },
     // GeoJsonの取得
     async fetchGeoJson () {
       // geojsonを取得
